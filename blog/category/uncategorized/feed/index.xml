@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; alphaback-blog</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 07 Aug 2022 20:08:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Aug-07-2022 Retro￼</title>
+		<link>./../../../aug-07-2022-retro%ef%bf%bc/index.html</link>
+					<comments>./../../../aug-07-2022-retro%ef%bf%bc/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[rod]]></dc:creator>
+		<pubDate>Sun, 07 Aug 2022 20:08:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=36</guid>
+
+					<description><![CDATA[Institutional Capital &#38; Upgradeable Contracts This week was delightful! We released upgradeable contracts and analytics in staging, and we welcomed an institutional investor on our cap table. Highlights Fundraising. We’re excited to welcome&#160;Hashkey Capital&#160;in our round, an institutional fund with over 200 portfolio companies that has been investing exclusively in blockchain technology since 2015. Upgradeable [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>Institutional Capital &amp; Upgradeable Contracts</h2>
+
+
+
+<p id="e7ff">This week was delightful! We released upgradeable contracts and analytics in staging, and we welcomed an institutional investor on our cap table.</p>
+
+
+
+<h2 id="6ce0">Highlights</h2>
+
+
+
+<ul><li><strong>Fundraising</strong>. We’re excited to welcome&nbsp;<strong>Hashkey Capital</strong>&nbsp;in our round, an institutional fund with over 200 portfolio companies that has been investing exclusively in blockchain technology since 2015.</li><li><strong>Upgradeable contracts</strong>. We released our smart contracts as upgradeable code in staging. Next, we’ll conduct QA and aim for a production release in the next sprint.</li><li><strong>Analytics</strong>. We can now track connected wallets, enabling us to identify users who should receive payments <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f911.png" alt="🤑" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://miro.medium.com/max/1400/1*MmBV0wmhmicchNsavaJ4yQ.png" alt=""/></figure>
+
+
+
+<h2 id="f87b">Challenges</h2>
+
+
+
+<ul><li><strong>Deployments</strong>. A new code package introduced conflicting dependencies. We lost two days of dev time diagnosing and fixing that issue in our staging environment. Production systems were not affected.</li></ul>
+
+
+
+<h2 id="4c3b">Asks</h2>
+
+
+
+<ul><li>We’re working on user research and mockups of our next UX. Signup for a&nbsp;<a href="https://calendly.com/rodfuentes/office-hours" rel="noreferrer noopener" target="_blank">short user interview here</a>.</li><li>Do you know any NFT collections who would be interested in a simple win-win collaboration? We’ll promote them on AlphaBack, and they encourage their community to install our extension. Here are a few that we’re approaching:</li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://miro.medium.com/max/1400/1*jp0I-lq13J5ZJvPRVIYv-A.png" alt=""/></figure>
+
+
+
+<h2 id="b077">Food for Thought</h2>
+
+
+
+<p id="2d1d">We’ve been thinking about traditional advertising models and how we can leverage them to provide users with more yield in the future.</p>
+
+
+
+<p id="60aa">For instance, we can empower users to&nbsp;<em>control</em>&nbsp;their advertising experience, allowing them to offer more data to advertisers in exchange for greater payments. In one scenario, users may get a multiplier on rewards if they connect more wallets. Or perhaps users opt-in to share browser activity and history, leading to another multiplier. We believe these will be rich data sources in the future (post-cookie) advertising world — and users should benefit directly from offering their data.</p>
+
+
+
+<p id="6f64">Additionally, we could reward users based on the number of ad views they generate in their typical browsing experience. Cost-per-click campaigns are also possible in the future, where users earn a percentage of each paid click. Similarly, we could introduce cost-per-action campaigns that are uniquely tied to wallet addresses, encouraging higher rewards for users and conversions for advertisers.</p>
+
+
+
+<p id="b73a">That said, we leave those ideas for future implementation because they require careful product development to prevent abuse. Any model where the user benefits from doing more of the paid activity presents a moral hazard. For example, did the user click on the ad to earn money, or were they genuinely interested in the advertised product? Fortunately, advertising fraud is an old problem with well-established methods for detecting such activity.</p>
+
+
+
+<p id="cc1b">But, first things first,&nbsp;<em>we must grow our user base</em>&nbsp;to make all of this possible. So I want to thank you for your support as we climb to 1M users.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p id="8792"><strong>Rod Fuentes<br></strong>Co-founder, CEO @&nbsp;<a href="http://alphaback.xyz/" rel="noreferrer noopener" target="_blank">AlphaBack</a>&nbsp;— paying users to look at NFTs, with the goal of becoming a DAO-owned ad network.<br><a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" rel="noreferrer noopener" target="_blank"><strong>Install the Browser Extension</strong></a><strong>&nbsp;today!</strong></p>
+
+
+
+<figure class="wp-block-image"><img src="https://miro.medium.com/max/1400/0*2k2EbiSBqzx_kUno.png" alt=""/></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../aug-07-2022-retro%ef%bf%bc/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>./../../../hello-world/index.html</link>
+					<comments>./../../../hello-world/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[rod]]></dc:creator>
+		<pubDate>Sun, 07 Aug 2022 19:44:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../hello-world/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
