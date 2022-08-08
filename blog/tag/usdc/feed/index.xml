@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>USDC &#8211; AlphaBack</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Get Paid to Look at NFTs</description>
+	<lastBuildDate>Mon, 08 Aug 2022 19:23:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/08/cropped-favicon-32x32.png</url>
+	<title>USDC &#8211; AlphaBack</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Won 2nd Place at a Hackathon + Solution to Pay Users</title>
+		<link>./../../../won-2nd-place-at-a-hackathon-solution-to-pay-users/index.html</link>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Sun, 17 Jul 2022 19:07:00 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[ads]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[hackathon]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[USDC]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=107</guid>
+
+					<description><![CDATA[GM Frens 👋 It was an exciting week for AlphaBack.xyz. We won a hackathon and found an elegant solution to distribute USDC to users. A quick about us in case you’re new here: AlphaBack is building a browser extension that pays users to look at NFTs (ads), with the goal of building a DAO owned [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>GM Frens <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44b.png" alt="👋" class="wp-smiley" style="height: 1em; max-height: 1em;" /> It was an exciting week for <a href="https://alphaback.xyz/" rel="noreferrer noopener" target="_blank">AlphaBack.xyz</a>. We won a hackathon and found an elegant solution to distribute USDC to users.</p>
+
+
+
+<p>A quick about us in case you’re new here:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>AlphaBack is building a browser extension that pays users to look at NFTs (ads), with the goal of building a DAO owned ad-network.</p></blockquote>
+
+
+
+<p>People hate ads, and advertisers know that. But ads are not going away. In a world where users can choose between (A) look at ads and get $0 or (B) look at ads and get $255 per year from AlphaBack, we strongly believe that users will choose (B) and install our browser plug-in.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn-images-1.medium.com/max/2000/1*T4U4mVTGhudbx45sBv89Lw.png" alt=""/></figure>
+
+
+
+<p>On top of monetary incentives, we give users power over their advertising experience, enabling them to give more or less of their data in exchange for more or less payment.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn-images-1.medium.com/max/2000/1*RkxK-UjUsQ78ennft9Ox5A.png" alt=""/></figure>
+
+
+
+<p>OK, let’s jump into the weekcap for July 10–17:</p>
+
+
+
+<h3>Highlights</h3>
+
+
+
+<ul><li><strong>Won Hackathon!</strong> AlphaBack won 2nd place and a $5,000 prize in the <a href="https://www.youtube.com/watch?v=j6KTJVvWhng" rel="noreferrer noopener" target="_blank"><em>Encode x Polygon Hackathon</em></a>. Next, we’re competing in the HackFS competition, where we may win up to $100,000 in prizes.</li><li><strong>Payment Solution</strong>. In a past retro, we noted how expensive it can be to airdrop USDC to 100K users – even on inexpensive L2 chains, like Polygon. We now have an elegant solution, where we maintain a running balance per user using read requests and an index of their last withdrawal, rather than updating state variables per user balance.</li><li><strong>Phase 2 Investor Meetings</strong>. We’re now in phase 2, aka “Investment Committee Meetings,” with several investors. We’re also getting more inbound interest via the <a href="https://stonks.com/deal/alphaback" rel="noreferrer noopener" target="_blank">Stonks deal room</a>. We’re focusing on cap table composition, optimizing for investors who can help with tokenomics, DAO setup, access to NFT influencers, and/or ad:tech connections.</li></ul>
+
+
+
+<h3>Obstacles</h3>
+
+
+
+<ul><li><strong>Delayed Release</strong>. We found a bug during our pre-release QA, which delayed our deployment. We’re targeting July 20 for the next code release.</li></ul>
+
+
+
+<h3><strong>How You Can&nbsp;Help</strong></h3>
+
+
+
+<ul><li>We have an updated list of investors who’d be interested in meeting us given their web3 thesis and portfolio. LMK if you have any inroads here:</li><li><a href="https://medium.com/u/a2ed35ece67e" target="_blank" rel="noreferrer noopener">Ameet Shah</a> @ Golden Ventures</li><li><a href="https://medium.com/u/da2a49354863" target="_blank" rel="noreferrer noopener">Paul Murphy</a> @ Lightspeed</li><li><a href="https://medium.com/u/17ad77c04cb7" target="_blank" rel="noreferrer noopener">Josh Fraser</a> @ Origin Protocol</li><li><a href="https://www.linkedin.com/in/asherd/" rel="noreferrer noopener" target="_blank">Asher Devang</a> @ AlphaGrep</li><li><a href="https://www.linkedin.com/in/davidaronoff" rel="noreferrer noopener" target="_blank">David Aranoff</a> @ FlyBridge Capital</li><li><a href="https://medium.com/u/b68cc3282d36" target="_blank" rel="noreferrer noopener">Vivek Sodera</a> @ Superhuman</li><li><a href="https://medium.com/u/921b0e9c4fdc" target="_blank" rel="noreferrer noopener">Edith Yeung</a> @ Race Capital</li><li><a href="https://medium.com/u/d57855f64587" target="_blank" rel="noreferrer noopener">Jenny Lefcourt</a> @ Freestyle Capital</li><li><a href="https://www.linkedin.com/in/patricknchang/" rel="noreferrer noopener" target="_blank">Patrick Chang</a> @ Dispersion Capital</li><li><a href="https://www.linkedin.com/in/julesmiller/" rel="noreferrer noopener" target="_blank">Jules Miller</a> @ Mindset Ventures</li><li><a href="https://medium.com/u/f6e261300f30" target="_blank" rel="noreferrer noopener">Brett deMarrais</a> @ Ludlow Ventures</li></ul>
+
+
+
+<p>Thanks again for your ongoing support <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>And remember to <a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe">install the Browser Extension</a> today!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -8,18 +8,50 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; alphaback-blog</title>
+	<title>Uncategorized &#8211; AlphaBack</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 07 Aug 2022 20:08:32 +0000</lastBuildDate>
+	<description>Get Paid to Look at NFTs</description>
+	<lastBuildDate>Mon, 08 Aug 2022 15:50:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/08/cropped-favicon-32x32.png</url>
+	<title>Uncategorized &#8211; AlphaBack</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
+		<title>this is a second post</title>
+		<link>./../../../this-is-a-second-post/index.html</link>
+					<comments>./../../../this-is-a-second-post/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[rod]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 15:50:19 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=59</guid>
+
+					<description><![CDATA[this is cool]]></description>
+										<content:encoded><![CDATA[
+<p>this is cool</p>
+
+
+
+<figure class="wp-block-image size-large"><img width="1024" height="652" src="./../../../wp-content/uploads/2022/08/Alphaback_Extension_transparent_clean-1024x652.png" alt="" class="wp-image-39" srcset="./../../../wp-content/uploads/2022/08/Alphaback_Extension_transparent_clean-1024x652.png 1024w, ./../../../wp-content/uploads/2022/08/Alphaback_Extension_transparent_clean-300x191.png 300w, ./../../../wp-content/uploads/2022/08/Alphaback_Extension_transparent_clean-768x489.png 768w, ./../../../wp-content/uploads/2022/08/Alphaback_Extension_transparent_clean-1200x764.png 1200w, ./../../../wp-content/uploads/2022/08/Alphaback_Extension_transparent_clean.png 1320w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../this-is-a-second-post/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Aug-07-2022 Retro￼</title>
 		<link>./../../../aug-07-2022-retro%ef%bf%bc/index.html</link>
 					<comments>./../../../aug-07-2022-retro%ef%bf%bc/index.html#respond</comments>

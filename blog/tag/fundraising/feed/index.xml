@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fundraising &#8211; AlphaBack</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Get Paid to Look at NFTs</description>
+	<lastBuildDate>Mon, 08 Aug 2022 23:13:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/08/cropped-favicon-32x32.png</url>
+	<title>fundraising &#8211; AlphaBack</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Institutional Capital &#038; Upgradeable Contracts</title>
+		<link>./../../../institutional-capital-upgradeable-contracts/index.html</link>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Sun, 07 Aug 2022 19:29:00 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[non-fungible tokens]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=117</guid>
+
+					<description><![CDATA[This week was delightful! We released upgradeable contracts and analytics in staging, and we welcomed an institutional investor on our cap table. Highlights Fundraising. We’re excited to welcome Hashkey Capital in our round, an institutional fund with over 200 portfolio companies that has been investing exclusively in blockchain technology since 2015. Upgradeable contracts. We released [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>This week was delightful! We released upgradeable contracts and analytics in staging, and we welcomed an institutional investor on our cap table.</p>
+
+
+
+<h3>Highlights</h3>
+
+
+
+<ul><li><strong>Fundraising</strong>. We’re excited to welcome <strong>Hashkey Capital</strong> in our round, an institutional fund with over 200 portfolio companies that has been investing exclusively in blockchain technology since 2015.</li><li><strong>Upgradeable contracts</strong>. We released our smart contracts as upgradeable code in staging. Next, we’ll conduct QA and aim for a production release in the next sprint.</li><li><strong>Analytics</strong>. We can now track connected wallets, enabling us to identify users who should receive payments <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f911.png" alt="🤑" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn-images-1.medium.com/max/2000/1*MmBV0wmhmicchNsavaJ4yQ.png" alt=""/></figure>
+
+
+
+<h3>Challenges</h3>
+
+
+
+<ul><li><strong>Deployments</strong>. A new code package introduced conflicting dependencies. We lost two days of dev time diagnosing and fixing that issue in our staging environment. Production systems were not affected.</li></ul>
+
+
+
+<h3>Asks</h3>
+
+
+
+<ul><li>We’re working on user research and mockups of our next UX. Signup for a <a href="https://calendly.com/rodfuentes/office-hours" rel="noreferrer noopener" target="_blank">short user interview here</a>.</li><li>Do you know any NFT collections who would be interested in a simple win-win collaboration? We’ll promote them on AlphaBack, and they encourage their community to install our extension. Here are a few that we’re approaching:</li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn-images-1.medium.com/max/2000/1*jp0I-lq13J5ZJvPRVIYv-A.png" alt=""/></figure>
+
+
+
+<h3>Food for&nbsp;Thought</h3>
+
+
+
+<p>We’ve been thinking about traditional advertising models and how we can leverage them to provide users with more yield in the future.</p>
+
+
+
+<p>For instance, we can empower users to <em>control</em> their advertising experience, allowing them to offer more data to advertisers in exchange for greater payments. In one scenario, users may get a multiplier on rewards if they connect more wallets. Or perhaps users opt-in to share browser activity and history, leading to another multiplier. We believe these will be rich data sources in the future (post-cookie) advertising world — and users should benefit directly from offering their data.</p>
+
+
+
+<p>Additionally, we could reward users based on the number of ad views they generate in their typical browsing experience. Cost-per-click campaigns are also possible in the future, where users earn a percentage of each paid click. Similarly, we could introduce cost-per-action campaigns that are uniquely tied to wallet addresses, encouraging higher rewards for users and conversions for advertisers.</p>
+
+
+
+<p>That said, we leave those ideas for future implementation because they require careful product development to prevent abuse. Any model where the user benefits from doing more of the paid activity presents a moral hazard. For example, did the user click on the ad to earn money, or were they genuinely interested in the advertised product? Fortunately, advertising fraud is an old problem with well-established methods for detecting such activity.</p>
+
+
+
+<p>But, first things first, <em>we must grow our user base</em> to make all of this possible. So I want to thank you for your support as we climb to 1M users.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" target="_blank">Install the AlphaBack Browser Extension</a> today!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Upgradeable Contracts &#038; More Fundraising</title>
+		<link>./../../../upgradeable-contracts-more-fundraising/index.html</link>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Sun, 31 Jul 2022 19:24:00 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=115</guid>
+
+					<description><![CDATA[We’re heads down building and fundraising, so here’s another quick weekcap. But first a brief intro in case you’re new here: AlphaBack is a browser extension that pays users to look at NFTs (ads), with the goal of building a DAO-owned ad&#160;network. Also, we’re experimenting with a new section on these Retros called, Food for [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We’re heads down building and fundraising, so here’s another quick weekcap. But first a brief intro in case you’re new here:</p>
+
+
+
+<blockquote class="wp-block-quote"><p><em>AlphaBack is a browser extension that pays users to look at NFTs (ads), with the goal of building a DAO-owned ad&nbsp;network.</em></p></blockquote>
+
+
+
+<p>Also, we’re experimenting with a new section on these Retros called, <em>Food for Thought</em>. Review that (at the bottom of this note) if you want to go deeper.</p>
+
+
+
+<h3>Highlights</h3>
+
+
+
+<ul><li><strong>Fundraising</strong>. We closed three more angel investors on our SAFE!</li><li><strong>Allocations</strong>. We’re now up to <strong>$965,000</strong> in written commitments from investors.</li><li><strong>Upgradeable Contracts</strong>. We‘re laying the foundation for faster iterations and future flexibility via upgradeable contracts. We estimate releasing that code within 2 weeks.</li></ul>
+
+
+
+<h3>Challenges</h3>
+
+
+
+<ul><li><strong>HackFS Hackathon</strong>. We had planned on participating in this hackathon, but prioritizing the release of the payments code meant that we didn’t have enough time for a meaningful submission.</li></ul>
+
+
+
+<h3><strong>How You Can&nbsp;Help</strong></h3>
+
+
+
+<ul><li>What do you think about <strong>DevCon</strong> in Bogotá? We’re considering whether to sponsor a small booth there given the amount of foot traffic we can convert – like we did at NFT NYC. Hit reply and send me your thoughts.</li><li>Here’s an updated list of investors who’d be interested in meeting us given their web3 thesis and portfolio. LMK if you have any connections with:<ul><li><a rel="noreferrer noopener" href="https://medium.com/u/6e972c073ad0" target="_blank">Jay Reinemann</a>, <a rel="noreferrer noopener" href="https://medium.com/u/230fce16714b" target="_blank">Propel Venture Partners</a></li><li><a rel="noreferrer noopener" href="https://medium.com/u/6bcf7b54d863" target="_blank">David Waxman</a>, TenOneTen Ventures</li><li><a rel="noreferrer noopener" href="https://medium.com/u/44033d788b" target="_blank">Evan Tana</a>, Script Capital</li><li>Rich Robinson, Animoca Brands</li><li><a rel="noreferrer noopener" href="https://medium.com/u/e46654556c28" target="_blank">Philipp Stauffer</a>, FYRFLY Venture Partners</li><li>Jeffrey Haas, CoinSmart</li><li><a rel="noreferrer noopener" href="https://medium.com/u/5019255f2188" target="_blank">Paul Veradittakit</a>, Pantera Capital</li><li><a rel="noreferrer noopener" href="https://medium.com/u/e7f113633e66" target="_blank">Alex Atallah</a>, Opensea Ventures</li><li><a rel="noreferrer noopener" href="https://medium.com/u/5cd2c5ec747a" target="_blank">Kathryn Haun</a>, Haun Ventures</li></ul></li></ul>
+
+
+
+<h3>Food for&nbsp;Thought</h3>
+
+
+
+<p>NFT projects continue to sprout. There are now approximately 80,300 NFT collections on the Ethereum blockchain, up from 15,540 in 2021. And that doesn’t include the growing number of NFT projects on Solana. Importantly, marketing is a top expense for any NFT project.</p>
+
+
+
+<p>A web3 marketing agency, Coinbound, says that “NFT marketing ranges from $10,000 to over $200,000 for a successful NFT marketing campaign.” According to <a href="https://lunarstrategy.com/what-is-the-best-marketing-budget-nft-project/" rel="noreferrer noopener" target="_blank">another agency</a>, “established NFT brands can spend upwards of €100,000+ monthly on their marketing to constantly reach out to new investors and broaden their reach. Start-up projects are recommended to have between €10,000 and €25,000 if they are really looking to expose their project to as many of the right eyes as possible.” Given the lack of better promotional alternatives, we believe this market is ripe and can produce meaningful revenue. This (partially) explains why we’re starting with promoting NFTs as a wedge into the broader advertising opportunity.</p>
+
+
+
+<p>Below is a bottom-up calculation that illustrates the potential of the market. First, let’s determine the potential ad spend per year per project. Marketing budgets for traditional B2C companies <a href="https://www.brightedge.com/glossary/define-marketing-budgets" rel="noreferrer noopener" target="_blank">typically range from 5 to 25 percent of a company’s revenue</a> or revenue targets, depending on company size, stage of growth. One <a href="https://www.bdc.ca/en/articles-tools/marketing-sales-export/marketing/what-average-marketing-budget-for-small-business" rel="noreferrer noopener" target="_blank">survey of SMBs</a> suggests that companies earning less than $2M in revenue spend $14K in online marketing. While a <a href="https://ppcexpo.com/blog/how-much-do-small-businesses-spend-on-advertising" rel="noreferrer noopener" target="_blank">2019 survey suggests</a> that SMB companies spend $10K–$50K in online advertising. Let’s assume that NFT projects have similar marketing spend, approximately $1.2K per month. That amount aligns with the marketing budgets suggested by web3 agencies for NFT projects (above).</p>
+
+
+
+<p>Assuming there are 80,300 NFT collections, and they <a href="https://cryptopotato.com/report-over-100-increase-in-number-of-ethereum-based-nft-collections-in-2022/" rel="noreferrer noopener" target="_blank">grow 30% YoY</a>, then there may be 104K NFT projects by 2023. NFT collections follow power law distributions, so most of the projects will be small $1.2K/mo advertisers, while a few (1%) will be power users with larger budgets (e.g., 10x higher, as per the web3 agency example ranges above). Therefore, we calculate:</p>
+
+
+
+<p>(99% * 104K projects * 1.2K/mo * 12 months) +&nbsp;<br>(1% * 104K projects * 10.2K/mo * 12 months) = $1,609,920,000.</p>
+
+
+
+<p>In the future, NFT projects will turn to trusted sources of quality advertising to reach broader yet targeted audiences, <strong>because the current alternatives are depressing</strong> – from con artists, Discord shillers, to Twitter feeds littered with these giveaways:</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr"><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f381.png" alt="🎁" class="wp-smiley" style="height: 1em; max-height: 1em;" /> MEGA GIVEAWAY <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f381.png" alt="🎁" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br><br>10x WL spots for <a href="https://twitter.com/WhoDunItNFT?ref_src=twsrc%5Etfw">@WhoDunItNFT</a> <br>10x WL spots for <a href="https://twitter.com/DoadsNFT?ref_src=twsrc%5Etfw">@DoadsNFT</a> <br>10x WL spots for <a href="https://twitter.com/DopeBearsNFT_?ref_src=twsrc%5Etfw">@DopeBearsNFT_</a> <br><br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f39f.png" alt="🎟" class="wp-smiley" style="height: 1em; max-height: 1em;" /> follow all 3 accounts <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2b06.png" alt="⬆" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &amp; <a href="https://twitter.com/moviclade1?ref_src=twsrc%5Etfw">@moviclade1</a> <br><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f39f.png" alt="🎟" class="wp-smiley" style="height: 1em; max-height: 1em;" /> like, retweet and tag friends <br><br>24H <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/23f0.png" alt="⏰" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/FreeMint?src=hash&amp;ref_src=twsrc%5Etfw">#FreeMint</a> <a href="https://twitter.com/hashtag/FreeNFT?src=hash&amp;ref_src=twsrc%5Etfw">#FreeNFT</a> <a href="https://twitter.com/hashtag/NFTCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#NFTCommunity</a> <a href="https://twitter.com/hashtag/NFT?src=hash&amp;ref_src=twsrc%5Etfw">#NFT</a> <a href="https://twitter.com/hashtag/NFTs?src=hash&amp;ref_src=twsrc%5Etfw">#NFTs</a> <a href="https://twitter.com/hashtag/NFTGiveaway?src=hash&amp;ref_src=twsrc%5Etfw">#NFTGiveaway</a> <a href="https://twitter.com/hashtag/ETH?src=hash&amp;ref_src=twsrc%5Etfw">#ETH</a> <a href="https://twitter.com/hashtag/Ethereum?src=hash&amp;ref_src=twsrc%5Etfw">#Ethereum</a> <a href="https://twitter.com/hashtag/Free?src=hash&amp;ref_src=twsrc%5Etfw">#Free</a> <a href="https://t.co/4TjZc3SS2s">pic.twitter.com/4TjZc3SS2s</a></p>&mdash; moviclade (@moviclade1) <a href="https://twitter.com/moviclade1/status/1553297582104928256?ref_src=twsrc%5Etfw">July 30, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Our goal is to attract enough users to <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" target="_blank">download our extension</a>, such that we can provide a welcome alternative to NFT collections who need to promote their projects.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Payments Code Released &#038; Fundraising Continues</title>
+		<link>./../../../payments-code-released-fundraising-continues/index.html</link>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Sun, 24 Jul 2022 19:20:00 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=109</guid>
+
+					<description><![CDATA[Hi Friends 👋 this is a quick weekcap, as we’re heads down building and fundraising. Highlights Fundraising. We closed another investor on our YC SAFE, building more momentum on this financing. Allocations. We’re now up to&#160;$875,000&#160;in written commitments from investors. Deployed Payments Code. We deployed the code that takes USDC from promoters and distributes payments [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p id="4f86">Hi Friends <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44b.png" alt="👋" class="wp-smiley" style="height: 1em; max-height: 1em;" /> this is a quick weekcap, as we’re heads down building and fundraising.</p>
+
+
+
+<h3 id="c57e">Highlights</h3>
+
+
+
+<ul><li><strong>Fundraising</strong>. We closed another investor on our YC SAFE, building more momentum on this financing.</li><li><strong>Allocations</strong>. We’re now up to&nbsp;<strong>$875,000</strong>&nbsp;in written commitments from investors.</li><li><strong>Deployed Payments Code</strong>. We deployed the code that takes USDC from promoters and distributes payments to users <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<h3 id="a59c">Challenges</h3>
+
+
+
+<ul><li><strong>Analytics</strong>. We hypothesized that we could use Google Analytics as a data warehouse for our prototype. While pushing data in has been simple, extracting data has been more complex than expected. We’ll try another approach this coming week. If that does not work, then we’ll need to explore other solutions.</li></ul>
+
+
+
+<h3 id="9287"><strong>How You Can Help</strong></h3>
+
+
+
+<ul><li>We have an updated list of investors who’d be interested in meeting us given their web3 thesis and portfolio. LMK if you have any inroads here:</li><li><a href="https://medium.com/u/2e459bb11eca?source=post_page-----2d95a300dd7f--------------------------------" rel="noreferrer noopener" target="_blank">Sandeep Nailwal</a>&nbsp;@ Polygon</li><li><a href="https://www.linkedin.com/in/nkhera" rel="noreferrer noopener" target="_blank">Neha Khera</a>&nbsp;@ 2048 Ventures</li><li><a href="https://medium.com/u/733d25fcbb0f?source=post_page-----2d95a300dd7f--------------------------------" rel="noreferrer noopener" target="_blank">Rachel Soper Sanders</a>&nbsp;@ 2048 Ventures</li><li><a href="https://www.linkedin.com/in/ldiao" rel="noreferrer noopener" target="_blank">Lawrence Diao</a>&nbsp;@ Dragonfly Capital</li><li><a href="https://medium.com/u/77ec4b3da069?source=post_page-----2d95a300dd7f--------------------------------" rel="noreferrer noopener" target="_blank">Hadley Harris</a>&nbsp;@ Eniac Ventures</li><li><a href="https://medium.com/u/7c99acd6977d?source=post_page-----2d95a300dd7f--------------------------------" rel="noreferrer noopener" target="_blank">nihal mehta</a>&nbsp;@ Eniac Ventures</li><li><a href="https://medium.com/u/219cb19c97a8?source=post_page-----2d95a300dd7f--------------------------------" rel="noreferrer noopener" target="_blank">Ashwin Ramachandran</a>&nbsp;@ Dragonfly Capital</li><li><a href="https://hk.linkedin.com/in/leslietam" rel="noreferrer noopener" target="_blank">Leslie Tam</a>&nbsp;@ GBV Capital</li><li>John Pagnilinan @&nbsp;<a href="https://medium.com/u/873484d62f1d?source=post_page-----2d95a300dd7f--------------------------------" rel="noreferrer noopener" target="_blank">Signum Capital</a></li></ul>
+
+
+
+<p id="37e7">Thanks again for your ongoing support <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> and don&#8217;t forget to <a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe">install the Browser Extension</a>&nbsp;today!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Won 2nd Place at a Hackathon + Solution to Pay Users</title>
+		<link>./../../../won-2nd-place-at-a-hackathon-solution-to-pay-users/index.html</link>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Sun, 17 Jul 2022 19:07:00 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[ads]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[hackathon]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[USDC]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=107</guid>
+
+					<description><![CDATA[GM Frens 👋 It was an exciting week for AlphaBack.xyz. We won a hackathon and found an elegant solution to distribute USDC to users. A quick about us in case you’re new here: AlphaBack is building a browser extension that pays users to look at NFTs (ads), with the goal of building a DAO owned [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>GM Frens <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44b.png" alt="👋" class="wp-smiley" style="height: 1em; max-height: 1em;" /> It was an exciting week for <a href="https://alphaback.xyz/" rel="noreferrer noopener" target="_blank">AlphaBack.xyz</a>. We won a hackathon and found an elegant solution to distribute USDC to users.</p>
+
+
+
+<p>A quick about us in case you’re new here:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>AlphaBack is building a browser extension that pays users to look at NFTs (ads), with the goal of building a DAO owned ad-network.</p></blockquote>
+
+
+
+<p>People hate ads, and advertisers know that. But ads are not going away. In a world where users can choose between (A) look at ads and get $0 or (B) look at ads and get $255 per year from AlphaBack, we strongly believe that users will choose (B) and install our browser plug-in.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn-images-1.medium.com/max/2000/1*T4U4mVTGhudbx45sBv89Lw.png" alt=""/></figure>
+
+
+
+<p>On top of monetary incentives, we give users power over their advertising experience, enabling them to give more or less of their data in exchange for more or less payment.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn-images-1.medium.com/max/2000/1*RkxK-UjUsQ78ennft9Ox5A.png" alt=""/></figure>
+
+
+
+<p>OK, let’s jump into the weekcap for July 10–17:</p>
+
+
+
+<h3>Highlights</h3>
+
+
+
+<ul><li><strong>Won Hackathon!</strong> AlphaBack won 2nd place and a $5,000 prize in the <a href="https://www.youtube.com/watch?v=j6KTJVvWhng" rel="noreferrer noopener" target="_blank"><em>Encode x Polygon Hackathon</em></a>. Next, we’re competing in the HackFS competition, where we may win up to $100,000 in prizes.</li><li><strong>Payment Solution</strong>. In a past retro, we noted how expensive it can be to airdrop USDC to 100K users – even on inexpensive L2 chains, like Polygon. We now have an elegant solution, where we maintain a running balance per user using read requests and an index of their last withdrawal, rather than updating state variables per user balance.</li><li><strong>Phase 2 Investor Meetings</strong>. We’re now in phase 2, aka “Investment Committee Meetings,” with several investors. We’re also getting more inbound interest via the <a href="https://stonks.com/deal/alphaback" rel="noreferrer noopener" target="_blank">Stonks deal room</a>. We’re focusing on cap table composition, optimizing for investors who can help with tokenomics, DAO setup, access to NFT influencers, and/or ad:tech connections.</li></ul>
+
+
+
+<h3>Obstacles</h3>
+
+
+
+<ul><li><strong>Delayed Release</strong>. We found a bug during our pre-release QA, which delayed our deployment. We’re targeting July 20 for the next code release.</li></ul>
+
+
+
+<h3><strong>How You Can&nbsp;Help</strong></h3>
+
+
+
+<ul><li>We have an updated list of investors who’d be interested in meeting us given their web3 thesis and portfolio. LMK if you have any inroads here:</li><li><a href="https://medium.com/u/a2ed35ece67e" target="_blank" rel="noreferrer noopener">Ameet Shah</a> @ Golden Ventures</li><li><a href="https://medium.com/u/da2a49354863" target="_blank" rel="noreferrer noopener">Paul Murphy</a> @ Lightspeed</li><li><a href="https://medium.com/u/17ad77c04cb7" target="_blank" rel="noreferrer noopener">Josh Fraser</a> @ Origin Protocol</li><li><a href="https://www.linkedin.com/in/asherd/" rel="noreferrer noopener" target="_blank">Asher Devang</a> @ AlphaGrep</li><li><a href="https://www.linkedin.com/in/davidaronoff" rel="noreferrer noopener" target="_blank">David Aranoff</a> @ FlyBridge Capital</li><li><a href="https://medium.com/u/b68cc3282d36" target="_blank" rel="noreferrer noopener">Vivek Sodera</a> @ Superhuman</li><li><a href="https://medium.com/u/921b0e9c4fdc" target="_blank" rel="noreferrer noopener">Edith Yeung</a> @ Race Capital</li><li><a href="https://medium.com/u/d57855f64587" target="_blank" rel="noreferrer noopener">Jenny Lefcourt</a> @ Freestyle Capital</li><li><a href="https://www.linkedin.com/in/patricknchang/" rel="noreferrer noopener" target="_blank">Patrick Chang</a> @ Dispersion Capital</li><li><a href="https://www.linkedin.com/in/julesmiller/" rel="noreferrer noopener" target="_blank">Jules Miller</a> @ Mindset Ventures</li><li><a href="https://medium.com/u/f6e261300f30" target="_blank" rel="noreferrer noopener">Brett deMarrais</a> @ Ludlow Ventures</li></ul>
+
+
+
+<p>Thanks again for your ongoing support <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>And remember to <a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe">install the Browser Extension</a> today!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fundraising &#038; Payments Code Coming Soon</title>
+		<link>./../../../fundraising-payments-code-coming-soon/index.html</link>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Sun, 10 Jul 2022 19:04:00 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[stonks]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=104</guid>
+
+					<description><![CDATA[We’re keeping this one short because the last update was a deep dive. Plus, it was a short week with the 4th of July holiday 🧨 Highlights Fundraising. We closed our first investor, The Best of Stonks Fund. Papers are executed and they wired the money 💪 Investor Interest. We continue to receive inbound interest [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We’re keeping this one short because the last update was a deep dive. Plus, it was a short week with the 4th of July holiday <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9e8.png" alt="🧨" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<h3><strong>Highlights</strong></h3>
+
+
+
+<ul><li><strong>Fundraising</strong>. We closed our first investor, <em>The</em> <em>Best of Stonks Fund</em>. Papers are executed and they wired the money <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png" alt="💪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li><li><strong>Investor Interest</strong>. We continue to receive inbound interest via the <a href="https://stonks.com/deal/alphaback" rel="noreferrer noopener" target="_blank">Stonks deal room</a>. We’ll focus on finding a lead investor that brings web3 and/or ad:tech know-how.</li><li><strong>Local Testing</strong>. We began testing our next deployment in localhost, which enables us to receive and distribute payments to users <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f911.png" alt="🤑" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<h3><strong>Obstacles</strong></h3>
+
+
+
+<ul><li><strong>Time Constrained</strong>. With so many investor meetings, there’s less time for product &amp; marketing efforts. Growth this week was inbound and organic only. We’re excited to close our round so we can push full steam ahead.</li><li><strong>Support Requests</strong>. Our Discord sever is no longer a founders’ chatroom <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Users are joining and they want to know when they’re getting paid. While explaining that payments are coming soon is an additional task, it’s also a signal that <em>somebody gives a </em><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4a9.png" alt="💩" class="wp-smiley" style="height: 1em; max-height: 1em;" />. This is good because <em>apathy is the real startup killer</em>. Now’s the time to be patient and invite more users. #WAGMI</li></ul>
+
+
+
+<h3><strong>How You Can Help</strong></h3>
+
+
+
+<ul><li>We’re putting together our fundraising round. Reply if you have intros to investors who are interested in (1) a veteran team of 10Xers who’ve been working together for ten years, (2) DAO / community ownership, or (3) ad targeting in a web3, post-cookie world.</li></ul>
+
+
+
+<p>Thanks again for your ongoing support.</p>
+
+
+
+<p>Don&#8217;t forget to <a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe">install the Browser Extension</a><strong> today</strong>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

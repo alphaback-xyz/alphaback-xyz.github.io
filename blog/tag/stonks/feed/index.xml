@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>stonks &#8211; AlphaBack</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Get Paid to Look at NFTs</description>
+	<lastBuildDate>Mon, 08 Aug 2022 19:24:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/08/cropped-favicon-32x32.png</url>
+	<title>stonks &#8211; AlphaBack</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fundraising &#038; Payments Code Coming Soon</title>
+		<link>./../../../fundraising-payments-code-coming-soon/index.html</link>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Sun, 10 Jul 2022 19:04:00 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[stonks]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=104</guid>
+
+					<description><![CDATA[We’re keeping this one short because the last update was a deep dive. Plus, it was a short week with the 4th of July holiday 🧨 Highlights Fundraising. We closed our first investor, The Best of Stonks Fund. Papers are executed and they wired the money 💪 Investor Interest. We continue to receive inbound interest [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We’re keeping this one short because the last update was a deep dive. Plus, it was a short week with the 4th of July holiday <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9e8.png" alt="🧨" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<h3><strong>Highlights</strong></h3>
+
+
+
+<ul><li><strong>Fundraising</strong>. We closed our first investor, <em>The</em> <em>Best of Stonks Fund</em>. Papers are executed and they wired the money <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png" alt="💪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li><li><strong>Investor Interest</strong>. We continue to receive inbound interest via the <a href="https://stonks.com/deal/alphaback" rel="noreferrer noopener" target="_blank">Stonks deal room</a>. We’ll focus on finding a lead investor that brings web3 and/or ad:tech know-how.</li><li><strong>Local Testing</strong>. We began testing our next deployment in localhost, which enables us to receive and distribute payments to users <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f911.png" alt="🤑" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+
+
+
+<h3><strong>Obstacles</strong></h3>
+
+
+
+<ul><li><strong>Time Constrained</strong>. With so many investor meetings, there’s less time for product &amp; marketing efforts. Growth this week was inbound and organic only. We’re excited to close our round so we can push full steam ahead.</li><li><strong>Support Requests</strong>. Our Discord sever is no longer a founders’ chatroom <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Users are joining and they want to know when they’re getting paid. While explaining that payments are coming soon is an additional task, it’s also a signal that <em>somebody gives a </em><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4a9.png" alt="💩" class="wp-smiley" style="height: 1em; max-height: 1em;" />. This is good because <em>apathy is the real startup killer</em>. Now’s the time to be patient and invite more users. #WAGMI</li></ul>
+
+
+
+<h3><strong>How You Can Help</strong></h3>
+
+
+
+<ul><li>We’re putting together our fundraising round. Reply if you have intros to investors who are interested in (1) a veteran team of 10Xers who’ve been working together for ten years, (2) DAO / community ownership, or (3) ad targeting in a web3, post-cookie world.</li></ul>
+
+
+
+<p>Thanks again for your ongoing support.</p>
+
+
+
+<p>Don&#8217;t forget to <a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe">install the Browser Extension</a><strong> today</strong>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

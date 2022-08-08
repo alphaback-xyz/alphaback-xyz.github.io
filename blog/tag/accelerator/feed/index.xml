@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>accelerator &#8211; AlphaBack</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Get Paid to Look at NFTs</description>
+	<lastBuildDate>Mon, 08 Aug 2022 19:24:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/08/cropped-favicon-32x32.png</url>
+	<title>accelerator &#8211; AlphaBack</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Debuted AlphaBack at Tachyon’s Demo Day!</title>
+		<link>./../../../debuted-alphaback-at-tachyons-demo-day/index.html</link>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Sun, 03 Jul 2022 19:00:00 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[accelerator]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[demoday]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[non-fungible tokens]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=98</guid>
+
+					<description><![CDATA[We concluded our 12-week accelerator program with a bang. On June 30, 2022, we debuted AlphaBack.xyz at Tachyon’s Demo Day using the Stonks platform. What is AlphaBack? With AlphaBack, users see a promoted NFT — instead of a search bar — when they open a new browser tab. Advertisers pay to promote there because users open ~50 tabs per [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>We concluded our 12-week accelerator program with a bang. On June 30, 2022, we debuted<a href="https://alphaback.xyz/" rel="noreferrer noopener" target="_blank"> AlphaBack.xyz</a> at Tachyon’s Demo Day using the Stonks platform.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn-images-1.medium.com/max/800/1*rI2q6Sg6eEYdAYdF0f3dUg.png" alt=""/></figure>
+
+
+
+<h3>What is AlphaBack?</h3>
+
+
+
+<p>With AlphaBack, users see a promoted NFT — instead of a search bar — when they open a new browser tab. Advertisers pay to promote there because users open ~50 tabs per day, averaging 3+ min. of engagement. Via smart contracts, 70% of that money goes to users and 30% goes to our DAO. In time,</p>
+
+
+
+<blockquote class="wp-block-quote"><p>our DAO will be the biggest web3 ad / data network that’s owned by the community, for the community.</p></blockquote>
+
+
+
+<p>The most exciting part of AlphaBack is that we have a <strong>huge opportunity to shape the future of advertising in a post-cookie, web3 world</strong>. Let’s unpack that a bit.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn-images-1.medium.com/max/800/1*Hn0MTJjPU0H-dLmt_6WJYQ.jpeg" alt=""/><figcaption>AlphaBack converts your “new browser tab” into an NFT-viewing experience – plus you get paid USDC if that NFT was a paid promotion.</figcaption></figure>
+
+
+
+<p>In the last ad:tech bull run, companies like BlueKai and LiveRamp built huge businesses leveraging cookies to create data targeting segments. Advertisers paid an average of $3 per 1,000 impressions (CPM) to enable targeting based on those segments, such as job titles, affinities, and more. That’s <em>on top</em> of the average $2.80 CPM for the ad placement — showing that the targeting data is just as valuable (if not more so) than the ad inventory itself. But the last five years weakened the foundations of cookie-based targeting thanks to GDPR, CCPA, and Apple’s privacy-enhancing moves. And yet advertisers will continue to crave targeting data for their ad campaigns.</p>
+
+
+
+<p>Web3 presents an opportunity to provide appropriate targeting and privacy protections. Imagine a world where millions of AlphaBack users have connected their wallet and consented to be part of our community-owned ad network. With that, we could <strong>create a Device-ID-to-Wallet-Address graph, mapping users’ wallet activity to advertise-able devices</strong>. Unlike cookies, user wallet activity is already public on chain, and thus there should be fewer privacy concerns. Armed with such a device-to-wallet graph would enable us to <strong>sell and activate targeting data on <em>any ad network</em></strong> (such as Google, Facebook, Twitter, etc.), in addition to our ad units on new browser tabs. That is a huge opportunity.</p>
+
+
+
+<p>We believe that <strong>user wallet activity is the next frontier of ad targeting</strong>, which will be vastly more powerful than cookie segments inferred by user form submissions and page visits. For example, want to target DeFi users that have swapped ETH to USDC in the past 3 months? Easy. Or perhaps you want to target all users who purchased a Bored Ape Yacht Club NFT for more than 50 ETH? Done. Creating <strong>targetable user personas based on <em>actual</em> wallet activity is a boon to advertisers</strong> that want to go beyond inferred age, sex, location, and income brackets. In the future, advertisers should be able to target wallet addresses that have spent 5 ETH in the last 90 days or Whales who have more than 100 ETH. That <em>certainty</em> about the targeting data is unheard of today and will unleash increased ad spend because suddenly it becomes justifiable to spend more to target higher value personas.</p>
+
+
+
+<p>But the vision above will require the right balance between protecting privacy and leveraging user data for targeting. Enter the DAO-owned ad network — a product that’s for the community, by the community.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>We believe that a community-owned and operated ad network will be best positioned to strike the necessary balance between users and advertisers because the user’s voice will be a part of the process.</p></blockquote>
+
+
+
+<p>Users (and their data) will be more than just monetizable eyeballs; they will get to decide how much of their privacy they want to monetize — and then benefit directly from that monetization. We believe this puts the incentives in the right place, yielding a productive negotiation between Users and Advertisers.</p>
+
+
+
+<p>We hope you are as excited as we are to create a better advertising future that’s built on mutual respect and blockchain-enabled trust.</p>
+
+
+
+<h3>What about NFT&nbsp;Deals?</h3>
+
+
+
+<p>NFTDeals.xyz is a front-end to an NFT auction protocol that we built. In the coming months, we’ll allow the community to determine its future direction. <a href="https://discord.gg/uKQgkteu72" rel="noreferrer noopener" target="_blank">Join our Discord server</a> if you’re interested in participating in that discussion.</p>
+
+
+
+<p>As founders, however, we will dedicate our energy to <a href="https://alphaback.xyz/" rel="noreferrer noopener" target="_blank">AlphaBack</a> because we believe that is the growth opportunity in this market. This means that we will not be hosting auctions ourselves in the near term. But that’s the beauty of a permissionless protocol: <em>you</em> can host an auction whenever you want without having to partner with us directly. Simply interact with the published smart contracts in our backend portal or via EtherScan!</p>
+
+
+
+<h3>Highlights</h3>
+
+
+
+<ul><li><strong>Fundraising.</strong> On June 30, 2022, we debuted our product at Tachyon’s Demo Day using <a href="https://stonks.com/deal/alphaback" rel="noreferrer noopener" target="_blank">the Stonks platform</a>. It was an incredible event, with over 350 viewers watching the livestream. We received 23 introduction requests from investors, totaling $2M worth of interest.</li><li><strong>The Pivot, Redux</strong>. Last week we <a href="https://medium.com/nftdeals/nft-deals-week-12-retro-9d1b6c8ced8e" target="_blank" rel="noreferrer noopener">began exploring a soft pivot</a> where we would sell the NFT Deals’ backend tooling to major brands. But several customer interviews and investor discussions later, we learned that was not going to be the best opportunity for us in the current market. Simply stated, brands have 12- to 18-month long sales cycles that, combined with the bear market, will result in <em>limited opportunities to validate product market fit</em>. While we considered pursuing that option — akin to pushing a boulder uphill — we realized that AlphaBack’s users were growing at 155% compounded daily — like a snowball rolling downhill. Not bad given that we haven’t been actively marketing AlphaBack, besides telling people about it at NFT NYC.</li></ul>
+
+
+
+<h3>Obstacles</h3>
+
+
+
+<ul><li><strong>Minimizing Gas Fees.</strong> The first MVP is almost complete, with gas fee minimization for multi-call USDC payments as the final step. We don’t want to over-engineer the process, so this version will support up to 100K users. But current estimates show that it will cost approximately $172 in gas fees on Polygon to send USDC to that many users. Not ideal to say the least. We are exploring other options so that users earn as much as possible from advertisers.</li></ul>
+
+
+
+<h3>How You Can&nbsp;Help</h3>
+
+
+
+<ul><li>We’re putting together our fundraising round. Reply if you have intros to investors who are interested in (1) a veteran team of 10Xers who’ve been working together for ten years, (2) community ownership trends, or (3) ad targeting in a web3, post-cookie world.</li></ul>
+
+
+
+<p>Thanks again for your ongoing support <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

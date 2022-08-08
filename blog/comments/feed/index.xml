@@ -7,33 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments for alphaback-blog	</title>
+	Comments for AlphaBack	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sun, 07 Aug 2022 19:44:30 +0000</lastBuildDate>
+	<description>Get Paid to Look at NFTs</description>
+	<lastBuildDate>Mon, 08 Aug 2022 23:13:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
-	<item>
-		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>./../../hello-world/index.html#comment-1</link>
-
-		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Sun, 07 Aug 2022 19:44:30 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
-
-					<description><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
