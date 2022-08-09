@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>web3 &#8211; AlphaBack</title>
+	<title>AlphaBack - Get Paid to Look at NFTs</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Get Paid to Look at NFTs</description>
-	<lastBuildDate>Mon, 08 Aug 2022 23:13:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Aug 2022 19:15:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,13 +22,13 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/08/cropped-favicon-32x32.png</url>
-	<title>web3 &#8211; AlphaBack</title>
+	<title>AlphaBack - Get Paid to Look at NFTs</title>
 	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Institutional Capital &#038; Upgradeable Contracts</title>
+		<title>Institutional Capital for NFT Promotions &#038; Progress Upgradeable Contracts</title>
 		<link>./../../../institutional-capital-upgradeable-contracts/index.html</link>
 		
 		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
@@ -41,9 +41,11 @@
 		<category><![CDATA[web3]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=117</guid>
 
-					<description><![CDATA[This week was delightful! We released upgradeable contracts and analytics in staging, and we welcomed an institutional investor on our cap table. Highlights Fundraising. We’re excited to welcome Hashkey Capital in our round, an institutional fund with over 200 portfolio companies that has been investing exclusively in blockchain technology since 2015. Upgradeable contracts. We released [&#8230;]]]></description>
+					<description><![CDATA[<p>This week was delightful! We released upgradeable contracts and analytics in staging, and we welcomed an institutional investor on our cap table. We&#8217;re making good progress toward onboarding our first 10,000 NFT-friendly users. Highlights Fundraising. We’re excited to welcome Hashkey Capital in our round, an institutional fund with over 200 portfolio companies that has been [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../../../institutional-capital-upgradeable-contracts/index.html">Institutional Capital for NFT Promotions &#038; Progress Upgradeable Contracts</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
-<p>This week was delightful! We released upgradeable contracts and analytics in staging, and we welcomed an institutional investor on our cap table.</p>
+<p>This week was delightful! We released upgradeable contracts and analytics in staging, and we welcomed an institutional investor on our cap table. We&#8217;re making good progress toward onboarding our first 10,000 NFT-friendly users.</p>
 
 
 
@@ -51,11 +53,11 @@
 
 
 
-<ul><li><strong>Fundraising</strong>. We’re excited to welcome <strong>Hashkey Capital</strong> in our round, an institutional fund with over 200 portfolio companies that has been investing exclusively in blockchain technology since 2015.</li><li><strong>Upgradeable contracts</strong>. We released our smart contracts as upgradeable code in staging. Next, we’ll conduct QA and aim for a production release in the next sprint.</li><li><strong>Analytics</strong>. We can now track connected wallets, enabling us to identify users who should receive payments <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f911.png" alt="🤑" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+<ul><li><strong>Fundraising</strong>. We’re excited to welcome <strong>Hashkey Capital</strong> in our round, an institutional fund with over 200 portfolio companies that has been investing exclusively in blockchain technology since 2015.</li><li><strong>Upgradeable contracts</strong>. As <a href="./../../../upgradeable-contracts-more-fundraising/index.html">mentioned last week</a>, we&#8217;ve been working on upgradeable smart contracts. This week, we released that code in our staging environment. Next, we’ll conduct QA and aim for a production release in the next sprint.</li><li><strong>Analytics</strong>. We can now track connected wallets, enabling us to identify users who should receive payments for viewing NFTs <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f911.png" alt="🤑" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
 
 
 
-<figure class="wp-block-image"><img src="https://cdn-images-1.medium.com/max/2000/1*MmBV0wmhmicchNsavaJ4yQ.png" alt=""/></figure>
+<figure class="wp-block-image"><img src="https://cdn-images-1.medium.com/max/2000/1*MmBV0wmhmicchNsavaJ4yQ.png" alt="Analytics show a user's wallet ID connected to AlphaBack, an extension that pays users to look at NFTs"/></figure>
 
 
 
@@ -71,7 +73,7 @@
 
 
 
-<ul><li>We’re working on user research and mockups of our next UX. Signup for a <a href="https://calendly.com/rodfuentes/office-hours" rel="noreferrer noopener" target="_blank">short user interview here</a>.</li><li>Do you know any NFT collections who would be interested in a simple win-win collaboration? We’ll promote them on AlphaBack, and they encourage their community to install our extension. Here are a few that we’re approaching:</li></ul>
+<ul><li>We’re working on user research and mockups of our next NFT discovery user experience. Signup for a <a href="https://calendly.com/rodfuentes/office-hours" target="_blank" rel="noreferrer noopener">short user interview here</a>.</li><li>Do you know any NFT collections who would be interested in a simple win-win collaboration? We’ll promote them on AlphaBack, and they encourage their community to install our extension. Here are a few that we’re approaching:</li></ul>
 
 
 
@@ -95,7 +97,7 @@
 
 
 
-<p>That said, we leave those ideas for future implementation because they require careful product development to prevent abuse. Any model where the user benefits from doing more of the paid activity presents a moral hazard. For example, did the user click on the ad to earn money, or were they genuinely interested in the advertised product? Fortunately, advertising fraud is an old problem with well-established methods for detecting such activity.</p>
+<p>That said, we leave those ideas for future implementation because they require careful product development to prevent abuse. Any model where the user benefits from doing more of the paid activity presents a moral hazard. For example, did the user click on the ad to earn money, or were they genuinely interested in the advertised product or NFT? Fortunately, advertising fraud is an old problem with well-established methods for detecting such activity.</p>
 
 
 
@@ -107,7 +109,8 @@
 
 
 
-<p><a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" target="_blank">Install the AlphaBack Browser Extension</a> today!</p>
+<p><a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" target="_blank" rel="noreferrer noopener">Install the AlphaBack Browser Extension</a> today!</p>
+<p>The post <a rel="nofollow" href="./../../../institutional-capital-upgradeable-contracts/index.html">Institutional Capital for NFT Promotions &#038; Progress Upgradeable Contracts</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -128,7 +131,9 @@
 		<category><![CDATA[web3]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=115</guid>
 
-					<description><![CDATA[We’re heads down building and fundraising, so here’s another quick weekcap. But first a brief intro in case you’re new here: AlphaBack is a browser extension that pays users to look at NFTs (ads), with the goal of building a DAO-owned ad&#160;network. Also, we’re experimenting with a new section on these Retros called, Food for [&#8230;]]]></description>
+					<description><![CDATA[<p>We’re heads down building and fundraising, so here’s another quick weekcap. But first a brief intro in case you’re new here: AlphaBack is a browser extension that pays users to look at NFTs (ads), with the goal of building a DAO-owned ad&#160;network. Also, we’re experimenting with a new section on these Retros called, Food for [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../../../upgradeable-contracts-more-fundraising/index.html">Upgradeable Contracts &#038; More Fundraising</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>We’re heads down building and fundraising, so here’s another quick weekcap. But first a brief intro in case you’re new here:</p>
 
@@ -201,6 +206,7 @@
 
 
 <p>Our goal is to attract enough users to <a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" target="_blank">download our extension</a>, such that we can provide a welcome alternative to NFT collections who need to promote their projects.</p>
+<p>The post <a rel="nofollow" href="./../../../upgradeable-contracts-more-fundraising/index.html">Upgradeable Contracts &#038; More Fundraising</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -219,7 +225,9 @@
 		<category><![CDATA[web3]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=109</guid>
 
-					<description><![CDATA[Hi Friends 👋 this is a quick weekcap, as we’re heads down building and fundraising. Highlights Fundraising. We closed another investor on our YC SAFE, building more momentum on this financing. Allocations. We’re now up to&#160;$875,000&#160;in written commitments from investors. Deployed Payments Code. We deployed the code that takes USDC from promoters and distributes payments [&#8230;]]]></description>
+					<description><![CDATA[<p>Hi Friends 👋 this is a quick weekcap, as we’re heads down building and fundraising. Highlights Fundraising. We closed another investor on our YC SAFE, building more momentum on this financing. Allocations. We’re now up to&#160;$875,000&#160;in written commitments from investors. Deployed Payments Code. We deployed the code that takes USDC from promoters and distributes payments [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../../../payments-code-released-fundraising-continues/index.html">Payments Code Released &#038; Fundraising Continues</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p id="4f86">Hi Friends <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44b.png" alt="👋" class="wp-smiley" style="height: 1em; max-height: 1em;" /> this is a quick weekcap, as we’re heads down building and fundraising.</p>
 
@@ -250,6 +258,7 @@
 
 
 <p id="37e7">Thanks again for your ongoing support <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /> and don&#8217;t forget to <a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe">install the Browser Extension</a>&nbsp;today!</p>
+<p>The post <a rel="nofollow" href="./../../../payments-code-released-fundraising-continues/index.html">Payments Code Released &#038; Fundraising Continues</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -271,7 +280,9 @@
 		<category><![CDATA[web3]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=107</guid>
 
-					<description><![CDATA[GM Frens 👋 It was an exciting week for AlphaBack.xyz. We won a hackathon and found an elegant solution to distribute USDC to users. A quick about us in case you’re new here: AlphaBack is building a browser extension that pays users to look at NFTs (ads), with the goal of building a DAO owned [&#8230;]]]></description>
+					<description><![CDATA[<p>GM Frens 👋 It was an exciting week for AlphaBack.xyz. We won a hackathon and found an elegant solution to distribute USDC to users. A quick about us in case you’re new here: AlphaBack is building a browser extension that pays users to look at NFTs (ads), with the goal of building a DAO owned [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../../../won-2nd-place-at-a-hackathon-solution-to-pay-users/index.html">Won 2nd Place at a Hackathon + Solution to Pay Users</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>GM Frens <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44b.png" alt="👋" class="wp-smiley" style="height: 1em; max-height: 1em;" /> It was an exciting week for <a href="https://alphaback.xyz/" rel="noreferrer noopener" target="_blank">AlphaBack.xyz</a>. We won a hackathon and found an elegant solution to distribute USDC to users.</p>
 
@@ -334,6 +345,7 @@
 
 
 <p>And remember to <a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe">install the Browser Extension</a> today!</p>
+<p>The post <a rel="nofollow" href="./../../../won-2nd-place-at-a-hackathon-solution-to-pay-users/index.html">Won 2nd Place at a Hackathon + Solution to Pay Users</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -353,7 +365,9 @@
 		<category><![CDATA[web3]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=104</guid>
 
-					<description><![CDATA[We’re keeping this one short because the last update was a deep dive. Plus, it was a short week with the 4th of July holiday 🧨 Highlights Fundraising. We closed our first investor, The Best of Stonks Fund. Papers are executed and they wired the money 💪 Investor Interest. We continue to receive inbound interest [&#8230;]]]></description>
+					<description><![CDATA[<p>We’re keeping this one short because the last update was a deep dive. Plus, it was a short week with the 4th of July holiday 🧨 Highlights Fundraising. We closed our first investor, The Best of Stonks Fund. Papers are executed and they wired the money 💪 Investor Interest. We continue to receive inbound interest [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../../../fundraising-payments-code-coming-soon/index.html">Fundraising &#038; Payments Code Coming Soon</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>We’re keeping this one short because the last update was a deep dive. Plus, it was a short week with the 4th of July holiday <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9e8.png" alt="🧨" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
 
@@ -388,6 +402,7 @@
 
 
 <p>Don&#8217;t forget to <a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe">install the Browser Extension</a><strong> today</strong>!</p>
+<p>The post <a rel="nofollow" href="./../../../fundraising-payments-code-coming-soon/index.html">Fundraising &#038; Payments Code Coming Soon</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -410,7 +425,9 @@
 		<category><![CDATA[web3]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=98</guid>
 
-					<description><![CDATA[We concluded our 12-week accelerator program with a bang. On June 30, 2022, we debuted AlphaBack.xyz at Tachyon’s Demo Day using the Stonks platform. What is AlphaBack? With AlphaBack, users see a promoted NFT — instead of a search bar — when they open a new browser tab. Advertisers pay to promote there because users open ~50 tabs per [&#8230;]]]></description>
+					<description><![CDATA[<p>We concluded our 12-week accelerator program with a bang. On June 30, 2022, we debuted AlphaBack.xyz at Tachyon’s Demo Day using the Stonks platform. What is AlphaBack? With AlphaBack, users see a promoted NFT — instead of a search bar — when they open a new browser tab. Advertisers pay to promote there because users open ~50 tabs per [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../../../debuted-alphaback-at-tachyons-demo-day/index.html">Debuted AlphaBack at Tachyon’s Demo Day!</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>We concluded our 12-week accelerator program with a bang. On June 30, 2022, we debuted<a href="https://alphaback.xyz/" rel="noreferrer noopener" target="_blank"> AlphaBack.xyz</a> at Tachyon’s Demo Day using the Stonks platform.</p>
 
@@ -505,6 +522,7 @@
 
 
 <p>Thanks again for your ongoing support <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The post <a rel="nofollow" href="./../../../debuted-alphaback-at-tachyons-demo-day/index.html">Debuted AlphaBack at Tachyon’s Demo Day!</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
 ]]></content:encoded>
 					
 		
