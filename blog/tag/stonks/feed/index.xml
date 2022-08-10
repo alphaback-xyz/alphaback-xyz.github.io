@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Get Paid to Look at NFTs</description>
-	<lastBuildDate>Mon, 08 Aug 2022 19:24:02 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Aug 2022 00:12:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Fundraising &#038; Payments Code Coming Soon</title>
+		<title>Stonks Fundraising &#038; Payments Code Coming Soon</title>
 		<link>./../../../fundraising-payments-code-coming-soon/index.html</link>
 		
 		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
@@ -41,11 +41,15 @@
 		<category><![CDATA[web3]]></category>
 		<guid isPermaLink="false">./../../../index.html?p=104</guid>
 
-					<description><![CDATA[<p>We’re keeping this one short because the last update was a deep dive. Plus, it was a short week with the 4th of July holiday 🧨 Highlights Fundraising. We closed our first investor, The Best of Stonks Fund. Papers are executed and they wired the money 💪 Investor Interest. We continue to receive inbound interest [&#8230;]</p>
-<p>The post <a rel="nofollow" href="./../../../fundraising-payments-code-coming-soon/index.html">Fundraising &#038; Payments Code Coming Soon</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
+					<description><![CDATA[<p>We’re keeping this one short because the last update was long and this was a short week for the 4th of July holiday 🧨 TLDR: after presenting on the Stonks platform, we received an investment from the The Best of Stonks Fund 🎉 We&#8217;re also testing our payments code in localhost. Highlights Investor Interest. We [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../../../fundraising-payments-code-coming-soon/index.html">Stonks Fundraising &#038; Payments Code Coming Soon</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>We’re keeping this one short because the last update was a deep dive. Plus, it was a short week with the 4th of July holiday <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9e8.png" alt="🧨" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>We’re keeping this one short because the last update was long and this was a short week for the 4th of July holiday <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9e8.png" alt="🧨" class="wp-smiley" style="height: 1em; max-height: 1em;" /> TLDR: after <a href="./../../../debuted-alphaback-at-tachyons-demo-day/index.html">presenting on the Stonks platform</a>, we received an investment from the <em>The</em> <em>Best of Stonks Fund</em> <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> We&#8217;re also testing our payments code in localhost. </p>
+
+
+
+<figure class="wp-block-image size-large"><img width="1024" height="984" src="./../../../wp-content/uploads/2022/08/stonks_platform_summary-1024x984.png" alt="A view of AlphaBack's deal room on the Stonks fundraising platform." class="wp-image-141" srcset="./../../../wp-content/uploads/2022/08/stonks_platform_summary-1024x984.png 1024w, ./../../../wp-content/uploads/2022/08/stonks_platform_summary-300x288.png 300w, ./../../../wp-content/uploads/2022/08/stonks_platform_summary-768x738.png 768w, ./../../../wp-content/uploads/2022/08/stonks_platform_summary-1200x1153.png 1200w, ./../../../wp-content/uploads/2022/08/stonks_platform_summary.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -53,7 +57,7 @@
 
 
 
-<ul><li><strong>Fundraising</strong>. We closed our first investor, <em>The</em> <em>Best of Stonks Fund</em>. Papers are executed and they wired the money <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png" alt="💪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li><li><strong>Investor Interest</strong>. We continue to receive inbound interest via the <a href="https://stonks.com/deal/alphaback" rel="noreferrer noopener" target="_blank">Stonks deal room</a>. We’ll focus on finding a lead investor that brings web3 and/or ad:tech know-how.</li><li><strong>Local Testing</strong>. We began testing our next deployment in localhost, which enables us to receive and distribute payments to users <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f911.png" alt="🤑" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
+<ul><li><strong>Investor Interest</strong>. We continue to receive inbound interest via the <a href="https://stonks.com/deal/alphaback" target="_blank" rel="noreferrer noopener">Stonks deal room</a>. We’ll focus on finding a lead investor that brings web3 and/or ad:tech know-how.</li><li><strong>Fundraising</strong>. We closed our first investor, <em>The</em> <em>Best of Stonks Fund</em>. Papers are executed and they wired the money <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png" alt="💪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li><li><strong>Local Testing</strong>. We began testing our next deployment in localhost, which enables us to receive and distribute payments to users <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f911.png" alt="🤑" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
 
 
 
@@ -69,16 +73,16 @@
 
 
 
-<ul><li>We’re putting together our fundraising round. Reply if you have intros to investors who are interested in (1) a veteran team of 10Xers who’ve been working together for ten years, (2) DAO / community ownership, or (3) ad targeting in a web3, post-cookie world.</li></ul>
+<ul><li>We’re putting together our fundraising round. Reply if you have intros to investors who are interested in (1) a veteran team of 10Xers who’ve been working together for ten years, (2) DAO / community ownership, or (3) ad targeting in a web3, post-cookie world.</li><li>Are you familiar with any other high quality NFT conferences? We’re considering whether to sponsor another small booth so we can have more direct conversations with potential users.</li></ul>
 
 
 
-<p>Thanks again for your ongoing support.</p>
+<p>We have a long road ahead of us as we journey to 1M users. Thanks again for your ongoing support.</p>
 
 
 
 <p>Don&#8217;t forget to <a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe">install the Browser Extension</a><strong> today</strong>!</p>
-<p>The post <a rel="nofollow" href="./../../../fundraising-payments-code-coming-soon/index.html">Fundraising &#038; Payments Code Coming Soon</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
+<p>The post <a rel="nofollow" href="./../../../fundraising-payments-code-coming-soon/index.html">Stonks Fundraising &#038; Payments Code Coming Soon</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
 ]]></content:encoded>
 					
 		
