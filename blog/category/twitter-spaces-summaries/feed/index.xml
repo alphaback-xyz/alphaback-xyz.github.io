@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Get Paid to Look at NFTs</description>
-	<lastBuildDate>Sat, 13 Aug 2022 15:53:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Aug 2022 23:35:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,149 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Chimpers NFT and The Merge on Rug Radio</title>
+		<link>./../../../chimpers-nft-and-the-merge-on-rug-radio/index.html</link>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Mon, 15 Aug 2022 23:31:04 +0000</pubDate>
+				<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[Twitter Spaces Summaries]]></category>
+		<category><![CDATA[Chimpers NFT]]></category>
+		<category><![CDATA[non-fungible tokens]]></category>
+		<category><![CDATA[Rug Radio]]></category>
+		<category><![CDATA[Twitter Spaces]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=171</guid>
+
+					<description><![CDATA[<p>Rug Radio host Farokh and friends discuss the Ethereum Merge, its consequences for NFTs, and insights about the Chimpers NFT project.</p>
+<p>The post <a rel="nofollow" href="./../../../chimpers-nft-and-the-merge-on-rug-radio/index.html">Chimpers NFT and The Merge on Rug Radio</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In this <em>Twitter Spaces Summary</em> (#TSS) of Rug Radio, you&#8217;ll get a macro and NFT daily summary, commentary about the Ethereum Merge and its consequences for NFTs, and insights on the Chimpers NFT project.</p>
+
+
+
+<p><em>n.b. Summaries are edited for brevity and inconsistencies may occur due to crosstalk or audio quality. The content presented is not financial advice. Do your own research and review <a href="#disclaimerandrisks">the disclaimer below</a>.</em></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2>NFT Daily Summary, The Merge, and Chimpers NFT</h2>
+
+
+
+<p><a href="https://twitter.com/farokh/status/1558098734981988355">@Farokh</a> hosted RUG RADIO <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f399.png" alt="🎙" class="wp-smiley" style="height: 1em; max-height: 1em;" />: GM NFTs <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2600.png" alt="☀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> on Aug. 12, 2022, with a runtime of 1:34:22 and 2.9K people tuning in.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="zxx" dir="ltr"><a href="https://t.co/G550mqCIIC">https://t.co/G550mqCIIC</a></p>&mdash; Farokh (@farokh) <a href="https://twitter.com/farokh/status/1558098734981988355?ref_src=twsrc%5Etfw">August 12, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Here is a summary of that Twitter Spaces.</p>
+
+
+
+<h2>Intro &amp; NFT Daily Summary</h2>
+
+
+
+<ul><li><strong>@Farokh</strong>&nbsp;wonders where his co-hosts are, roasting <strong>Mando (@greatmando_nft)</strong> for a few minutes because he was late <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </li><li>The <a href="https://linktr.ee/rugradio">Rug Radio</a> show starts with a macro and NFT daily summary.  <strong>@Farokh</strong> notes that Ethereum is looking strong and the NFT market is heating up; it&#8217;s fun.&nbsp;He adds that Chimpers NFT team will join them on stage. </li><li><strong>@Farokh</strong>&nbsp;jokes that he canceled Pio.eth&#8217;s show earlier that morning.&nbsp;<strong>Pio.eth (@piovincenzo_)</strong>&nbsp;said the Twitter Spaces audio wasn’t working and had to move the show to Discord audio, but it was not good –&nbsp;with about 50% audience drop-off.</li><li><strong>OSF (@osf_nft)</strong>&nbsp;gives the daily market report. He mentions that:<ul><li>there was a sell off in tech stocks</li></ul><ul><li>Bitcoin was flirting with 25k yesterday, and ETH is out performing everything.</li><li>the ETH Merge is being planned for the 15th or 16 September.</li><li>mentions that the proof of work involves a series of algorithms that validate transactions on their own rig, and miners get paid for performing those calculations</li><li>some miners may create a copy of the current network and continue running it as a proof of work methodology, which will duplicate all of the existing ERC tokens, NFTs, etc</li></ul></li></ul>
+
+
+
+<h2>What does the ETH Merge mean for your NFTs?</h2>
+
+
+
+<ul><li><strong>Mando (@greatmando_nft)</strong>&nbsp;notes that people have been buying Ethereum classic since the Merge became more on the horizon.</li><li><strong><strong>OSF (@osf_nft)</strong></strong>&nbsp;if miners fork Ethereum now, it will have all the transactions as of the fork&#8217;s date. He adds: <ul><li>Beware of replay attack, where you can replicate a transaction on proof of work from proof of work to proof of stake.&nbsp;</li><li>There&#8217;s a risk you end up selling your Ape on the <em>real</em> ETH proof of stake network at five Eth if you did that transaction on the forked proof of work chain.</li><li>Potential solution: transfer your NFTs on proof of work to a new wallet, and then sell it to minimize the risk of a replay attack.</li><li>Forked POW NFTs should be worth zero, but there may be a market for them. People love meme stuff.</li></ul></li></ul>
+
+
+
+<figure class="wp-block-image size-full"><img width="700" height="772" src="./../../../wp-content/uploads/2022/08/image-6.png" alt="Proof of Work vs. Proof of Stake, accord. 3iQ Research Group. Source." class="wp-image-184" srcset="./../../../wp-content/uploads/2022/08/image-6.png 700w, ./../../../wp-content/uploads/2022/08/image-6-272x300.png 272w" sizes="(max-width: 700px) 100vw, 700px" /><figcaption>Proof of Work vs. Proof of Stake, accord. 3iQ Research Group. <a href="https://3iq.ca/consensus-mechanisms/">Source</a>.</figcaption></figure>
+
+
+
+<ul><li><strong>Simon (@Simon_Goldberg)</strong>&nbsp;notes that marketplaces (like OpenSea) have to support proof of work to buy or sell NFTs.</li><li><strong>@Farokh</strong>&nbsp;notes that there&#8217;s always going to be proof work miners on the chain.</li><li><strong>Mando (@greatmando_nft)</strong>&nbsp;notes that old chains might have some value.&nbsp;</li><li><strong>KΞNOBI (@KenobiDesigns)</strong> inquires if they will have to change terms of service to assign the right IP rights to things.&nbsp;</li><li><strong>Simon (@Simon_Goldberg)</strong>&nbsp;mentions that the contract owner will still have access to that contract on proof of work. Project creators have access to the metadata, and if they change one contract, they&#8217;d be able to remove all the data for that chain.&nbsp;</li><li><strong>@Farokh</strong>&nbsp;says they need a long form conversation about the Merge.</li></ul>
+
+
+
+<h2>NFT Market Trends</h2>
+
+
+
+<ul><li><strong>Mando (@greatmando_nft)</strong>&nbsp;mentions that the last three days have been 20 to 25 million volume, which sounds low but is up 60% from the lows of the last month. The top end of the market seems to be holding out, and the majority of the volumes are in newer projects.&nbsp;</li><li><strong>@Farokh</strong>&nbsp;notes that there’s not much going on aside from stuff minting. <a href="https://opensea.io/collection/clonex">Clone X</a> broke under 8 ETH, down 6%, and <a href="https://opensea.io/collection/goblintownwtf">Goblintown</a> is up 20%, but they were strong over 5 to 7 ETH for a long time.</li></ul>
+
+
+
+<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="600" data-id="175"  src="./../../../wp-content/uploads/2022/08/d1c1bb644f74287ebc618e19bd1336a0.png" alt="A Goblintown NFT: who owns it after the Merge goes to Proof of Stake?" class="wp-image-175" srcset="./../../../wp-content/uploads/2022/08/d1c1bb644f74287ebc618e19bd1336a0.png 600w, ./../../../wp-content/uploads/2022/08/d1c1bb644f74287ebc618e19bd1336a0-300x300.png 300w, ./../../../wp-content/uploads/2022/08/d1c1bb644f74287ebc618e19bd1336a0-150x150.png 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="600" data-id="174"  src="./../../../wp-content/uploads/2022/08/c8e275a34da8220b1d4c1023ab2c14ed.png" alt="A Clone X NFT. Who owns it after the Merge goes to Proof of Stake?" class="wp-image-174" srcset="./../../../wp-content/uploads/2022/08/c8e275a34da8220b1d4c1023ab2c14ed.png 600w, ./../../../wp-content/uploads/2022/08/c8e275a34da8220b1d4c1023ab2c14ed-300x300.png 300w, ./../../../wp-content/uploads/2022/08/c8e275a34da8220b1d4c1023ab2c14ed-150x150.png 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+</figure>
+
+
+
+<ul><li><strong>Mando (@greatmando_nft)</strong>&nbsp;says the vast majority of stuff is down over the last seven days, and every single mid tier projects is down 5 to 10%.&nbsp;Bored Apes are flat and CryptoPunks are relatively flat, but the top tier stuff is still holding. Some mid-tier projects are up: Penguins are up 50%. CryptoDickButts are up 60%. </li><li><strong>@Farokh</strong>&nbsp;notes that there&#8217;s been a lot of fun stuff you could get in on, and new projects are cracking up.&nbsp;<strong>@Farokh</strong>&nbsp;notes that they&#8217;ve had multiple sweeps over the last couple of weeks, and they don&#8217;t know if they&#8217;re going back into USDC because of the pump or just holding on to the ETH.</li><li><strong>Mando (@greatmando_nft)</strong>&nbsp;says if volume returns to a seasoned project, it’s getting sold into.&nbsp;He notes that there’s only very few projects out there, and when they see a pump, a lot of people will use this opportunity to sell. Mando says that the overall markets in OpenSea volumes are at 200 million in volume, which would show a bottoming of the NFT market.&nbsp;If OS does the same volume as July, that would be a good sign.</li></ul>
+
+
+
+<h2>Building NFT Brands in the Bear Market</h2>
+
+
+
+<ul><li><strong>@Farokh</strong>&nbsp;talks about how every pump brings on more listings, and every time your project goes up in value, there’s going to be a lot of people that are going to rush the list.&nbsp;He mentions that it’s going to be more work on the founder side this time around.&nbsp;Farokh&nbsp;notes that being a genuine founder in NFT isn’t easy at the moment, spending 100 plus hours a week trying to create value for holders, and any impact of work gets immediately sold.</li><li><strong>Mando (@greatmando_nft)</strong>&nbsp;notes that often the projects which are showing value are the ones which continue to deliver.&nbsp;He&nbsp;mentions that it makes sense that people want to secure their finances more during this period.&nbsp;</li><li><strong>@Farokh</strong>&nbsp;mentions that the market is so small, it&#8217;s complicated to the average person, and they need to go to the toilet three times.&nbsp;Farokh&nbsp;notes that if the month of August is just a month of uncertainty, it&#8217;s just a month of people really need liquidity.</li><li><strong>Mando (@greatmando_nft)</strong>&nbsp;notes that they&#8217;ve been given more opportunities to invest in startups in the space.&nbsp;It&#8217;s difficult to assess value and business plans.&nbsp;Mando says they often don&#8217;t know if a project isn&#8217;t doing well, and if they have the right founders, they can reenergize.&nbsp;The concept of 99% of projects going to zero means that 99% of founders are going to fail. Failure is going to have to be accepted. They would love to see a project which doesn’t feel like it’s hitting the right tone when it comes to the utility. They’d rather the whole community migrate to a new utility.</li><li><strong>@Farokh</strong>&nbsp;notes that a lot of people forget that building the community is one part and nurturing that community is the second part.&nbsp;It&#8217;s about being around and showing up.</li><li><strong>OSF (@osf_nft)</strong>&nbsp;says a lot of it comes down to how much money you took in upfront and what you stated you would do with that money. There are other ways you can drive value back to that project. <strong>@Farokh</strong>&nbsp;says that someone in their Discord built a model evaluation showing Rug Radio was valued at $60 million.&nbsp;</li><li><strong>OSF (@osf_nft)</strong>&nbsp;talks about how it took them a year to bring their project back to a level they were at.&nbsp;</li><li><strong>@Farokh</strong>&nbsp;notes that if you raise money last year and you&#8217;re giving up now, then you never had it.</li><li><strong>Ser Joey (@PunkHot10)</strong>&nbsp;says they understand that the duty to carry on and try is to increase revenue and profit, but people fail a lot within that.</li><li><strong>@Farokh</strong>&nbsp;notes how Ser Joey used to run a weekly chart where trending punks were voted on.&nbsp;</li></ul>
+
+
+
+<h2>Chimpers NFT: Background &amp; What&#8217;s Next</h2>
+
+
+
+<ul><li><strong>Timpers.eth <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f47e.png" alt="👾" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@TimpersHD)</strong>&nbsp;talks about joining the NFT space in February 2021.&nbsp;He says they started graphic design shop when he was 15 years old. He did a lot of Youtube videos, tutorials, and tips. Later, he went to university to study animation and got a degree in that. Timpers says he was lucky to work with BAYC in an art piece and that it went well.</li><li><strong>@Farokh</strong>&nbsp;inquires about how they got involved in Chimper NFT adventures.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="768" height="1024" src="./../../../wp-content/uploads/2022/08/image-7-768x1024.png" alt="Master Chimpo from Chimpers NFT has opened the Dojo doors! Are you ready?" class="wp-image-185" srcset="./../../../wp-content/uploads/2022/08/image-7-768x1024.png 768w, ./../../../wp-content/uploads/2022/08/image-7-225x300.png 225w, ./../../../wp-content/uploads/2022/08/image-7-1152x1536.png 1152w, ./../../../wp-content/uploads/2022/08/image-7-1536x2048.png 1536w, ./../../../wp-content/uploads/2022/08/image-7-1200x1600.png 1200w, ./../../../wp-content/uploads/2022/08/image-7-1980x2640.png 1980w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+
+<ul><li><strong>Timpers.eth <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f47e.png" alt="👾" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@TimpersHD)</strong>&nbsp;notes that they built it up over a few years starting in 2015 and did a lot of streams.&nbsp;</li><li><strong>KΞNOBI (@KenobiDesigns)</strong>&nbsp;notes that Timpers has been reaching out to the community since they were teenagers.&nbsp;They were doing assignments while creating&nbsp;NFTs and Youtube videos.&nbsp;They started writing and reaching out to cool people on Twitter. <strong>KΞNOBI (@KenobiDesigns)</strong>&nbsp;notes that it&#8217;s tough to build a community. If you&#8217;re a project founder, it&#8217;s really important that you&#8217;re on the same level as your community.&nbsp;</li><li><strong>@Farokh</strong>&nbsp;notes that they’re using storytelling to build a door around their brand and nurture their community.</li><li><strong>KΞNOBI (@KenobiDesigns)</strong>&nbsp;mentions that the three pillars of <a href="https://theboringapechronicles.com/chimpers/">Chimpers</a> are art, law, and community.&nbsp;They created a story of apes embarking on a quest that led to Chimpers NFT.&nbsp;</li><li><strong>Timpers.eth <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f47e.png" alt="👾" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@TimpersHD)</strong>&nbsp;says they’ve been passionate about making it an immersive experience.&nbsp;</li><li><strong>KΞNOBI (@KenobiDesigns)</strong>&nbsp;notes that the main focus for them is <a href="https://theboringapechronicles.com/">The Boring Ape Chronicle</a> series, and that will involve a new chimpanzee story with art pieces.&nbsp;</li><li><strong>Ser Joey (@PunkHot10)</strong>&nbsp;notes that their job is to fill the NFT space with color.&nbsp;He also says: <ul><li>they’re training in the dojo and they’ve just released a Space Invader game that can win prizes.&nbsp;</li><li>they’re thinking of how they can do it to delight users and capture attention.&nbsp;</li></ul><ul><li>they want to make it a fun engaging adventure that everybody wants to be a part of.</li><li>they want to grow and create art, create law, and create an animation series.&nbsp;</li><li>they need to grow within the ecosystem NFT space, but they’re actively discussing with people outside to help them get where they want to go.&nbsp;</li></ul></li><li><strong>Timpers.eth <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f47e.png" alt="👾" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@TimpersHD)</strong>&nbsp;says they&#8217;re having too much fun with Chimpers NFT and they&#8217;ll continue working on the next adventure story.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../../../wp-content/uploads/2022/08/image-4-1024x576.png" alt="CHIMPERS NFT ARE A COLLECTION OF 5,555 GENERATIVE NFT PIXEL CHARACTERS CREATED BY @TIMPERSHD." class="wp-image-182" srcset="./../../../wp-content/uploads/2022/08/image-4-1024x576.png 1024w, ./../../../wp-content/uploads/2022/08/image-4-300x169.png 300w, ./../../../wp-content/uploads/2022/08/image-4-768x432.png 768w, ./../../../wp-content/uploads/2022/08/image-4.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Liked this Twitter Spaces Summary? You may also enjoy <a href="./../../../koala-bot-club-talks-game-automation/index.html">these</a>:</p>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-alphaback wp-block-embed-alphaback"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="OGycsY6sX5"><a href="./../../../koala-bot-club-talks-game-automation/index.html">Koala Bot Club Talks Game Automation</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Koala Bot Club Talks Game Automation&#8221; &#8212; AlphaBack" src="./../../../koala-bot-club-talks-game-automation/embed/index.html#?secret=NC0oy7qv5f#?secret=OGycsY6sX5" data-secret="OGycsY6sX5" width="580" height="327" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p id="disclaimerandrisks"><em>Disclaimer &amp; Risks: This summary is for informational and entertainment purposes only and should not be relied upon as a basis for investment decisions. The host and guest may hold NFTs mentioned on the show, but that is not an endorsement or recommendation to buy any tokens or NFTs mentioned. Please do not follow any opinion as a specific strategy. Using crypto applications, wallets, protocols, and tools may expose users to risks including, but not limited to, smart contract bugs, systemic risk, flashloan attacks, economic incentive failures, liquidity crises, admin key exploits, governance exploits, and pegged assets such as stablecoins or tokenized BTC de-pegging.</em></p>
+<p>The post <a rel="nofollow" href="./../../../chimpers-nft-and-the-merge-on-rug-radio/index.html">Chimpers NFT and The Merge on Rug Radio</a> appeared first on <a rel="nofollow" href="./../../../index.html">AlphaBack</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Koala Bot Club Talks Game Automation</title>
 		<link>./../../../koala-bot-club-talks-game-automation/index.html</link>
 		
@@ -75,7 +218,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img width="1024" height="341" src="./../../../wp-content/uploads/2022/08/image-1-1024x341.png" alt="Koala Bot Club is a Solana NFT collection that &quot;says no to loot boxes and gambling.&quot;" class="wp-image-151" srcset="./../../../wp-content/uploads/2022/08/image-1-1024x341.png 1024w, ./../../../wp-content/uploads/2022/08/image-1-300x100.png 300w, ./../../../wp-content/uploads/2022/08/image-1-768x256.png 768w, ./../../../wp-content/uploads/2022/08/image-1-1200x400.png 1200w, ./../../../wp-content/uploads/2022/08/image-1.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="341" src="./../../../wp-content/uploads/2022/08/image-1-1024x341.png" alt="Koala Bot Club is a Solana NFT collection that &quot;says no to loot boxes and gambling.&quot;" class="wp-image-151" srcset="./../../../wp-content/uploads/2022/08/image-1-1024x341.png 1024w, ./../../../wp-content/uploads/2022/08/image-1-300x100.png 300w, ./../../../wp-content/uploads/2022/08/image-1-768x256.png 768w, ./../../../wp-content/uploads/2022/08/image-1-1200x400.png 1200w, ./../../../wp-content/uploads/2022/08/image-1.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -87,7 +230,7 @@
 
 
 
-<figure class="wp-container-2 wp-block-gallery-1 wp-block-gallery has-nested-images columns-default is-cropped">
+<figure class="wp-container-4 wp-block-gallery-3 wp-block-gallery has-nested-images columns-default is-cropped">
 <figure class="wp-block-image size-large"><img loading="lazy" width="1000" height="1000" data-id="148"  src="./../../../wp-content/uploads/2022/08/image-2.png" alt="Jelly eSports Rascals are an NFT collection on the Solana ecosystem." class="wp-image-148" srcset="./../../../wp-content/uploads/2022/08/image-2.png 1000w, ./../../../wp-content/uploads/2022/08/image-2-300x300.png 300w, ./../../../wp-content/uploads/2022/08/image-2-150x150.png 150w, ./../../../wp-content/uploads/2022/08/image-2-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
 
 
