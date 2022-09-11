@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Get Paid to Look at NFTs</description>
-	<lastBuildDate>Sat, 10 Sep 2022 18:10:20 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Sep 2022 17:14:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,79 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hacker House Vibezzz</title>
+		<link>./../hacker-house-vibezzz/index.html</link>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2022 17:14:11 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[entrepreneurship]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../index.html?p=380</guid>
+
+					<description><![CDATA[<p>Hi there 👋 I&#8217;ll keep this one short as I&#8217;m flying home after a week of hacking from Sandeep&#8217;s basement 😅 Highlights In person. We spent the week in NY, working side-by-side in Sandeep&#8217;s basement. It felt like hitting turbo on our product sprint and evoked our garage startup days. New feature. Our new leaderboard [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../hacker-house-vibezzz/index.html">Hacker House Vibezzz</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Hi there <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44b.png" alt="👋" class="wp-smiley" style="height: 1em; max-height: 1em;" /> I&#8217;ll keep this one short as I&#8217;m flying home after a week of hacking from Sandeep&#8217;s basement <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<h2><strong>Highlights</strong></h2>
+
+
+
+<ul><li><strong>In person</strong>. We spent the week in NY, working side-by-side in Sandeep&#8217;s basement. It felt like hitting turbo on our product sprint and evoked our garage startup days.</li><li><strong>New feature</strong>. Our new leaderboard feature is almost complete! Notable achievements include on-chain upvoting, a packaged extension (no more slow-loading URL), and a gallery of NFTs in the upvoting competition.</li><li><strong>Ten projects</strong>. Our goal was to launch the new leaderboard feature with ten projects. We now have 20 in the pipeline, 10 secured, and 5 fully onboarded. We&#8217;re excited to deliver value to them and our users very soon.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img width="1024" height="592" src="./../wp-content/uploads/2022/09/Example-1024x592.png" alt="A mockup of AlphaBack's leaderboard feature, showing onboarding requirements." class="wp-image-382" srcset="./../wp-content/uploads/2022/09/Example-1024x592.png 1024w, ./../wp-content/uploads/2022/09/Example-300x174.png 300w, ./../wp-content/uploads/2022/09/Example-768x444.png 768w, ./../wp-content/uploads/2022/09/Example-1200x694.png 1200w, ./../wp-content/uploads/2022/09/Example.png 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Fully-onboarded projects have provided us with their desired title, description, image, and click-through URL. </figcaption></figure>
+
+
+
+<h2><strong><strong>Obstacles</strong></strong></h2>
+
+
+
+<ul><li><strong>Extension-to-Extension</strong>. We had budgeted little time to code wallet transactions from our extension. But it turns out that we had it easy in our last release, where the extension was  opening a URL that had full access to <em>ethers.js</em> for Metamask interactions. Unfortunately, we couldn&#8217;t use that framework (and other scripts) in the native extension. We spent more time than anticipated figuring out extension-to-extension communication to prompt and execute wallet transactions.</li></ul>
+
+
+
+<h2><strong>Asks</strong></h2>
+
+
+
+<ul><li>Do you <strong>know a consumer marketer</strong>, especially one with experience going from 0-to-1 for a mobile app or extension? I&#8217;d love to get their feedback on our go-to-market plan.</li></ul>
+
+
+
+<p>As usual, thank you for your ongoing support <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p>Until next time, enjoy this gratuitous picture of my CTO kicking my butt in chess during one of our coding breaks: </p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="600" height="800" src="./../wp-content/uploads/2022/09/IMG_7644.png" alt="" class="wp-image-381" srcset="./../wp-content/uploads/2022/09/IMG_7644.png 600w, ./../wp-content/uploads/2022/09/IMG_7644-225x300.png 225w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" target="_blank" rel="noreferrer noopener">Install the free AlphaBack Browser Extension</a>&nbsp;today!</p>
+<p>The post <a rel="nofollow" href="./../hacker-house-vibezzz/index.html">Hacker House Vibezzz</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Entrepreneurship in Web3: Lessons from CryptoPunks</title>
 		<link>./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html</link>
 		
@@ -170,7 +243,7 @@
 <div class="wp-container-2 wp-block-query"><ul class="wp-container-1 wp-block-post-template"><li class="wp-block-post post-362 post type-post status-publish format-standard has-post-thumbnail hentry category-twitter-spaces-summaries tag-entrepreneurship tag-nfts tag-startups tag-twitter-spaces tag-web3">
 <h5 class="has-text-align-center wp-block-post-title"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html" target="_self" rel="">Entrepreneurship in Web3: Lessons from CryptoPunks</a></h5>
 
-<figure class="alignwide wp-block-post-featured-image"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html"><img loading="lazy" width="1200" height="400" src="./../wp-content/uploads/2022/09/image-1-1200x400.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Entrepreneurship in Web3: Lessons from CryptoPunks" srcset="./../wp-content/uploads/2022/09/image-1-1200x400.png 1200w, ./../wp-content/uploads/2022/09/image-1-300x100.png 300w, ./../wp-content/uploads/2022/09/image-1-1024x341.png 1024w, ./../wp-content/uploads/2022/09/image-1-768x256.png 768w, ./../wp-content/uploads/2022/09/image-1.png 1500w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure>
+<figure class="alignwide wp-block-post-featured-image"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html"><img width="1200" height="400" src="./../wp-content/uploads/2022/09/image-1-1200x400.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Entrepreneurship in Web3: Lessons from CryptoPunks" loading="lazy" srcset="./../wp-content/uploads/2022/09/image-1-1200x400.png 1200w, ./../wp-content/uploads/2022/09/image-1-300x100.png 300w, ./../wp-content/uploads/2022/09/image-1-1024x341.png 1024w, ./../wp-content/uploads/2022/09/image-1-768x256.png 768w, ./../wp-content/uploads/2022/09/image-1.png 1500w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure>
 
 <div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Various CryptoPunks join Twitter Spaces to discuss Entrepreneurship in Web3, highlighting BARRELX, ForeverPunks, and the PunksClub.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html">Read More</a></p></div>
 </li><li class="wp-block-post post-329 post type-post status-publish format-standard has-post-thumbnail hentry category-nfts category-twitter-spaces-summaries tag-crypto tag-nfts tag-startups tag-twitter-spaces">
@@ -1050,115 +1123,6 @@ https://www.youtube.com/watch?v=S6RIY8yuGjc
 
 <p><a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" target="_blank" rel="noreferrer noopener">Install the free AlphaBack Browser Extension</a> today!</p>
 <p>The post <a rel="nofollow" href="./../growth-marketing-fundraising-milestone/index.html">Growth Marketing &#038; Fundraising Milestone</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Koala Bot Club Talks Game Automation</title>
-		<link>./../koala-bot-club-talks-game-automation/index.html</link>
-		
-		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
-		<pubDate>Fri, 12 Aug 2022 15:11:00 +0000</pubDate>
-				<category><![CDATA[NFTs]]></category>
-		<category><![CDATA[Twitter Spaces Summaries]]></category>
-		<category><![CDATA[GameFi]]></category>
-		<category><![CDATA[gaming]]></category>
-		<category><![CDATA[Solana]]></category>
-		<category><![CDATA[Twitter Spaces]]></category>
-		<guid isPermaLink="false">./../index.html?p=145</guid>
-
-					<description><![CDATA[<p>Jelly eSports' Twitter Spaces hosts The Koala Bot Club, an NFT project that automates console gaming to improve player experiences.</p>
-<p>The post <a rel="nofollow" href="./../koala-bot-club-talks-game-automation/index.html">Koala Bot Club Talks Game Automation</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to <a href="http://alphaback.xyz/">AlphaBack&#8217;s</a> Twitter Spaces Summaries (#TSS). In this series, we summarize Twitter Spaces that you don&#8217;t want to miss. Why? Because we all love Twitter Spaces, but dammit if they aren&#8217;t difficult to tune into at times – whether it&#8217;s the inconvenient timing or unedited / off-topic meandering. In this first post of the series, the Koala Bot Club talks about its game automation platform and its integration with the #SolSuite platform.</p>
-
-
-
-<p><em>n.b. Summaries are edited for brevity and inconsistencies may occur due to crosstalk or audio quality. The content presented is not financial advice. Do your own research and review <a href="#disclaimerandrisks">the disclaimer below</a>.</em></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<h2>The Koala Bot Club and the SolSuite Platform</h2>
-
-
-
-<p><a href="https://twitter.com/JellyeSportsNFT">@JellyeSportsNFT</a> hosts this Twitter Spaces:</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">What is it really though? <a href="https://t.co/XL0exqXt0L">https://t.co/XL0exqXt0L</a></p>&mdash; Jelly eSports NFT <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4a5.png" alt="💥" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f608.png" alt="😈" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4a5.png" alt="💥" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@JellyeSportsNFT) <a href="https://twitter.com/JellyeSportsNFT/status/1558016543056728064?ref_src=twsrc%5Etfw">August 12, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<ul><li><strong><a href="https://twitter.com/ZooTechNFT">@ZooTechNFT</a></strong>&nbsp;represents the The Koala Bot Club, an NFT project that &#8220;automates gaming and in-game trading&#8221; to make player&#8217;s game experiences &#8220;affordable and fun.&#8221;</li></ul>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="341" src="./../wp-content/uploads/2022/08/image-1-1024x341.png" alt="Koala Bot Club is a Solana NFT collection that &quot;says no to loot boxes and gambling.&quot;" class="wp-image-151" srcset="./../wp-content/uploads/2022/08/image-1-1024x341.png 1024w, ./../wp-content/uploads/2022/08/image-1-300x100.png 300w, ./../wp-content/uploads/2022/08/image-1-768x256.png 768w, ./../wp-content/uploads/2022/08/image-1-1200x400.png 1200w, ./../wp-content/uploads/2022/08/image-1.png 1500w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<ul><li><strong>@ZooTechNFT</strong>&nbsp;also: <ul><li>describes his game automation technology, which automatically plays console games on behalf of users to earn experience or other in-game assets.</li><li>mentioned that the new FIFA season starts in the first week of September and they need to build a base of coins to start selling. He notes that the auction house they get provided by <a href="https://twitter.com/JellyeSportsNFT">Jelly eSports</a> will be sold a lot.</li><li>says they are partly paid by the royalties and partly by their partners.</li><li><strong>adds that they showcased a bot on a Twitch stream showing they’re capable of botting games on the blockchain</strong>.</li><li>says that people should stake the Koala Bot Club on the #SolSuite staking platform, get the native token, and buy an NFT to participate in their ecosystem.</li></ul></li></ul>
-
-
-
-<ul><li><strong>@niftygundog</strong>&nbsp;mentions that if someone has ten entities, then they can win every auction.</li><li><strong>@ZooTechNFT</strong>&nbsp;says they will host 0.25 [SOL?] NFT and have bigger NFTs, too.&nbsp;</li><li><strong>@B0BBY_18</strong>&nbsp;asks if people can buy FIFA tokens from Koala Club.&nbsp;</li><li><strong>@ZooTechNFT</strong>&nbsp;says they can’t sell them for various reasons. But he<strong> </strong>notes that they are already hosting poker games, and people who believe in the Koala Bot Club will benefit by getting the whitelist role.</li><li><strong>@lagargola1of1</strong>&nbsp;says they learned about Jelly eSports and found the community to be responsive and communicative.</li><li><strong>@niftygundog</strong>&nbsp;notes that there are people that work for jelly, like mods and community managers, and when holders see somebody in when the community who should be a whitelist recipient, then the mods could make it happen.&nbsp;</li><li><strong>@JellyeSportsNFT</strong>&nbsp;says there’s been some exploits, like making fake accounts and using special characters. But the best thing to do is take a screenshot and open up a support ticket.</li><li><strong>@niftygundog</strong>&nbsp;talks about how when &#8220;<a href="https://twitter.com/JellyeSportsNFT/status/1500748387246764034">gamble</a>&#8221; comes out, $JELLY will go up in price.&nbsp;<strong>@niftygundog</strong>&nbsp;notes that if you don’t have enough money to <a href="https://twitter.com/JellyeSportsNFT/status/1522705322904735745?lang=en">borrow a Rascal</a>, you can have <a href="https://mobile.twitter.com/JellyeSportsNFT/status/1543102322397483008">a dog for free</a>.</li></ul>
-
-
-
-<figure class="wp-container-14 wp-block-gallery-13 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img loading="lazy" width="1000" height="1000" data-id="148"  src="./../wp-content/uploads/2022/08/image-2.png" alt="Jelly eSports Rascals are an NFT collection on the Solana ecosystem." class="wp-image-148" srcset="./../wp-content/uploads/2022/08/image-2.png 1000w, ./../wp-content/uploads/2022/08/image-2-300x300.png 300w, ./../wp-content/uploads/2022/08/image-2-150x150.png 150w, ./../wp-content/uploads/2022/08/image-2-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="2000" height="2000" data-id="146"  src="./../wp-content/uploads/2022/08/image.png" alt="Jelly eSports JellyDawgs are causing mayhem in the Solana space." class="wp-image-146" srcset="./../wp-content/uploads/2022/08/image.png 2000w, ./../wp-content/uploads/2022/08/image-300x300.png 300w, ./../wp-content/uploads/2022/08/image-1024x1024.png 1024w, ./../wp-content/uploads/2022/08/image-150x150.png 150w, ./../wp-content/uploads/2022/08/image-768x768.png 768w, ./../wp-content/uploads/2022/08/image-1536x1536.png 1536w, ./../wp-content/uploads/2022/08/image-1200x1200.png 1200w, ./../wp-content/uploads/2022/08/image-1980x1980.png 1980w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure>
-<figcaption class="blocks-gallery-caption">Jelly eSports Rascals and Dawgs are causing mayhem in the Solana space.</figcaption></figure>
-
-
-
-<ul><li><strong>@JellyeSportsNFT</strong> says they’d love to see more people in the holders chat, playing games with them. He notes that Jelly eSports always give back when they can.</li><li><strong>@PoetryDude_</strong> says there’s a lot of people that’s going to give away their JellyDawgs because one is free. </li><li><strong>@lagargola1of1</strong> talks about how to turn off their DMs for safety reasons.</li><li><strong>@niftygundog</strong> mentions that if you don&#8217;t have Rascals, <a href="https://solanacompass.com/tokens/jelly">then buy $JELLY</a>.</li></ul>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p class="has-text-align-center">Liked this summary? You may also <a href="./../category/twitter-spaces-summaries/index.html">enjoy these</a>:</p>
-
-
-
-<div class="wp-container-16 wp-block-query"><ul class="wp-container-15 wp-block-post-template"><li class="wp-block-post post-362 post type-post status-publish format-standard has-post-thumbnail hentry category-twitter-spaces-summaries tag-entrepreneurship tag-nfts tag-startups tag-twitter-spaces tag-web3">
-<h5 class="has-text-align-center wp-block-post-title"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html" target="_self" rel="">Entrepreneurship in Web3: Lessons from CryptoPunks</a></h5>
-
-<figure class="alignwide wp-block-post-featured-image"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html"><img width="1200" height="400" src="./../wp-content/uploads/2022/09/image-1-1200x400.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Entrepreneurship in Web3: Lessons from CryptoPunks" loading="lazy" srcset="./../wp-content/uploads/2022/09/image-1-1200x400.png 1200w, ./../wp-content/uploads/2022/09/image-1-300x100.png 300w, ./../wp-content/uploads/2022/09/image-1-1024x341.png 1024w, ./../wp-content/uploads/2022/09/image-1-768x256.png 768w, ./../wp-content/uploads/2022/09/image-1.png 1500w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure>
-
-<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Various CryptoPunks join Twitter Spaces to discuss Entrepreneurship in Web3, highlighting BARRELX, ForeverPunks, and the PunksClub.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html">Read More</a></p></div>
-</li><li class="wp-block-post post-329 post type-post status-publish format-standard has-post-thumbnail hentry category-nfts category-twitter-spaces-summaries tag-crypto tag-nfts tag-startups tag-twitter-spaces">
-<h5 class="has-text-align-center wp-block-post-title"><a href="./../nft-news-drops-from-parallax/index.html" target="_self" rel="">NFT News &#038; Drops from Parallax</a></h5>
-
-<figure class="alignwide wp-block-post-featured-image"><a href="./../nft-news-drops-from-parallax/index.html"><img width="468" height="245" src="./../wp-content/uploads/2022/09/readyplayerme.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="NFT News &#038; Drops from Parallax" loading="lazy" srcset="./../wp-content/uploads/2022/09/readyplayerme.jpg 468w, ./../wp-content/uploads/2022/09/readyplayerme-300x157.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /></a></figure>
-
-<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">YouTuber, The Parallax, shares NFT news about Kingship partnership with M&#038;M, Hello Kitty&#8217;s NFT, a16z investment in Ready Player Me and more.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../nft-news-drops-from-parallax/index.html">Read More</a></p></div>
-</li></ul></div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p id="disclaimerandrisks"><em>Disclaimer &amp; Risks: This summary is for informational and entertainment purposes only and should not be relied upon as a basis for investment decisions. The host and guest may hold NFTs mentioned on the show, but that is not an endorsement or recommendation to buy any tokens or NFTs mentioned. Please do not follow any opinion as a specific strategy. Using crypto applications, wallets, protocols, and tools may expose users to risks including, but not limited to, smart contract bugs, systemic risk, flashloan attacks, economic incentive failures, liquidity crises, admin key exploits, governance exploits, and pegged assets such as stablecoins or tokenized BTC de-pegging.</em></p>
-<p>The post <a rel="nofollow" href="./../koala-bot-club-talks-game-automation/index.html">Koala Bot Club Talks Game Automation</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
 ]]></content:encoded>
 					
 		
