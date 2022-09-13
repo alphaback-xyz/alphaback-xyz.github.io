@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>AlphaBack - Get Paid to Look at NFTs</title>
+	<title>NFTs Archives - AlphaBack</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<link></link>
 	<description>Get Paid to Look at NFTs</description>
 	<lastBuildDate>Sat, 10 Sep 2022 16:57:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2022/08/cropped-favicon-32x32.png</url>
-	<title>AlphaBack - Get Paid to Look at NFTs</title>
-	<link>./../../../index.html</link>
+	<title>NFTs Archives - AlphaBack</title>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
