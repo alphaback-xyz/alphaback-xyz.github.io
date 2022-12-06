@@ -8,1125 +8,247 @@
 	>
 
 <channel>
-	<title>AlphaBack - Get Paid to Look at NFTs</title>
+	<title>AlphaBack</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Get Paid to Look at NFTs</description>
-	<lastBuildDate>Sun, 11 Sep 2022 17:14:34 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Nov 2022 22:36:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
 	<url>./../wp-content/uploads/2022/08/cropped-favicon-32x32.png</url>
-	<title>AlphaBack - Get Paid to Look at NFTs</title>
+	<title>AlphaBack</title>
 	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hacker House Vibezzz</title>
-		<link>./../hacker-house-vibezzz/index.html</link>
+		<title>Pivot.</title>
+		<link>./../blog/pivot/index.html</link>
+					<comments>./../blog/pivot/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
-		<pubDate>Sun, 11 Sep 2022 17:14:11 +0000</pubDate>
+		<pubDate>Sun, 20 Nov 2022 22:36:48 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[entrepreneurship]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../index.html?p=542</guid>
+
+					<description><![CDATA[<p>We reviewed our objective and key results and made a tough decision. We are pivoting. Background For AlphaBack to thrive, it needs a rapidly growing user base to attract advertisers. Therefore, we aimed for aggressive 10% week-over-week install growth. Importantly, such growth must come at an average cost of $3 per user to satisfy our [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../blog/pivot/index.html">Pivot.</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../blog/pivot/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Measuring Growth Tactics</title>
+		<link>./../blog/measuring-growth-tactics/index.html</link>
+					<comments>./../blog/measuring-growth-tactics/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Sun, 13 Nov 2022 20:25:18 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[entrepreneurship]]></category>
+		<category><![CDATA[startups]]></category>
+		<guid isPermaLink="false">./../index.html?p=539</guid>
+
+					<description><![CDATA[<p>It was a busy week at AlphaBack, managing and measuring various growth tactics. We&#8217;re approaching our growth experiment&#8217;s review date on Dec. 5th. At that point, we&#8217;ll perform a deep dive on each GTM tactic, review hypotheses / conclusions, and determine next steps. Highlights Prospecting Shopify Stores. Email outreach continues, and we&#8217;re seeing better reply [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../blog/measuring-growth-tactics/index.html">Measuring Growth Tactics</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../blog/measuring-growth-tactics/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google Strikes Again</title>
+		<link>./../blog/google-strikes-again/index.html</link>
+					<comments>./../blog/google-strikes-again/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Mon, 07 Nov 2022 05:03:05 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[entrepreneurship]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../index.html?p=538</guid>
+
+					<description><![CDATA[<p>A belated Halloween and Feliz Día de Los Muertos ? No treats for me this year ? just a 12-hr drive in a combined 41&#8242; U-Haul and towed vehicle as I relocated from El Paso, TX to Denver, CO. Ping me whenever you&#8217;re in the area (eg, ETHDenver) so we can grab a drink. Highlights [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../blog/google-strikes-again/index.html">Google Strikes Again</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../blog/google-strikes-again/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Looking for Shopify Partnerships</title>
+		<link>./../blog/looking-for-shopify-partnerships/index.html</link>
+					<comments>./../blog/looking-for-shopify-partnerships/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Sun, 30 Oct 2022 15:50:48 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[entrepreneurship]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[startups]]></category>
+		<guid isPermaLink="false">./../index.html?p=535</guid>
+
+					<description><![CDATA[<p>We&#8217;re steadily turning the crank on web2 acquisition channels, with emphasis on partnerships, paid media, and TikTok. Challenges this week included ad rejections from automated systems that are too aggressive on financial products. Give it a read and send me your thoughts ? Highlights Prospecting Shopify Owners. We created an explainer deck for a partnership [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../blog/looking-for-shopify-partnerships/index.html">Looking for Shopify Partnerships</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../blog/looking-for-shopify-partnerships/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OKR &#038; Status Updates</title>
+		<link>./../blog/okr-status-updates/index.html</link>
+					<comments>./../blog/okr-status-updates/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 01:20:28 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[crypto]]></category>
+		<category><![CDATA[entrepreneurship]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../index.html?p=533</guid>
+
+					<description><![CDATA[<p>This week&#8217;s update is different. In this post, we review our current objectives, key results, and initiatives. Objective Generate meaningful user install growth (10% WoW) at an average CAC of $3 / user. Channel Exploration As you may recall, we&#8217;re exploring four channels to acquire users: SEO / Guest Blogging, Video / Social Posts, Paid [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../blog/okr-status-updates/index.html">OKR &#038; Status Updates</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../blog/okr-status-updates/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TikTok, SEO, and Ads</title>
+		<link>./../blog/tiktok-seo-and-ads/index.html</link>
+					<comments>./../blog/tiktok-seo-and-ads/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2022 03:54:43 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[entrepreneurship]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../index.html?p=530</guid>
+
+					<description><![CDATA[<p>Our journey into web2 user acquisition continues, with emphasis on TikTok, SEO, and paid media. Challenges this week included ad rejections and the Herculean effort required to influence people on social media. Read on to get the details. Highlights TikTok Content. Big thanks to our angel investor (and TikTok Influencer) Myra for sharing her experience [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../blog/tiktok-seo-and-ads/index.html">TikTok, SEO, and Ads</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../blog/tiktok-seo-and-ads/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="./../wp-content/uploads/2022/10/AlphaBack_Sell-Browser_V3_2.mp4" length="26211562" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Bringing Web 2.0 Users to Web 3.0</title>
+		<link>./../blog/bringing-web-2-0-users-to-web-3-0/index.html</link>
+					<comments>./../blog/bringing-web-2-0-users-to-web-3-0/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Sun, 09 Oct 2022 12:15:00 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[entrepreneurship]]></category>
+		<category><![CDATA[startups]]></category>
+		<guid isPermaLink="false">./../index.html?p=526</guid>
+
+					<description><![CDATA[<p>We hope you&#8217;re having a great weekend! Both founders are recovering from a nasty cold ? yet making progress on our transition to acquiring web2 consumers. Read on for the usual highlights, lowlights, and asks. Highlights BizDev Progress. We managed to engage a few large NFT projects (audience 61K and 28K) regarding a cross-promotion. This [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../blog/bringing-web-2-0-users-to-web-3-0/index.html">Bringing Web 2.0 Users to Web 3.0</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../blog/bringing-web-2-0-users-to-web-3-0/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lessons from Our Leaderboard Tactic</title>
+		<link>./../blog/lessons-from-our-leaderboard-tactic/index.html</link>
+					<comments>./../blog/lessons-from-our-leaderboard-tactic/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 00:37:02 +0000</pubDate>
+				<category><![CDATA[Retro]]></category>
+		<category><![CDATA[entrepreneurship]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[NFTs]]></category>
+		<category><![CDATA[web3]]></category>
+		<guid isPermaLink="false">./../index.html?p=522</guid>
+
+					<description><![CDATA[<p>This week&#8217;s note varies our typical structure. Here, we present Q&#38;A sourced from thoughtful replies our stakeholders offered in response to our first week&#8217;s metrics. The Leaderboard Features is not the core hypothesis that we are testing. Your funnel segmentation is very helpful, and as you pointed out, shows healthy conversion from engagement in Discord [&#8230;]</p>
+<p>The post <a rel="nofollow" href="./../blog/lessons-from-our-leaderboard-tactic/index.html">Lessons from Our Leaderboard Tactic</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>./../blog/lessons-from-our-leaderboard-tactic/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Week 1 Results from Leaderboard Growth Tactic</title>
+		<link>./../blog/week-1-results-from-leaderboard-growth-tactic/index.html</link>
+					<comments>./../blog/week-1-results-from-leaderboard-growth-tactic/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
+		<pubDate>Mon, 26 Sep 2022 01:28:02 +0000</pubDate>
 				<category><![CDATA[Retro]]></category>
 		<category><![CDATA[crypto]]></category>
 		<category><![CDATA[entrepreneurship]]></category>
 		<category><![CDATA[NFTs]]></category>
 		<category><![CDATA[startups]]></category>
-		<category><![CDATA[web3]]></category>
-		<guid isPermaLink="false">./../index.html?p=380</guid>
+		<guid isPermaLink="false">./../index.html?p=514</guid>
 
-					<description><![CDATA[<p>Hi there 👋 I&#8217;ll keep this one short as I&#8217;m flying home after a week of hacking from Sandeep&#8217;s basement 😅 Highlights In person. We spent the week in NY, working side-by-side in Sandeep&#8217;s basement. It felt like hitting turbo on our product sprint and evoked our garage startup days. New feature. Our new leaderboard [&#8230;]</p>
-<p>The post <a rel="nofollow" href="./../hacker-house-vibezzz/index.html">Hacker House Vibezzz</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
+					<description><![CDATA[<p>Ten projects competed in our leaderboard feature, we improved our SEO, and we analyzed our launch performance.</p>
+<p>The post <a rel="nofollow" href="./../blog/week-1-results-from-leaderboard-growth-tactic/index.html">Week 1 Results from Leaderboard Growth Tactic</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>Hi there <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44b.png" alt="👋" class="wp-smiley" style="height: 1em; max-height: 1em;" /> I&#8217;ll keep this one short as I&#8217;m flying home after a week of hacking from Sandeep&#8217;s basement <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-
-
-
-<h2><strong>Highlights</strong></h2>
-
-
-
-<ul><li><strong>In person</strong>. We spent the week in NY, working side-by-side in Sandeep&#8217;s basement. It felt like hitting turbo on our product sprint and evoked our garage startup days.</li><li><strong>New feature</strong>. Our new leaderboard feature is almost complete! Notable achievements include on-chain upvoting, a packaged extension (no more slow-loading URL), and a gallery of NFTs in the upvoting competition.</li><li><strong>Ten projects</strong>. Our goal was to launch the new leaderboard feature with ten projects. We now have 20 in the pipeline, 10 secured, and 5 fully onboarded. We&#8217;re excited to deliver value to them and our users very soon.</li></ul>
-
-
-
-<figure class="wp-block-image size-large"><img width="1024" height="592" src="./../wp-content/uploads/2022/09/Example-1024x592.png" alt="A mockup of AlphaBack's leaderboard feature, showing onboarding requirements." class="wp-image-382" srcset="./../wp-content/uploads/2022/09/Example-1024x592.png 1024w, ./../wp-content/uploads/2022/09/Example-300x174.png 300w, ./../wp-content/uploads/2022/09/Example-768x444.png 768w, ./../wp-content/uploads/2022/09/Example-1200x694.png 1200w, ./../wp-content/uploads/2022/09/Example.png 1440w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Fully-onboarded projects have provided us with their desired title, description, image, and click-through URL. </figcaption></figure>
-
-
-
-<h2><strong><strong>Obstacles</strong></strong></h2>
-
-
-
-<ul><li><strong>Extension-to-Extension</strong>. We had budgeted little time to code wallet transactions from our extension. But it turns out that we had it easy in our last release, where the extension was  opening a URL that had full access to <em>ethers.js</em> for Metamask interactions. Unfortunately, we couldn&#8217;t use that framework (and other scripts) in the native extension. We spent more time than anticipated figuring out extension-to-extension communication to prompt and execute wallet transactions.</li></ul>
-
-
-
-<h2><strong>Asks</strong></h2>
-
-
-
-<ul><li>Do you <strong>know a consumer marketer</strong>, especially one with experience going from 0-to-1 for a mobile app or extension? I&#8217;d love to get their feedback on our go-to-market plan.</li></ul>
-
-
-
-<p>As usual, thank you for your ongoing support <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-
-
-
-<p>Until next time, enjoy this gratuitous picture of my CTO kicking my butt in chess during one of our coding breaks: </p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="600" height="800" src="./../wp-content/uploads/2022/09/IMG_7644.png" alt="" class="wp-image-381" srcset="./../wp-content/uploads/2022/09/IMG_7644.png 600w, ./../wp-content/uploads/2022/09/IMG_7644-225x300.png 225w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p><a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" target="_blank" rel="noreferrer noopener">Install the free AlphaBack Browser Extension</a>&nbsp;today!</p>
-<p>The post <a rel="nofollow" href="./../hacker-house-vibezzz/index.html">Hacker House Vibezzz</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></content:encoded>
-					
+		
+					<wfw:commentRss>./../blog/week-1-results-from-leaderboard-growth-tactic/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Entrepreneurship in Web3: Lessons from CryptoPunks</title>
-		<link>./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html</link>
+		<title>Ephere x AlphaBack, a paid to surf extension for NFT projects</title>
+		<link>./../blog/ephere-x-alphaback-a-paid-to-surf-extension-for-nft-projects/index.html</link>
+					<comments>./../blog/ephere-x-alphaback-a-paid-to-surf-extension-for-nft-projects/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
-		<pubDate>Sat, 10 Sep 2022 18:04:42 +0000</pubDate>
-				<category><![CDATA[Twitter Spaces Summaries]]></category>
-		<category><![CDATA[entrepreneurship]]></category>
-		<category><![CDATA[NFTs]]></category>
-		<category><![CDATA[startups]]></category>
-		<category><![CDATA[Twitter Spaces]]></category>
-		<category><![CDATA[web3]]></category>
-		<guid isPermaLink="false">./../index.html?p=362</guid>
-
-					<description><![CDATA[<p>Various CryptoPunks join Twitter Spaces to discuss Entrepreneurship in Web3, highlighting BARRELX, ForeverPunks, and the PunksClub.</p>
-<p>The post <a rel="nofollow" href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html">Entrepreneurship in Web3: Lessons from CryptoPunks</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>In this Twitter Spaces Summary (#TSS) of <em>Entrepreneurship and IP in web3 &#8211; BARRELX x PunksClub</em>, you&#8217;ll learn about entrepreneurship in web3 from multiple CryptoPunks. ICYMI, here&#8217;s the TLDR:</p>
-
-
-
-<ul><li>BARRELX is a web3 project that&#8217;s combining real-world assets (Kentucky bourbon) and NFTs;</li><li>The BARRELX co-founders joined this Twitter Spaces to talk about entrepreneurship in web3, including highs and lows; </li><li>An IP lawyer joins the conversation to highlight the importance of copyright, trademark, and licensing in the NFT space; </li><li>Other web3 entrepreneurs join the discussion, discussing product like Forever Punks and PunksClub. </li></ul>
-
-
-
-<p><em>n.b. Summaries are edited for brevity and inconsistencies may occur due to crosstalk or audio quality. The content presented is not financial advice. Do your own research and review <a href="#disclaimerandrisks">the disclaimer below</a>.</em></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<h2>PunksClub&#8217;s Twitter Spaces about entrepreneurship in web3</h2>
-
-
-
-<p><a href="https://twitter.com/punksclub_io">PunksClub</a> hosted <em>Entrepreneurship and IP in web3 &#8211; BARRELX x PunksClub</em> on Sept. 6, 2022, with a runtime of 1:34:17 and 144 people tuning in.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">[2/2]<br>And also:<br>&#8211; What to focus your efforts around for your product to be successful and on the market in record time <br><br>It&#39;s on Tuesday at noon EST with <a href="https://twitter.com/punksclub_io?ref_src=twsrc%5Etfw">@punksclub_io</a>, <a href="https://twitter.com/nicolemcgrawart?ref_src=twsrc%5Etfw">@nicolemcgrawart</a> &amp; <a href="https://twitter.com/BARRELXNFT?ref_src=twsrc%5Etfw">@BARRELXNFT</a> <a href="https://t.co/Fu9Yl1XNUD">https://t.co/Fu9Yl1XNUD</a></p>&mdash; VoyTech.eth (@VoyTechEth) <a href="https://twitter.com/VoyTechEth/status/1566457691064655872?ref_src=twsrc%5Etfw">September 4, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>Here is a summary of that Twitter Spaces.</p>
-
-
-
-<h2>Crossroads of IP Licensing &amp; Entrepreneurship in Web3</h2>
-
-
-
-<ul><li><strong>Nicole (@nicolemcgrawart</strong>) says the PunksClub is trying to bring the CryptoPunks together to share about web3 and the projects they’re building. <strong>Nicole </strong>introduces herself as the CEO of Jupiter Group, a leader in art and tech integration. She used to own galleries, most recently in Palm Beach. Her entrepreneurship experience positions her well to launch BARRELX, an NFT project that aims to democratize aging spirits. A key aspect of that project is that BarrelX is collaborating with NFT holders to place their artwork on the barrel via IP licensing. </li><li><strong>Matt (@BARRELXER)</strong> is the CEO of All Nations Distilling. He got into the spirits game five years ago, starting with Kentucky bourbon. He&#8217;s trying to figure out how to make spirits aging accessible to more people. He got involved with BARRELX because he was looking for a solution for their barrel inventories and barrel management system. He wasn&#8217;t looking for a web3 solution specifically, but the blockchain technology just fit well.</li></ul>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="619" src="./../wp-content/uploads/2022/09/image-2-1024x619.png" alt="Co-founder Matt from BARRELX offers lessons from his entrepreneurship in web3." class="wp-image-368" srcset="./../wp-content/uploads/2022/09/image-2-1024x619.png 1024w, ./../wp-content/uploads/2022/09/image-2-300x181.png 300w, ./../wp-content/uploads/2022/09/image-2-768x464.png 768w, ./../wp-content/uploads/2022/09/image-2-1200x725.png 1200w, ./../wp-content/uploads/2022/09/image-2.png 1527w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<ul><li>An important part of entrepreneurship in web3 is understanding the intellectual property landscape. Queue <strong>Vivek</strong> (@jayaram_vivek), who has advised artists on the importance of IP over the last couple of decades. NFTs provide a novel and unique opportunity to experiment with IP licensing, sub-licensing, and other interesting IP collaborations.</li><li><strong>VoyTech.eth</strong> thinks crypto is exciting because it reset the clock on finance, where nobody can stop you from doing a blockchain transaction. But beware: <strong>Vivek</strong> notes that copyright and trademark laws have not changed since the onset of crypto. The last few years have pushed lawyers into this space to figure out how federal laws will apply to these new uses. Folks in the crypto and art communities are excited about projects providing commercial licensing to the NFT holders. Since BAYC released their license, many other projects have used similar structures. But the burden is on the communities to figure out how existing laws can be applied to this new medium.</li><li><strong>Vivek</strong> notes that the lobbying (to foster creativity and innovation in crypto) appears to be working. There will be regulation addressing cryptocurrencies, but they won&#8217;t be catastrophic or harmful to the community. </li></ul>
-
-
-
-<h2>Surviving entrepreneurship in web3</h2>
-
-
-
-<ul><li><strong>Nicole</strong> says building a web3 product has been crazy. It has taken a lot of learning and iteration. But they’re happy where they are now, having built a team that executes together well. </li><li><strong>Matt</strong> has been building manufacturing facilities for a long time, starting in his mother in law’s basement. He started in a 2,500 square foot space, which grew into one of the largest facilities in the country. It has taken him five years to build a manufacturing facility because regulators (local and state) have their hands in what you’re doing. The hard part is finding the right people. Failures are great to motivate you and narrow potential screw ups. As the tech industry matures, they’ll have more service providers. </li></ul>
-
-
-
-<figure class="wp-block-pullquote"><blockquote><p>It&#8217;s inevitable that entrepreneurs in web3 will disrupt brick and mortar industries. Over the next decade, we&#8217;re going to see the proliferation of hybrid spaces between the metaverse and the real world.</p><cite>Matt (@BARRELXER)</cite></blockquote></figure>
-
-
-
-<ul><li><strong>VoyTech.eth</strong> notes that key attributes of a web3 entrepreneur are persistent grit. In contrast to building manufacturing facilities, you can test ideas in crypto via mockups. You can get the product out in two weeks, put it in front of users, and see if it actually works. Web3 is all about quick validation.</li><li><strong>foreverpunks.eth</strong> is another entrepreneur in web3. He focuses on the Forever Punk product, which is within their scope as a one-man coder. He&#8217;s been doing it for two months, meeting the people, and it’s been good so far. The product came from a problem they were experiencing when they bought a CryptoPunk. He added features that he thought were missing.</li></ul>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="635" height="780" src="./../wp-content/uploads/2022/09/image-3.png" alt="Another example of entrepreneurship in web3: Forever Punks adds value to the NFT ecosystem." class="wp-image-369" srcset="./../wp-content/uploads/2022/09/image-3.png 635w, ./../wp-content/uploads/2022/09/image-3-244x300.png 244w" sizes="(max-width: 635px) 100vw, 635px" /></figure>
-
-
-
-<ul><li><strong>VoyTech.eth</strong> argues that developers should use the simplest tool for the job and get consultants to jump in and judge the set up. If you just hire an agency or external CTO, they may be making technical choices that end up costing you 10x more in the long run. </li></ul>
-
-
-
-<figure class="wp-block-pullquote"><blockquote><p>Working with developers is like working with a car mechanic: they do work and it&#8217;s hard to verify whether it was done right unless you&#8217;re a car expert, too.</p><cite>VoyTech.eth</cite></blockquote></figure>
-
-
-
-<h2>BARRELX, an example of entrepreneurship in Web3</h2>
-
-
-
-<ul><li>BARRELX co-founder, Nicole, says they are building a new marketplace that&#8217;s going to democratize the aging spirits industry. Their first drop is a premium bourbon, and one 10th of a barrel equals 22 bottles.<strong> </strong>Customers can choose the mash bill, which are the ingredients that go inside the barrel to make up the bourbon. </li></ul>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="602" src="./../wp-content/uploads/2022/09/Screen-Shot-2022-09-10-at-1.48.45-PM-1024x602.png" alt="BARRELX interface allows customers to select their bourbon." class="wp-image-371" srcset="./../wp-content/uploads/2022/09/Screen-Shot-2022-09-10-at-1.48.45-PM-1024x602.png 1024w, ./../wp-content/uploads/2022/09/Screen-Shot-2022-09-10-at-1.48.45-PM-300x176.png 300w, ./../wp-content/uploads/2022/09/Screen-Shot-2022-09-10-at-1.48.45-PM-768x451.png 768w, ./../wp-content/uploads/2022/09/Screen-Shot-2022-09-10-at-1.48.45-PM-1536x902.png 1536w, ./../wp-content/uploads/2022/09/Screen-Shot-2022-09-10-at-1.48.45-PM-2048x1203.png 2048w, ./../wp-content/uploads/2022/09/Screen-Shot-2022-09-10-at-1.48.45-PM-1200x705.png 1200w, ./../wp-content/uploads/2022/09/Screen-Shot-2022-09-10-at-1.48.45-PM-1980x1163.png 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<ul><li><strong>Nicole</strong> says the bourbon market is on fire because people started importing bourbon and the supply dried up. She notes that you cannot buy fractions of barrels on a marketplace anywhere.</li><li><strong>Matt</strong> notes that when they started trading barrels, they were tackling a real estate play. He learned that he would not have enough liquid to go to market. There’s 11 million barrels of liquid on the ground, and yet they could only produce 1.5M barrels a year. So they pivoted to manufacturing a plant.</li><li><strong>Matt</strong> says the spirits trade exists in a large, real world way. People are more interested in playing in that world. <strong>VoyTech.eth</strong> notes that the community aspect is what propels this space forward. Matt talks about how there’s an educational avenue to make sure everybody understands the bourbon-making process. <strong>VoyTech.eth</strong> has obtained great results from crypto-trading, but there is no physical aspect, like there is in BARRELX.</li><li><strong>Matt</strong> says there’s plenty of opportunities to collaborate with other communities – without explicitly being all about BARRELX.</li></ul>
-
-
-
-<h2>Opportunities for collaboration among web3 entrepreneurs and communities</h2>
-
-
-
-<ul><li><strong>VoyTech.eth</strong> notes that when he joined crypto, the main tools were Discord and Telegram; people were fragmented across many groups. It&#8217;s a shame not to leverage the communities.</li><li><strong>foreverpunks.eth</strong> is a web3 entrepreneur, and he&#8217;s having an internal debate whether to build more Punk-specific features or go wider. He&#8217;s thinking of starting a Punk podcast that interviews CryptoPunks to get their background stories. As for monetization, perhaps the podcast charges a fee to feature your Punk in a highlighted spot.</li><li><strong>VoyTech.eth</strong> wants to launch his PunksClub service for BAYC to get broader traction. The next step is a mobile app and chat. They started with social features to see if that aspect would catch on. They have Telegram and Discord bots, and they’re waiting for those companies to approve the bots so they can release a digests feature.</li></ul>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="971" height="1024" src="./../wp-content/uploads/2022/09/image-4-971x1024.png" alt="PunksClub offers a CryptoPunk-centric social network application." class="wp-image-374" srcset="./../wp-content/uploads/2022/09/image-4-971x1024.png 971w, ./../wp-content/uploads/2022/09/image-4-285x300.png 285w, ./../wp-content/uploads/2022/09/image-4-768x810.png 768w, ./../wp-content/uploads/2022/09/image-4-1457x1536.png 1457w, ./../wp-content/uploads/2022/09/image-4-1200x1265.png 1200w, ./../wp-content/uploads/2022/09/image-4.png 1510w" sizes="(max-width: 971px) 100vw, 971px" /></figure>
-
-
-
-<ul><li><strong>Foreverpunks.eth (@foreverpunksnft)</strong> is adding features to Forever Punk on a weekly basis, but there’s no user generated content. Ultimately, usage appears to be tied to CryptoPunks activity. <strong>VoyTech.eth</strong> discusses expanding the map feature, enabling a CryptoPunk to be visible in both the home city and the destination city. </li><li><strong>VoyTech.eth</strong> highlights other roadmap items, like: giving people the ability to make their content public, a public member directory, and an events feature. Beyond the roadmap, there are many other ideas they are considering. For instance, they could set up channels to notify about specific areas of the world. All of this is made possible by web3 because without the CryptoPunks collection, it would be difficult to get the energy to build.</li></ul>
-
-
-
-<p>That&#8217;s wrap for this Twitter Spaces Summary. I hope you enjoyed learning about entrepreneurship in web3, thanks to the PunksClub and friends!</p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p class="has-text-align-center">Liked this summary? You may also <a href="./../category/twitter-spaces-summaries/index.html">enjoy these</a>:</p>
-
-
-
-<div class="wp-container-2 wp-block-query"><ul class="wp-container-1 wp-block-post-template"><li class="wp-block-post post-362 post type-post status-publish format-standard has-post-thumbnail hentry category-twitter-spaces-summaries tag-entrepreneurship tag-nfts tag-startups tag-twitter-spaces tag-web3">
-<h5 class="has-text-align-center wp-block-post-title"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html" target="_self" rel="">Entrepreneurship in Web3: Lessons from CryptoPunks</a></h5>
-
-<figure class="alignwide wp-block-post-featured-image"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html"><img width="1200" height="400" src="./../wp-content/uploads/2022/09/image-1-1200x400.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Entrepreneurship in Web3: Lessons from CryptoPunks" loading="lazy" srcset="./../wp-content/uploads/2022/09/image-1-1200x400.png 1200w, ./../wp-content/uploads/2022/09/image-1-300x100.png 300w, ./../wp-content/uploads/2022/09/image-1-1024x341.png 1024w, ./../wp-content/uploads/2022/09/image-1-768x256.png 768w, ./../wp-content/uploads/2022/09/image-1.png 1500w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure>
-
-<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Various CryptoPunks join Twitter Spaces to discuss Entrepreneurship in Web3, highlighting BARRELX, ForeverPunks, and the PunksClub.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html">Read More</a></p></div>
-</li><li class="wp-block-post post-329 post type-post status-publish format-standard has-post-thumbnail hentry category-nfts category-twitter-spaces-summaries tag-crypto tag-nfts tag-startups tag-twitter-spaces">
-<h5 class="has-text-align-center wp-block-post-title"><a href="./../nft-news-drops-from-parallax/index.html" target="_self" rel="">NFT News &#038; Drops from Parallax</a></h5>
-
-<figure class="alignwide wp-block-post-featured-image"><a href="./../nft-news-drops-from-parallax/index.html"><img width="468" height="245" src="./../wp-content/uploads/2022/09/readyplayerme.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="NFT News &#038; Drops from Parallax" loading="lazy" srcset="./../wp-content/uploads/2022/09/readyplayerme.jpg 468w, ./../wp-content/uploads/2022/09/readyplayerme-300x157.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /></a></figure>
-
-<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">YouTuber, The Parallax, shares NFT news about Kingship partnership with M&#038;M, Hello Kitty&#8217;s NFT, a16z investment in Ready Player Me and more.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../nft-news-drops-from-parallax/index.html">Read More</a></p></div>
-</li></ul></div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p id="disclaimerandrisks"><em>Disclaimer &amp; Risks: This summary is for informational and entertainment purposes only and should not be relied upon as a basis for investment decisions. The host and guest may hold NFTs mentioned on the show, but that is not an endorsement or recommendation to buy any tokens or NFTs mentioned. Please do not follow any opinion as a specific strategy. Using crypto applications, wallets, protocols, and tools may expose users to risks including, but not limited to, smart contract bugs, systemic risk, flashloan attacks, economic incentive failures, liquidity crises, admin key exploits, governance exploits, and pegged assets such as stablecoins or tokenized BTC de-pegging.</em></p>
-<p>The post <a rel="nofollow" href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html">Entrepreneurship in Web3: Lessons from CryptoPunks</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Leaderboard Feature Coming Soon</title>
-		<link>./../leaderboard-feature-coming-soon/index.html</link>
-		
-		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
-		<pubDate>Tue, 06 Sep 2022 10:23:04 +0000</pubDate>
-				<category><![CDATA[Retro]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<category><![CDATA[NFTs]]></category>
-		<category><![CDATA[startups]]></category>
-		<guid isPermaLink="false">./../index.html?p=358</guid>
-
-					<description><![CDATA[<p>GN friends, things are humming along at AlphaBack! We&#8217;re excited to be working on the leaderboard feature, which we estimate will be complete in 2-3 weeks. We&#8217;re also getting some inbound talent conversations from community members who&#8217;ve been tracking our progress 👀 A final reminder: future emails will be sent via Mailchimp. Remember to&#160;sign-up for our [&#8230;]</p>
-<p>The post <a rel="nofollow" href="./../leaderboard-feature-coming-soon/index.html">Leaderboard Feature Coming Soon</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>GN friends, things are humming along at AlphaBack! We&#8217;re excited to be working on the leaderboard feature, which we estimate will be complete in 2-3 weeks. We&#8217;re also getting some inbound talent conversations from community members who&#8217;ve been tracking our progress <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f440.png" alt="👀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-
-
-
-<p>A final reminder: future emails will be sent via Mailchimp. Remember to&nbsp;<a href="http://eepurl.com/h4pPkz" target="_blank" rel="noreferrer noopener">sign-up for our email list here</a>.</p>
-
-
-
-<h3>Highlights</h3>
-
-
-
-<ul><li><strong>New feature.</strong> We broke ground on our new leaderboard feature that&#8217;s meant to drive product-led growth. Our goal is to launch 10 projects in two weeks, which we estimate will attract ~3,000 new users.</li><li><strong>Lining up projects</strong>. To meet our objective, we <a href="https://docs.google.com/presentation/d/1ijkyKkWW11_ehHQWr0cRFUCYkOOgyofjr0z24HM2Bp8/present#slide=id.p" target="_blank" rel="noreferrer noopener">prepared an explainer deck</a> that we&#8217;re using to review this opportunity with NFT / crypto projects. Your feedback is always welcome.</li><li><strong>Jamming together!</strong> I&#8217;m traveling to work in person with Sandeep this week. It&#8217;ll be an intense product-focused sprint.</li><li><strong>Fundraising</strong>. Another fantastic investor joined our cap table: welcome Singh Capital!</li></ul>
-
-
-
-<h3>Challenges</h3>
-
-
-
-<ul><li><strong>None <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64c.png" alt="🙌" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></li></ul>
-
-
-
-<h3>Asks</h3>
-
-
-
-<ul><li>Do you know of a project who&#8217;d be interested in free, effective promotions? Send them my way.</li></ul>
-
-
-
-<p>As usual, thank you for your ongoing support <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p><a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" target="_blank" rel="noreferrer noopener">Install the free AlphaBack Browser Extension</a>&nbsp;today!</p>
-<p>The post <a rel="nofollow" href="./../leaderboard-feature-coming-soon/index.html">Leaderboard Feature Coming Soon</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NFT News &#038; Drops from Parallax</title>
-		<link>./../nft-news-drops-from-parallax/index.html</link>
-		
-		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
-		<pubDate>Wed, 31 Aug 2022 10:18:00 +0000</pubDate>
+		<pubDate>Fri, 23 Sep 2022 00:29:25 +0000</pubDate>
 				<category><![CDATA[NFTs]]></category>
 		<category><![CDATA[Twitter Spaces Summaries]]></category>
 		<category><![CDATA[crypto]]></category>
 		<category><![CDATA[startups]]></category>
-		<category><![CDATA[Twitter Spaces]]></category>
-		<guid isPermaLink="false">./../index.html?p=329</guid>
+		<guid isPermaLink="false">./../index.html?p=505</guid>
 
-					<description><![CDATA[<p>YouTuber, The Parallax, shares NFT news about Kingship partnership with M&#038;M, Hello Kitty's NFT, a16z investment in Ready Player Me and more.</p>
-<p>The post <a rel="nofollow" href="./../nft-news-drops-from-parallax/index.html">NFT News &#038; Drops from Parallax</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
+					<description><![CDATA[<p>In this AMA summary, learn about AlphaBack (paid to surf extension for NFT projects), its cofounders' history, and what's next for the team.</p>
+<p>The post <a rel="nofollow" href="./../blog/ephere-x-alphaback-a-paid-to-surf-extension-for-nft-projects/index.html">Ephere x AlphaBack, a paid to surf extension for NFT projects</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[
-<p>In this<em> </em>summary of <span style="text-decoration: underline;">Shocking NFT News &amp; Top Upcoming NFT Drop</span>, host The Parallax discuss Kingship NFT&#8217;s partnership with M&amp;M candies, Hello Kitty&#8217;s NFT, a16z investment in Ready Player Me, CloneX NFTs going on-chain, and more.</p>
-
-
-
-<p><em>n.b. Summaries are edited for brevity and inconsistencies may occur due to crosstalk or audio quality. The content presented is not financial advice. Do your own research and review <a href="#disclaimerandrisks">the disclaimer below</a>.</em></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<h2>Parallax highlights NFT News &amp; Upcoming NFT Drops</h2>
-
-
-
-<p><a href="https://twitter.com/@EvilPlanIncCo">The Parallax</a> posted <em>Shocking NFT News &amp; Top Upcoming NFT Drop</em> on YouTube on Aug. 25, 2022:</p>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=S6RIY8yuGjc
-</div></figure>
-
-
-
-<p>Parallax&nbsp;starts by discussing the <em>Hello Kitty and Friends</em> project, by Recur (who also worked on <em>Hey Arnold</em>, <em>Rugrats</em>, and <em>Carebears</em>). There’s concern that all of the projects are too similar and don’t offer anything beyond collectible art.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="468" height="246" src="./../wp-content/uploads/2022/09/hellokitty.png" alt="" class="wp-image-339" srcset="./../wp-content/uploads/2022/09/hellokitty.png 468w, ./../wp-content/uploads/2022/09/hellokitty-300x158.png 300w" sizes="(max-width: 468px) 100vw, 468px" /></figure></div>
-
-
-<p>But some people will find the Nickelodeon game valuable: you buy a collectible, you trade it in, get some slime, and then you combine your entities. On the other hand, looking at the Nickelodeon floor price, people aren’t valuing those NFTs as much as they did when they first came out.</p>
-
-
-
-<p>Parallax&nbsp;takes a moment to promote the biweekly Parallax Academy courses, which focus on NFT marketing.&nbsp;There, he teaches about Ponzi schemes, bag holding culture, and how to create a project that doesn’t require bag holding. Instead, the focus will be on creating real value. Back to NFT news.</p>
-
-
-
-<h2>a16z Makes NFT News by Injecting $56M into this project</h2>
-
-
-
-<p>Parallax describes a new project called <em>Ready Player Me</em>, which just raised $56 million in the Series B from a16z. <em>Ready Player Me </em>is an avatar project, but there’s no NFT to buy. The project helps brands and companies create digital metaverse assets that can be used across worlds.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="468" height="245" src="./../wp-content/uploads/2022/09/readyplayerme.jpg" alt="" class="wp-image-340" srcset="./../wp-content/uploads/2022/09/readyplayerme.jpg 468w, ./../wp-content/uploads/2022/09/readyplayerme-300x157.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /></figure></div>
-
-
-<p>The challenge is that every metaverse has its own technical challenges.&nbsp;<em>Ready Player Me</em> is creating a standard, such that one avatar (or digital asset) works across many different metaverse worlds.&nbsp; So imagine creating a selfie avatar that works across all metaverses.</p>
-
-
-
-<h2>Generating 3D objects as NFTs</h2>
-
-
-
-<p>Next, Parallax describes <em><a href="https://deepobjects.ai/">Deepobjects AI</a></em>, which is likely creating 3D assets as NFTs. There’s not much to go on from the website, but Parallax guesstimates that they will be generating 3D sneakers, statues, and more.&nbsp;Unclear if the founders (FTR Studio) are being mysterious on purpose.</p>
-
-
-
-<h2>M&amp;M partners with Kingship, a BAYC-inspired musical group</h2>
-
-
-
-<p>In other news, M&amp;M candy recently partnered with Kingship, a musical band formed from Bored Ape NFT characters.&nbsp;The BAYC owners themselves are not the people behind the band necessarily. The intent is to make the musicians behind the NFT characters interchangeable over time.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="305" height="382" src="./../wp-content/uploads/2022/09/kingshipmm-1.png" alt="" class="wp-image-345" srcset="./../wp-content/uploads/2022/09/kingshipmm-1.png 305w, ./../wp-content/uploads/2022/09/kingshipmm-1-240x300.png 240w" sizes="(max-width: 305px) 100vw, 305px" /></figure></div>
-
-
-<p>In that partnership, the group will sell M&amp;M candy boxes in 4,000 limited-edition set. The rarest version includes custom-printed candies with Kingship group members Captain, King, Arnell and Hud in individually numbered boxes from 1 to 100. Parallax notes that this is an interesting use case of IP and NFTs, where multiple holders come together to create value through collaboration with a brand that can generate revenue for the partnership. Parallax expects other NFT collections (such as Azuki, Doodles, etc.) to iterate on this pattern if it proves valuable. Similarly, we’re going to see more brands in all sectors get into the NFT space. Parallax expects candy companies, jewelry companies, and watch companies will enter the fray soon.</p>
-
-
-
-<h2>CloneX goes on-chain</h2>
-
-
-
-<p>Changing gears, Parallax&nbsp;notes that CloneX has started migrating some of their metadata from off-chain to on-chain.&nbsp;More products are moving on-chain, and it’ll be interesting to see what brands have a 100-year vision and make assets immutable.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="512" height="512" src="./../wp-content/uploads/2022/09/image.png" alt="" class="wp-image-356" srcset="./../wp-content/uploads/2022/09/image.png 512w, ./../wp-content/uploads/2022/09/image-300x300.png 300w, ./../wp-content/uploads/2022/09/image-150x150.png 150w" sizes="(max-width: 512px) 100vw, 512px" /></figure></div>
-
-
-<h2>Lean new tech &amp; imagine how it applies to NFTs</h2>
-
-
-
-<p>Finally, Parallax&nbsp;notes that OpenAI, an artificial intelligence company, created a new feature that generates different clothing for characters, where the clothing moves in real time based on camera angles.&nbsp;NFT creators will have different ideas on how to use this technology.&nbsp;For instance, AI can generate a jacket asset that fits a particular NFT character model in a natural way, and yet it can fit another character with a different body type, too.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">AI fashion show using dall-e to generate hundreds of outfits of the day after tomorrow. An interesting way to brainstorm costume and fashion design ideas.<br><br>Collab with <a href="https://twitter.com/shyamagolden?ref_src=twsrc%5Etfw">@shyamagolden</a> <a href="https://twitter.com/OpenAI?ref_src=twsrc%5Etfw">@OpenAI</a> <a href="https://twitter.com/hashtag/dalle2?src=hash&amp;ref_src=twsrc%5Etfw">#dalle2</a> <a href="https://twitter.com/hashtag/dalle?src=hash&amp;ref_src=twsrc%5Etfw">#dalle</a> <a href="https://twitter.com/hashtag/aiart?src=hash&amp;ref_src=twsrc%5Etfw">#aiart</a> <a href="https://t.co/Fewhk529r7">pic.twitter.com/Fewhk529r7</a></p>&mdash; Paul Trillo (@paultrillo) <a href="https://twitter.com/paultrillo/status/1562106954096381952?ref_src=twsrc%5Etfw">August 23, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>Remember to follow other macro technology trends, because they eventually find their way into the NFT space.</p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p class="has-text-align-center">Liked this summary? You may also <a href="./../category/twitter-spaces-summaries/index.html">enjoy these</a>:</p>
-
-
-
-<div class="wp-container-4 wp-block-query"><ul class="wp-container-3 wp-block-post-template"><li class="wp-block-post post-362 post type-post status-publish format-standard has-post-thumbnail hentry category-twitter-spaces-summaries tag-entrepreneurship tag-nfts tag-startups tag-twitter-spaces tag-web3">
-<h5 class="has-text-align-center wp-block-post-title"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html" target="_self" rel="">Entrepreneurship in Web3: Lessons from CryptoPunks</a></h5>
-
-<figure class="alignwide wp-block-post-featured-image"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html"><img width="1200" height="400" src="./../wp-content/uploads/2022/09/image-1-1200x400.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Entrepreneurship in Web3: Lessons from CryptoPunks" loading="lazy" srcset="./../wp-content/uploads/2022/09/image-1-1200x400.png 1200w, ./../wp-content/uploads/2022/09/image-1-300x100.png 300w, ./../wp-content/uploads/2022/09/image-1-1024x341.png 1024w, ./../wp-content/uploads/2022/09/image-1-768x256.png 768w, ./../wp-content/uploads/2022/09/image-1.png 1500w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure>
-
-<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Various CryptoPunks join Twitter Spaces to discuss Entrepreneurship in Web3, highlighting BARRELX, ForeverPunks, and the PunksClub.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html">Read More</a></p></div>
-</li><li class="wp-block-post post-329 post type-post status-publish format-standard has-post-thumbnail hentry category-nfts category-twitter-spaces-summaries tag-crypto tag-nfts tag-startups tag-twitter-spaces">
-<h5 class="has-text-align-center wp-block-post-title"><a href="./../nft-news-drops-from-parallax/index.html" target="_self" rel="">NFT News &#038; Drops from Parallax</a></h5>
-
-<figure class="alignwide wp-block-post-featured-image"><a href="./../nft-news-drops-from-parallax/index.html"><img width="468" height="245" src="./../wp-content/uploads/2022/09/readyplayerme.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="NFT News &#038; Drops from Parallax" loading="lazy" srcset="./../wp-content/uploads/2022/09/readyplayerme.jpg 468w, ./../wp-content/uploads/2022/09/readyplayerme-300x157.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /></a></figure>
-
-<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">YouTuber, The Parallax, shares NFT news about Kingship partnership with M&#038;M, Hello Kitty&#8217;s NFT, a16z investment in Ready Player Me and more.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../nft-news-drops-from-parallax/index.html">Read More</a></p></div>
-</li></ul></div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p id="disclaimerandrisks"><em>Disclaimer &amp; Risks: This summary is for informational and entertainment purposes only and should not be relied upon as a basis for investment decisions. The host and guest may hold NFTs mentioned on the show, but that is not an endorsement or recommendation to buy any tokens or NFTs mentioned. Please do not follow any opinion as a specific strategy. Using crypto applications, wallets, protocols, and tools may expose users to risks including, but not limited to, smart contract bugs, systemic risk, flashloan attacks, economic incentive failures, liquidity crises, admin key exploits, governance exploits, and pegged assets such as stablecoins or tokenized BTC de-pegging.</em></p>
-<p>The post <a rel="nofollow" href="./../nft-news-drops-from-parallax/index.html">NFT News &#038; Drops from Parallax</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></content:encoded>
-					
 		
+					<wfw:commentRss>./../blog/ephere-x-alphaback-a-paid-to-surf-extension-for-nft-projects/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
-			</item>
-		<item>
-		<title>Content Performance &#038; Company Ops</title>
-		<link>./../content-performance-review-company-ops/index.html</link>
-		
-		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
-		<pubDate>Sun, 28 Aug 2022 19:15:08 +0000</pubDate>
-				<category><![CDATA[Retro]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<category><![CDATA[NFTs]]></category>
-		<category><![CDATA[startups]]></category>
-		<category><![CDATA[web3]]></category>
-		<guid isPermaLink="false">./../index.html?p=240</guid>
+		<enclosure url="./../wp-content/uploads/2022/09/nftdeals_to_alphaback.mp4" length="1203727" type="video/mp4" />
 
-					<description><![CDATA[<p>GM frens, our stakeholder list is growing and Gmail is starting to complain about sender volume. As a result, future updates will be posted on our blog and sent out via a newsletter service (Mailchimp) rather than individual emails. So if you&#8217;ve been hesitantly opening my updates, here&#8217;s your chance to let them fade into [&#8230;]</p>
-<p>The post <a rel="nofollow" href="./../content-performance-review-company-ops/index.html">Content Performance &#038; Company Ops</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>GM frens, our stakeholder list is growing and Gmail is starting to complain about sender volume. As a result, future updates will be posted on <a href="./../category/retro/index.html">our blog</a> and sent out via a newsletter service (Mailchimp) rather than individual emails. So if you&#8217;ve been hesitantly opening my updates, here&#8217;s your chance to let them fade into the background <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> But if you love hearing from us, then make sure you <a href="http://eepurl.com/h4pPkz">opt-in to our email list here</a>!</p>
-
-
-
-<h3>Highlights</h3>
-
-
-
-<ul><li><strong>Fundraising</strong>. We received two more introductions to follower-funds and one more written commitment. All told, the end is near and we&#8217;re excited to conclude our fundraising.</li><li><strong>Exploring SSP Shortcut</strong>. We explored fulfilling ad inventory immediately by using supply side platforms (SSP). We successfully opened accounts with two SSPs – no small feat as we must meet their stringent publisher requirements.</li><li><strong>Monitoring Content Series</strong>. As you know, we published a content marketing experiment where we <a href="./../category/twitter-spaces-summaries/index.html">summarize popular Twitter Spaces</a>. The blog is now 37% of page views (&#8220;PV&#8221;) in the last 14 days, up 110% from the prior 14 day period. Overall traffic is up 93% in the same time period, from 188 PV to 364 PV. Our goal is to generate ~600 PV per Summary over a 12 week period to consider that experiment a scalable success.</li></ul>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="616" src="./../wp-content/uploads/2022/08/image-10-1024x616.png" alt="" class="wp-image-256" srcset="./../wp-content/uploads/2022/08/image-10-1024x616.png 1024w, ./../wp-content/uploads/2022/08/image-10-300x181.png 300w, ./../wp-content/uploads/2022/08/image-10-768x462.png 768w, ./../wp-content/uploads/2022/08/image-10-1536x925.png 1536w, ./../wp-content/uploads/2022/08/image-10-1200x722.png 1200w, ./../wp-content/uploads/2022/08/image-10.png 1766w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Google Analytics showing performance of the blog posts relative to overall site traffic.</figcaption></figure>
-
-
-
-<ul><li><strong>Company Ops</strong>. We spent a few cycles polishing our surface areas, such as managing our signed agreements, setting up Carta for cap table management, and obtaining company insurance.</li></ul>
-
-
-
-<h3>Challenges</h3>
-
-
-
-<ul><li><strong>SSP Limitations</strong>. Despite opening accounts, various SSP limitations hinder our ability to take this shortcut. Instead, we&#8217;ll redouble efforts on the product leaderboard feature.</li></ul>
-
-
-
-<h3>Asks</h3>
-
-
-
-<ul><li>Do you know an NFT or Crypto project that&#8217;s interested in getting free exposure? Send me a note so we can collaborate with them.</li></ul>
-
-
-
-<p>As usual, we&#8217;re grateful for your ongoing support <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p><a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" target="_blank" rel="noreferrer noopener">Install the free AlphaBack Browser Extension</a>&nbsp;today!</p>
-<p>The post <a rel="nofollow" href="./../content-performance-review-company-ops/index.html">Content Performance &#038; Company Ops</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NFT Marketing: Brands, Platforms, and MLM</title>
-		<link>./../nft-marketing-brands-platforms-and-mlm/index.html</link>
-		
-		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
-		<pubDate>Thu, 25 Aug 2022 20:39:00 +0000</pubDate>
-				<category><![CDATA[Twitter Spaces Summaries]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[NFTs]]></category>
-		<category><![CDATA[Twitter Spaces]]></category>
-		<category><![CDATA[web3]]></category>
-		<guid isPermaLink="false">./../index.html?p=271</guid>
-
-					<description><![CDATA[<p>In this Twitter Spaces, Evil Plan Inc. and friends discuss NFT marketing tactics across brands, drawing comparisons to MLM schemes.</p>
-<p>The post <a rel="nofollow" href="./../nft-marketing-brands-platforms-and-mlm/index.html">NFT Marketing: Brands, Platforms, and MLM</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>In this <em>Twitter Spaces Summary</em> (#TSS) of <span style="text-decoration: underline;">Totally Uninformed Opinions on NFTs, Web3, Gaming, Tech, Startups &amp; VC</span>, hosts @EvilPlanInc, @SaylessLarry, and @jservesworld discuss NFT marketing tactics across brands, drawing comparisons to multi-level marketing (MLM) schemes.</p>
-
-
-
-<p><em>n.b. Summaries are edited for brevity and inconsistencies may occur due to crosstalk or audio quality. The content presented is not financial advice. Do your own research and review <a href="#disclaimerandrisks">the disclaimer below</a>.</em></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<h2>Totally Uninformed Opinions on NFT Marketing, Web3, and VC</h2>
-
-
-
-<p><a href="https://twitter.com/@EvilPlanIncCo">Evil Plan Inc.</a> hosted the daily show, Totally Uninformed Opinions on NFTs, Web3, Gaming, Tech, Startups &amp; VC on Aug. 17, 2022, with a runtime of <strong>41 hours</strong> and 6.3K people tuning in. </p>
-
-
-
-<p>Note, the show was so long and covered various topics unrelated to NFTs. Here is a summary of that Twitter Spaces with respect to NFT and crypto.</p>
-
-
-
-<h2>NFT Marketing is like MLM Schemes</h2>
-
-
-
-<ul type="rich"><li><strong>Bombay</strong> highlights how he used NFT communities to build his network. Now he can help projects with NFT marketing.</li></ul>
-
-
-
-<ul><li><strong>Noah Patterson</strong> mentions that Azuki spent $400,000 to build and market its NFT project. The key to successful NFT marketing is getting people to buy your project via psychology.</li><li><strong>SoldierSilent</strong> says that MLM schemes have seven principles of influence. The important element is that one person influences another. It&#8217;s all about social proof where people are selling Tupperware from house to house. <strong>SoldierSilent</strong> says he would pitch to a person, and then use that person to get introductions to the rest of their network<strong>. </strong>Using MLM strategy is all about creating an obligation to buy from a person you know. </li><li><strong>Noah Patterson</strong> compares MLMs to crypto: if you buy-in at the top (e.g., first), then you can sell to the rest and capture the most value. Most projects are cookie cutter, and it all comes down to the NFT marketing. Like MLM, crypto is all about having getting your friends to see the project.</li><li><strong>CryptoBella</strong> says she watched friends spin up NFT marketing companies in the last year. <strong>Noah Patterson</strong> chides that anyone who&#8217;s been in the NFT space for more than six months is a guru NFT marketer <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
-
-
-
-<h2>Blockbuster Making Moves into NFTs</h2>
-
-
-
-<ul><li><strong>Noah Patterson</strong> mentions that web3 is a new space that people want to become relevant in. In fact, <a href="https://retailtechinnovationhub.com/home/2022/7/25/blockbuster-back-from-the-grave-linked-with-nfts-move">there&#8217;s rumors that Blockbuster</a> is getting into the NFT space. Their advantage: people will trust the Blockbuster brand regardless of what they release.</li><li><strong>Jak</strong> believes Blockbuster will have an unlimited budget, and as a web3 project, they&#8217;ll be seeking an NFT influencer. <strong>Noah Patterson</strong> says he&#8217;d recommend someone from the gaming community (esp. fighting games) because of how many followers they have. Again, it&#8217;s all about NFT marketing.</li></ul>
-
-
-
-<h2>PlayNFT Launches NFT Marketplace For Twitch &amp; YouTube Streamers</h2>
-
-
-
-<ul><li><strong>CryptoBella</strong> talks about a new NFT utility platform called <a href="https://egamers.io/playnft-launches-nft-marketplace-for-twitch-youtube-streamers-worldwide/">PlayNFT</a>. It&#8217;s like Twitch or YouTube but gamers can have an NFT attached to their account so that they can sell and market their NFTs.<strong> </strong>Some 260 streamers signed up already. Users also get their own storefront for NFT marketing purposes, allowing them to offer their own branded tokens.</li></ul>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../wp-content/uploads/2022/08/image-11-1024x576.png" alt="PlayNFT offers strong NFT marketing opportunities by enabling users to offer their own tokens in a storefront." class="wp-image-324" srcset="./../wp-content/uploads/2022/08/image-11-1024x576.png 1024w, ./../wp-content/uploads/2022/08/image-11-300x169.png 300w, ./../wp-content/uploads/2022/08/image-11-768x432.png 768w, ./../wp-content/uploads/2022/08/image-11.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<ul><li>Speaking about video streamers, <strong>Noah Patterson</strong> mentions that OnlyFans couldn&#8217;t get VC backing because the content was too explicit. This is an opportunity for crypto. In fact, there&#8217;s one company that offers <a href="https://www.livecoinwatch.com/price/Porn-PORN">Porn Coin</a> that compensates sex workers via an OnlyFans like clone site.</li><li><strong>CryptoBella</strong> likes the notion of a streaming platform that allows creators to control what NFTs they hold and offer.</li><li><strong>Jak</strong> mentions that OpenSea would be better off without NSFW content. At least it&#8217;s not on OpenSea&#8217;s servers because the content is technically hosted on-chain. </li><li>Speaking of NFSW, <strong>MetaRuth_Eth</strong> says she&#8217;s excited for the evolution of technology and its safety features for OnlyFans&#8217; creators. Crypto is building a safer bridge from web2 to web2.5 and eventually to web3 for women. Similarly, new platforms can track how many people come into a metaverse space for sex workers, how long patrons stood in an area, and sell the virtual space as an NFT. <strong>MetaRuth_Eth</strong> says that she sits on the Immersive Emerging Technologies committee for the Indian Women&#8217;s Chamber of Commerce, and she has been showing that organization these features, leading to new perspectives.</li></ul>
-
-
-
-<h2>Post-Merge Consequences: Higher APR Yields and Multi-Generation NFTs</h2>
-
-
-
-<ul><li><strong>SoldierSilent</strong> says they sat in a presentation from a Coinbase product manager on staking. Prediction: APR yields will increase 50% post merge. As a result, the industry might go from 3% &#8211; 4% APR right now to 4% &#8211; 5% after the merge.</li><li><strong>SoldierSilent</strong> talks about how the difference between POW and POS is that the staking period is undetermined. He&#8217;s getting more ETH for staking compared to now, because POW is limited by capital.</li><li><strong>Dr. Nope</strong> says the ecosystem is where it is, and at the end of the day, the Merge is going to happen. <strong>Noah Patterson</strong> asks if NFTs should take on generation-1 and generation-2 designation for NFT marketing purposes. <strong>Dr. Nope</strong> says that&#8217;s a community choice. <strong>Noah Patterson</strong> talks about how it&#8217;s like when a country reissues currency, and it&#8217;s not recognized. It&#8217;s disruptive to the market.</li><li><strong>Dr. Nope</strong> the Merge will be a slow process. It&#8217;s a mission critical item for the Ethereum Foundation, and they’re running parallel chains to check errors, among other things. The switchover will be much more anti-climatic than people seem to believe.</li><li><strong>Dr. Nope</strong> believes this is an opportunity to in on the ground floor –&nbsp;again. He predicts Ethereum will reach $4k USD per ETH. But if people want it to be a common medium of exchange, crypto needs to achieve price stability. </li></ul>
-
-
-
-<h2>More People into Crypto Requires Stability and Lower Risk Perception</h2>
-
-
-
-<ul><li><strong>Dr. Nope</strong> says that most people’s risk tolerance is not high, so high risk assets are not attractive. Crypto has to smooth out the volatility to get pension funds involved.</li><li><strong>SoldierSilent</strong> notes that they have been trying to bring some of their friends into NFTs. The challenge is changing the public perception of crypto; until then it&#8217;ll be a high risk asset. The industry needs to self-police and work on its public image in order to bring mass adoption. Positive, non-spammy NFT marketing plays an important role in that capacity.</li><li><strong>Noah Patterson</strong> says people are content to put money in the bank with 1% &#8211; 2% percent returns. If projects can show 5% returns reliably, that&#8217;s going to be huge. But <strong>Dr. Nope</strong> emphasizes slow, sustained growth with minimal price action is the ideal path. Separately, retailers don&#8217;t accept crypto because they’re dealing with vendors who want fiat. It&#8217;s not feasible or realistic to force high risk tolerance down the supply chain.</li></ul>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p class="has-text-align-center">Liked this summary? You may also <a href="./../category/twitter-spaces-summaries/index.html">enjoy these</a>:</p>
-
-
-
-<div class="wp-container-6 wp-block-query"><ul class="wp-container-5 wp-block-post-template"><li class="wp-block-post post-362 post type-post status-publish format-standard has-post-thumbnail hentry category-twitter-spaces-summaries tag-entrepreneurship tag-nfts tag-startups tag-twitter-spaces tag-web3">
-<h5 class="has-text-align-center wp-block-post-title"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html" target="_self" rel="">Entrepreneurship in Web3: Lessons from CryptoPunks</a></h5>
-
-<figure class="alignwide wp-block-post-featured-image"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html"><img width="1200" height="400" src="./../wp-content/uploads/2022/09/image-1-1200x400.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Entrepreneurship in Web3: Lessons from CryptoPunks" loading="lazy" srcset="./../wp-content/uploads/2022/09/image-1-1200x400.png 1200w, ./../wp-content/uploads/2022/09/image-1-300x100.png 300w, ./../wp-content/uploads/2022/09/image-1-1024x341.png 1024w, ./../wp-content/uploads/2022/09/image-1-768x256.png 768w, ./../wp-content/uploads/2022/09/image-1.png 1500w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure>
-
-<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Various CryptoPunks join Twitter Spaces to discuss Entrepreneurship in Web3, highlighting BARRELX, ForeverPunks, and the PunksClub.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html">Read More</a></p></div>
-</li><li class="wp-block-post post-329 post type-post status-publish format-standard has-post-thumbnail hentry category-nfts category-twitter-spaces-summaries tag-crypto tag-nfts tag-startups tag-twitter-spaces">
-<h5 class="has-text-align-center wp-block-post-title"><a href="./../nft-news-drops-from-parallax/index.html" target="_self" rel="">NFT News &#038; Drops from Parallax</a></h5>
-
-<figure class="alignwide wp-block-post-featured-image"><a href="./../nft-news-drops-from-parallax/index.html"><img width="468" height="245" src="./../wp-content/uploads/2022/09/readyplayerme.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="NFT News &#038; Drops from Parallax" loading="lazy" srcset="./../wp-content/uploads/2022/09/readyplayerme.jpg 468w, ./../wp-content/uploads/2022/09/readyplayerme-300x157.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /></a></figure>
-
-<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">YouTuber, The Parallax, shares NFT news about Kingship partnership with M&#038;M, Hello Kitty&#8217;s NFT, a16z investment in Ready Player Me and more.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../nft-news-drops-from-parallax/index.html">Read More</a></p></div>
-</li></ul></div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p id="disclaimerandrisks"><em>Disclaimer &amp; Risks: This summary is for informational and entertainment purposes only and should not be relied upon as a basis for investment decisions. The host and guest may hold NFTs mentioned on the show, but that is not an endorsement or recommendation to buy any tokens or NFTs mentioned. Please do not follow any opinion as a specific strategy. Using crypto applications, wallets, protocols, and tools may expose users to risks including, but not limited to, smart contract bugs, systemic risk, flashloan attacks, economic incentive failures, liquidity crises, admin key exploits, governance exploits, and pegged assets such as stablecoins or tokenized BTC de-pegging.</em></p>
-<p>The post <a rel="nofollow" href="./../nft-marketing-brands-platforms-and-mlm/index.html">NFT Marketing: Brands, Platforms, and MLM</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Overlay Prototype &#038; Content Marketing</title>
-		<link>./../overlay-prototype-content-marketing/index.html</link>
-		
-		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
-		<pubDate>Mon, 22 Aug 2022 03:17:57 +0000</pubDate>
-				<category><![CDATA[Retro]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<category><![CDATA[NFTs]]></category>
-		<category><![CDATA[startups]]></category>
-		<category><![CDATA[Twitter Spaces]]></category>
-		<guid isPermaLink="false">./../index.html?p=231</guid>
-
-					<description><![CDATA[<p>Retro 8/21: We focused on allocating the last bits of our fundraise, experimenting with content marketing, and prototyping the ad overlay feature.</p>
-<p>The post <a rel="nofollow" href="./../overlay-prototype-content-marketing/index.html">Overlay Prototype &#038; Content Marketing</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>GN <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f31b.png" alt="🌛" class="wp-smiley" style="height: 1em; max-height: 1em;" /> It was another productive week for us, focused on allocating the last bits of our fundraise, experimenting with content marketing, and prototyping the ad overlay feature.</p>
-
-
-
-<h3>Highlights</h3>
-
-
-
-<ul><li><strong>Fundraising</strong>. We closed two more investors, adding 20+ years of combined digital media and consumer-app experience to the team. Just $300K left in the round <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f605.png" alt="😅" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li><li><strong>Debuted Content Series</strong>. We began experimenting with a content marketing strategy, wherein we <a href="./../category/twitter-spaces-summaries/index.html">summarize popular Twitter Spaces</a>. The goal is to generate SEO and shareable social media posts that are amplified by the Spaces&#8217; speakers.</li><li><strong>Overlay Prototype</strong>. Sandeep (Co-founder &amp; CTO) had a genius idea that will help us accelerate the advertising overlay prototype. We now have an internally released extension that can take over ads! It&#8217;s super cool to see it in action <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f60e.png" alt="😎" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
-
-
-
-<h3>Challenges</h3>
-
-
-
-<ul><li>None <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f973.png" alt="🥳" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
-
-
-
-<h3>Asks</h3>
-
-
-
-<ul><li>Shoot me a note if you&#8217;re interested in testing the ad overlay prototype!</li></ul>
-
-
-
-<p>As usual, we&#8217;re grateful for your ongoing support <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f64f.png" alt="🙏" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p><a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" target="_blank" rel="noreferrer noopener">Install the free AlphaBack Browser Extension</a>&nbsp;today!</p>
-<p>The post <a rel="nofollow" href="./../overlay-prototype-content-marketing/index.html">Overlay Prototype &#038; Content Marketing</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>8Aliens &#038; NFT Market Trends</title>
-		<link>./../8aliens-nft-market-trends/index.html</link>
-		
-		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
-		<pubDate>Wed, 17 Aug 2022 13:47:17 +0000</pubDate>
-				<category><![CDATA[NFTs]]></category>
-		<category><![CDATA[Twitter Spaces Summaries]]></category>
-		<category><![CDATA[8Aliens]]></category>
-		<category><![CDATA[non-fungible tokens]]></category>
-		<category><![CDATA[Twitter Spaces]]></category>
-		<guid isPermaLink="false">./../index.html?p=195</guid>
-
-					<description><![CDATA[<p>In this Twitter Spaces Summary (#TSS) of the NFT Morning Show, Pio.eth and friends review the latest NFT market trends and discuss 8Aliens.</p>
-<p>The post <a rel="nofollow" href="./../8aliens-nft-market-trends/index.html">8Aliens &#038; NFT Market Trends</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>In this <em>Twitter Spaces Summary</em> (#TSS) of the NFT Morning Show, Pio.eth, NFTNick.eth, and friends review the latest market trends and discuss 8Aliens. </p>
-
-
-
-<p><em>n.b. Summaries are edited for brevity and inconsistencies may occur due to crosstalk or audio quality. The content presented is not financial advice. Do your own research and review <a href="#disclaimerandrisks">the disclaimer below</a>.</em></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<h2>NFT Morning Show: 8Aliens, The Merge, and Market Trends</h2>
-
-
-
-<p><a href="https://twitter.com/piovincenzo_">Pio.eth</a> hosted the NFT Morning Radio on Aug. 15, 2022, with a runtime of 1:33:39 and 6.3K people tuning in.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="zxx" dir="ltr"><a href="https://t.co/PA2sIeHwUT">https://t.co/PA2sIeHwUT</a></p>&mdash; Pio.eth (@piovincenzo_) <a href="https://twitter.com/piovincenzo_/status/1559525419090690048?ref_src=twsrc%5Etfw">August 16, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>Here is a summary of that Twitter Spaces.</p>
-
-
-
-<h2>Are you buying 8Aliens?</h2>
-
-
-
-<ul><li><strong><a href="https://twitter.com/allnick">NFTNick.eth</a></strong> notes that he exited his positions. <strong>Pio.eth</strong> asks if he&#8217;s looking at buying anything on the NFT side. <strong>NFTNick.eth</strong> says no. <strong>NFTNick.eth</strong> talks about <strong>8Aliens</strong>, and jokes whether it can take over Bored Apes <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f606.png" alt="😆" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="614" src="./../wp-content/uploads/2022/08/image-8-1024x614.png" alt="8Aliens are collectible, interactive NFTs you can chat with." class="wp-image-199" srcset="./../wp-content/uploads/2022/08/image-8-1024x614.png 1024w, ./../wp-content/uploads/2022/08/image-8-300x180.png 300w, ./../wp-content/uploads/2022/08/image-8-768x461.png 768w, ./../wp-content/uploads/2022/08/image-8-1536x922.png 1536w, ./../wp-content/uploads/2022/08/image-8-2048x1229.png 2048w, ./../wp-content/uploads/2022/08/image-8-1200x720.png 1200w, ./../wp-content/uploads/2022/08/image-8-1980x1188.png 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Each Alien and its associated interactions are generated by algorithms and our Artificial Intelligence.</figcaption></figure>
-
-
-
-<ul><li><strong>NFTNick.eth</strong> says he&#8217;s looking for a discount on the top end of the NFT market. <strong>Pio.eth</strong> mentions that 8aliens was a project that caused Nick to raise his eyebrow on the YouTube show. <strong>Pio.eth</strong> deflects critiques that it was outrageous for his show to suggest that 8aliens (an NFT project with 10,000 supply) would go down in price.</li></ul>
-
-
-
-<figure class="wp-block-pullquote"><blockquote><p>8Aliens has been created by Heptalabs a team of 7 artists and engineers working on turning NFTs into interactive experiences</p><cite>8Aliens OpenSea Description</cite></blockquote></figure>
-
-
-
-<ul><li><strong><a href="https://twitter.com/SpeculatorArt">Kix.eth</a></strong> says he trashed allow-lists during the bull market, but he likes how 8aliens ensured a good portion of the NFTs were going to people that were bullish or invested in the project. A lot of the free mints get bought by multi wallets and sell at whatever price they want. <strong><a href="https://twitter.com/jesseshalfon">Jesse Halfon</a></strong> talks about how the people that made money were in their discord. </li><li><strong>Pio.eth</strong> notes that the most bullish thing for an NFT project is taking legit venture capital money. He mentions how the first bull run in the NFT space would be a fine art bull run and full adoption by the traditional art world.</li></ul>
-
-
-
-<h2>NFT Market Trends Report</h2>
-
-
-
-<ul><li><strong><a href="https://twitter.com/_thesignal">Signal (she/her)</a></strong> notes that overnight trading volume is 14.6 million, down from 25 million. She is seeing a pullback across the market, with BAYC at 79, MAYC at 13.7, and CryptoPunks at 69. <strong>Signal </strong>says the overall crypto is doing well, but the OpenSea volume is down in the mid teens.</li><li><strong>Pio.eth</strong> mentions that <a href="https://axie.substack.com/">Axie Infinity</a> has removed token rewards from its classic game mode to attract users to a <a href="https://cointelegraph.com/news/axie-infinity-cuts-rewards-from-classic-game-subtly-forcing-p2e-players-to-new-mode">new game mode</a>. </li><li><strong>NFTNick.eth</strong> notes that authorities arrested a developer who wrote code for Tornado Cash.</li></ul>
-
-
-
-<h2>How will the Merge impact NFTs?</h2>
-
-
-
-<ul><li><strong>Kix.eth</strong> considers a theory suggesting that ETH tops out at $2,200 USD per ETH. <strong>Kix.eth</strong> says the market may be seeing money out in the blue chip NFT projects based on his gut feeling.</li><li><strong>Node</strong> says he put in a couple of offers on different Clone X NFTs.</li><li><strong>Jesse Halfon</strong> offers technical non-analysis, saying ETH is going back to $1200 USD for a couple of months.<strong> </strong>But 2022 is the year of ETH –&nbsp;The Merge is coming. ETH is under-appreciated relative to the technicals, 2021 was the &#8220;Year of NFTs,&#8221; and &#8220;Bitcoin is for Boomers.&#8221; Narrative matters. </li><li><strong>Pio.eth</strong> says there&#8217;s a case to be made for sure, and there&#8217;s a lot of uncertainty around The Merge and its impact on price. </li><li><strong><a href="https://twitter.com/xBenJamminx">BenJammin.eth</a></strong> notes that they’re seeing an NFT bleed after people get excited for prices rising. With the Merge scheduled a month from now, people want to stack ETH because they believe the price will climb due to the Merge. We&#8217;ll likely see more NFT bleeding until then.</li></ul>
-
-
-
-<figure class="wp-block-pullquote has-text-align-left"><blockquote><p>focus on artists or creators that are trying to grow, rather than aping into NFT degen mints that are likely going to zero.</p><cite><strong>BenJammin.eth</strong></cite></blockquote></figure>
-
-
-
-<ul><li><strong>Pio.eth</strong> says it’s hard to identify which artists are favored by the market, but if you strike gold with that, you’ll get rewarded. </li><li><strong><a href="https://twitter.com/sgsand1">Spencer Gordon-Sand</a></strong> (&#8220;Spencer&#8221;) notes that they’ve been thinking about what happens post-Merge, and he feels giga-bearish on the NFT markets after the Merge. <strong>Spencer</strong> is surprised how well NFT markets have held up, and believes the markets have not seen true capitulation yet. He&#8217;s looking to enter positions on dumps and pick up large positions in a lot of blue chip NFTs.</li><li><strong>Kix.eth</strong> jokes that he&#8217;s going to create a narrative around the proof of work NFTs. Then he&#8217;s going to accumulate a bunch of CryptoPunks, Art Blocks, Bored Apes, and make millions.</li></ul>
-
-
-
-<h2>Which NFTs are worth buying? Which NFTs are scams?</h2>
-
-
-
-<ul><li><strong>Pio.eth</strong> talks about how there&#8217;s interest in Clone X succeeding because it was acquired for a lot of money by Nike. <strong>Pio.eth</strong> says he&#8217;s not bullish on [most?] NFT projects because they&#8217;ve taken money and not doing anything. <strong>Pio.eth</strong> notes that he could make a case that Moonbirds is a web3 business so long as Kevin Rose stays interested.</li><li><strong><a href="https://mobile.twitter.com/depechenode_">Node</a></strong>&#8216;s Twitter Poll shows that 60% of people who voted said that it was the most likely &#8220;Top Tier&#8221; project to fade into obscurity.</li></ul>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="600" height="600" src="./../wp-content/uploads/2022/08/image-9.png" alt="Azuki starts with a collection of 10,000 avatars that give you membership access to The Garden: a corner of the internet where artists, builders, and web3 enthusiasts meet to create a decentralized future." class="wp-image-220" srcset="./../wp-content/uploads/2022/08/image-9.png 600w, ./../wp-content/uploads/2022/08/image-9-300x300.png 300w, ./../wp-content/uploads/2022/08/image-9-150x150.png 150w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption>The Azuki NFT project is considered a top tier collection, but some question its long-term viability.</figcaption></figure>
-
-
-
-<ul><li><strong>Pio.eth</strong> says they&#8217;ve seen loyal communities to projects that were scams. <strong>NFTNick.eth</strong> mentions that 90% of communities have been loyal to scams. <strong>Node</strong> talks about how there&#8217;s loyalty for projects that never crack one ETH. <strong>Pio.eth</strong> inquires if Azuki raised venture money. <strong>NFTNick.eth</strong> notes that there&#8217;s plenty of people that took money out, and there&#8217;s stories of misuse of capital. <strong>NFTNick.eth</strong> talks about how there&#8217;s a bunch of people who took advantage of the market and operated without integrity.</li></ul>
-
-
-
-<h2>What signal do VCs convey when they invest in an NFT collection?</h2>
-
-
-
-<ul><li><strong>Node</strong> says the market is where it was in 2021. <strong>Spencer</strong> says he has mixed feelings on whether VC investment mean it&#8217;s a rug or not.<strong> </strong>He&#8217;s seen VC funded projects that tend to sell more new collections.Their incentive is to hit revenue and get acquired.</li><li><strong>NFTNick.eth</strong> talks about how VCs have been dumping on retail consumers via tokens, so integrity is a spectrum. <strong>Kix.eth</strong> says they agree with <strong>Pio.eth</strong>: if VCs invest in an NFT company, it means you can take the rug risk off the table because they&#8217;re betting on their own. <strong>Kix.eth</strong> mentions that Nike is making sure this is a legit operating team.</li><li><strong>Pio.eth</strong> notes that they are sick of NFT projects taking 80% of the primary sale funds and not hiring people. <strong>BenJammin.eth</strong> mentions that it’s a level of patience since hiring 40 to 50 people would take a while.</li></ul>
-
-
-
-<p><em>Note: this Twitter Spaces Summary represents only ~60 min. of the NFT Morning Show due to technical difficulties on our end. We&#8217;ll strive to capture the full show in future summaries.</em></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p class="has-text-align-center">Liked this summary? You may also <a href="./../category/twitter-spaces-summaries/index.html">enjoy these</a>:</p>
-
-
-
-<div class="wp-container-8 wp-block-query"><ul class="wp-container-7 wp-block-post-template"><li class="wp-block-post post-362 post type-post status-publish format-standard has-post-thumbnail hentry category-twitter-spaces-summaries tag-entrepreneurship tag-nfts tag-startups tag-twitter-spaces tag-web3">
-<h5 class="has-text-align-center wp-block-post-title"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html" target="_self" rel="">Entrepreneurship in Web3: Lessons from CryptoPunks</a></h5>
-
-<figure class="alignwide wp-block-post-featured-image"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html"><img width="1200" height="400" src="./../wp-content/uploads/2022/09/image-1-1200x400.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Entrepreneurship in Web3: Lessons from CryptoPunks" loading="lazy" srcset="./../wp-content/uploads/2022/09/image-1-1200x400.png 1200w, ./../wp-content/uploads/2022/09/image-1-300x100.png 300w, ./../wp-content/uploads/2022/09/image-1-1024x341.png 1024w, ./../wp-content/uploads/2022/09/image-1-768x256.png 768w, ./../wp-content/uploads/2022/09/image-1.png 1500w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure>
-
-<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Various CryptoPunks join Twitter Spaces to discuss Entrepreneurship in Web3, highlighting BARRELX, ForeverPunks, and the PunksClub.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html">Read More</a></p></div>
-</li><li class="wp-block-post post-329 post type-post status-publish format-standard has-post-thumbnail hentry category-nfts category-twitter-spaces-summaries tag-crypto tag-nfts tag-startups tag-twitter-spaces">
-<h5 class="has-text-align-center wp-block-post-title"><a href="./../nft-news-drops-from-parallax/index.html" target="_self" rel="">NFT News &#038; Drops from Parallax</a></h5>
-
-<figure class="alignwide wp-block-post-featured-image"><a href="./../nft-news-drops-from-parallax/index.html"><img width="468" height="245" src="./../wp-content/uploads/2022/09/readyplayerme.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="NFT News &#038; Drops from Parallax" loading="lazy" srcset="./../wp-content/uploads/2022/09/readyplayerme.jpg 468w, ./../wp-content/uploads/2022/09/readyplayerme-300x157.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /></a></figure>
-
-<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">YouTuber, The Parallax, shares NFT news about Kingship partnership with M&#038;M, Hello Kitty&#8217;s NFT, a16z investment in Ready Player Me and more.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../nft-news-drops-from-parallax/index.html">Read More</a></p></div>
-</li></ul></div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p id="disclaimerandrisks"><em>Disclaimer &amp; Risks: This summary is for informational and entertainment purposes only and should not be relied upon as a basis for investment decisions. The host and guest may hold NFTs mentioned on the show, but that is not an endorsement or recommendation to buy any tokens or NFTs mentioned. Please do not follow any opinion as a specific strategy. Using crypto applications, wallets, protocols, and tools may expose users to risks including, but not limited to, smart contract bugs, systemic risk, flashloan attacks, economic incentive failures, liquidity crises, admin key exploits, governance exploits, and pegged assets such as stablecoins or tokenized BTC de-pegging.</em></p>
-<p>The post <a rel="nofollow" href="./../8aliens-nft-market-trends/index.html">8Aliens &#038; NFT Market Trends</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Chimpers NFT and The Merge on Rug Radio</title>
-		<link>./../chimpers-nft-and-the-merge-on-rug-radio/index.html</link>
-		
-		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
-		<pubDate>Mon, 15 Aug 2022 23:31:04 +0000</pubDate>
-				<category><![CDATA[NFTs]]></category>
-		<category><![CDATA[Twitter Spaces Summaries]]></category>
-		<category><![CDATA[Chimpers NFT]]></category>
-		<category><![CDATA[non-fungible tokens]]></category>
-		<category><![CDATA[Rug Radio]]></category>
-		<category><![CDATA[Twitter Spaces]]></category>
-		<guid isPermaLink="false">./../index.html?p=171</guid>
-
-					<description><![CDATA[<p>Rug Radio host Farokh and friends discuss the Ethereum Merge, its consequences for NFTs, and insights about the Chimpers NFT project.</p>
-<p>The post <a rel="nofollow" href="./../chimpers-nft-and-the-merge-on-rug-radio/index.html">Chimpers NFT and The Merge on Rug Radio</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>In this <em>Twitter Spaces Summary</em> (#TSS) of Entrepreneurship and IP in web3 &#8211; BARRELX x PunksClub, you&#8217;ll learn about how to build in web3 five times faster than your competition.</p>
-
-
-
-<p><em>n.b. Summaries are edited for brevity and inconsistencies may occur due to crosstalk or audio quality. The content presented is not financial advice. Do your own research and review <a href="#disclaimerandrisks">the disclaimer below</a>.</em></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<h2>NFT Daily Summary, The Merge, and Chimpers NFT</h2>
-
-
-
-<p><a href="https://twitter.com/farokh/status/1558098734981988355">@Farokh</a> hosted RUG RADIO <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f399.png" alt="🎙" class="wp-smiley" style="height: 1em; max-height: 1em;" />: GM NFTs <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2600.png" alt="☀" class="wp-smiley" style="height: 1em; max-height: 1em;" /> on Aug. 12, 2022, with a runtime of 1:34:22 and 2.9K people tuning in.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
-<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="zxx" dir="ltr"><a href="https://t.co/G550mqCIIC">https://t.co/G550mqCIIC</a></p>&mdash; Farokh (<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9e9.png" alt="🧩" class="wp-smiley" style="height: 1em; max-height: 1em;" />,<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f9e9.png" alt="🧩" class="wp-smiley" style="height: 1em; max-height: 1em;" />) (@farokh) <a href="https://twitter.com/farokh/status/1558098734981988355?ref_src=twsrc%5Etfw">August 12, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div></figure>
-
-
-
-<p>Here is a summary of that Twitter Spaces.</p>
-
-
-
-<h2>Intro &amp; NFT Daily Summary</h2>
-
-
-
-<ul><li><strong>@Farokh</strong>&nbsp;wonders where his co-hosts are, roasting <strong>Mando (@greatmando_nft)</strong> for a few minutes because he was late <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </li><li>The <a href="https://linktr.ee/rugradio">Rug Radio</a> show starts with a macro and NFT daily summary.  <strong>@Farokh</strong> notes that Ethereum is looking strong and the NFT market is heating up; it&#8217;s fun.&nbsp;He adds that Chimpers NFT team will join them on stage. </li><li><strong>@Farokh</strong>&nbsp;jokes that he canceled Pio.eth&#8217;s show earlier that morning.&nbsp;<strong>Pio.eth (@piovincenzo_)</strong>&nbsp;said the Twitter Spaces audio wasn’t working and had to move the show to Discord audio, but it was not good –&nbsp;with about 50% audience drop-off.</li><li><strong>OSF (@osf_nft)</strong>&nbsp;gives the daily market report. He mentions that:<ul><li>there was a sell off in tech stocks</li></ul><ul><li>Bitcoin was flirting with 25k yesterday, and ETH is out performing everything.</li><li>the ETH Merge is being planned for the 15th or 16 September.</li><li>mentions that the proof of work involves a series of algorithms that validate transactions on their own rig, and miners get paid for performing those calculations</li><li>some miners may create a copy of the current network and continue running it as a proof of work methodology, which will duplicate all of the existing ERC tokens, NFTs, etc</li></ul></li></ul>
-
-
-
-<h2>What does the ETH Merge mean for your NFTs?</h2>
-
-
-
-<ul><li><strong>Mando (@greatmando_nft)</strong>&nbsp;notes that people have been buying Ethereum classic since the Merge became more on the horizon.</li><li><strong><strong>OSF (@osf_nft)</strong></strong>&nbsp;if miners fork Ethereum now, it will have all the transactions as of the fork&#8217;s date. He adds: <ul><li>Beware of replay attack, where you can replicate a transaction on proof of work from proof of work to proof of stake.&nbsp;</li><li>There&#8217;s a risk you end up selling your Ape on the <em>real</em> ETH proof of stake network at five Eth if you did that transaction on the forked proof of work chain.</li><li>Potential solution: transfer your NFTs on proof of work to a new wallet, and then sell it to minimize the risk of a replay attack.</li><li>Forked POW NFTs should be worth zero, but there may be a market for them. People love meme stuff.</li></ul></li></ul>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="700" height="772" src="./../wp-content/uploads/2022/08/image-6.png" alt="Proof of Work vs. Proof of Stake, accord. 3iQ Research Group. Source." class="wp-image-184" srcset="./../wp-content/uploads/2022/08/image-6.png 700w, ./../wp-content/uploads/2022/08/image-6-272x300.png 272w" sizes="(max-width: 700px) 100vw, 700px" /><figcaption>Proof of Work vs. Proof of Stake, accord. 3iQ Research Group. <a href="https://3iq.ca/consensus-mechanisms/">Source</a>.</figcaption></figure>
-
-
-
-<ul><li><strong>Simon (@Simon_Goldberg)</strong>&nbsp;notes that marketplaces (like OpenSea) have to support proof of work to buy or sell NFTs.</li><li><strong>@Farokh</strong>&nbsp;notes that there&#8217;s always going to be proof work miners on the chain.</li><li><strong>Mando (@greatmando_nft)</strong>&nbsp;notes that old chains might have some value.&nbsp;</li><li><strong>KΞNOBI (@KenobiDesigns)</strong> inquires if they will have to change terms of service to assign the right IP rights to things.&nbsp;</li><li><strong>Simon (@Simon_Goldberg)</strong>&nbsp;mentions that the contract owner will still have access to that contract on proof of work. Project creators have access to the metadata, and if they change one contract, they&#8217;d be able to remove all the data for that chain.&nbsp;</li><li><strong>@Farokh</strong>&nbsp;says they need a long form conversation about the Merge.</li></ul>
-
-
-
-<h2>NFT Market Trends</h2>
-
-
-
-<ul><li><strong>Mando (@greatmando_nft)</strong>&nbsp;mentions that the last three days have been 20 to 25 million volume, which sounds low but is up 60% from the lows of the last month. The top end of the market seems to be holding out, and the majority of the volumes are in newer projects.&nbsp;</li><li><strong>@Farokh</strong>&nbsp;notes that there’s not much going on aside from stuff minting. <a href="https://opensea.io/collection/clonex">Clone X</a> broke under 8 ETH, down 6%, and <a href="https://opensea.io/collection/goblintownwtf">Goblintown</a> is up 20%, but they were strong over 5 to 7 ETH for a long time.</li></ul>
-
-
-
-<figure class="wp-container-10 wp-block-gallery-9 wp-block-gallery has-nested-images columns-default is-cropped">
-<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="600" data-id="175"  src="./../wp-content/uploads/2022/08/d1c1bb644f74287ebc618e19bd1336a0.png" alt="A Goblintown NFT: who owns it after the Merge goes to Proof of Stake?" class="wp-image-175" srcset="./../wp-content/uploads/2022/08/d1c1bb644f74287ebc618e19bd1336a0.png 600w, ./../wp-content/uploads/2022/08/d1c1bb644f74287ebc618e19bd1336a0-300x300.png 300w, ./../wp-content/uploads/2022/08/d1c1bb644f74287ebc618e19bd1336a0-150x150.png 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="600" height="600" data-id="174"  src="./../wp-content/uploads/2022/08/c8e275a34da8220b1d4c1023ab2c14ed.png" alt="A Clone X NFT. Who owns it after the Merge goes to Proof of Stake?" class="wp-image-174" srcset="./../wp-content/uploads/2022/08/c8e275a34da8220b1d4c1023ab2c14ed.png 600w, ./../wp-content/uploads/2022/08/c8e275a34da8220b1d4c1023ab2c14ed-300x300.png 300w, ./../wp-content/uploads/2022/08/c8e275a34da8220b1d4c1023ab2c14ed-150x150.png 150w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
-</figure>
-
-
-
-<ul><li><strong>Mando (@greatmando_nft)</strong>&nbsp;says the vast majority of stuff is down over the last seven days, and every single mid tier projects is down 5 to 10%.&nbsp;Bored Apes are flat and CryptoPunks are relatively flat, but the top tier stuff is still holding. Some mid-tier projects are up: Penguins are up 50%. CryptoDickButts are up 60%. </li><li><strong>@Farokh</strong>&nbsp;notes that there&#8217;s been a lot of fun stuff you could get in on, and new projects are cracking up.&nbsp;<strong>@Farokh</strong>&nbsp;notes that they&#8217;ve had multiple sweeps over the last couple of weeks, and they don&#8217;t know if they&#8217;re going back into USDC because of the pump or just holding on to the ETH.</li><li><strong>Mando (@greatmando_nft)</strong>&nbsp;says if volume returns to a seasoned project, it’s getting sold into.&nbsp;He notes that there’s only very few projects out there, and when they see a pump, a lot of people will use this opportunity to sell. Mando says that the overall markets in OpenSea volumes are at 200 million in volume, which would show a bottoming of the NFT market.&nbsp;If OS does the same volume as July, that would be a good sign.</li></ul>
-
-
-
-<h2>Building NFT Brands in the Bear Market</h2>
-
-
-
-<ul><li><strong>@Farokh</strong>&nbsp;talks about how every pump brings on more listings, and every time your project goes up in value, there’s going to be a lot of people that are going to rush the list.&nbsp;He mentions that it’s going to be more work on the founder side this time around.&nbsp;Farokh&nbsp;notes that being a genuine founder in NFT isn’t easy at the moment, spending 100 plus hours a week trying to create value for holders, and any impact of work gets immediately sold.</li><li><strong>Mando (@greatmando_nft)</strong>&nbsp;notes that often the projects which are showing value are the ones which continue to deliver.&nbsp;He&nbsp;mentions that it makes sense that people want to secure their finances more during this period.&nbsp;</li><li><strong>@Farokh</strong>&nbsp;mentions that the market is so small, it&#8217;s complicated to the average person, and they need to go to the toilet three times.&nbsp;Farokh&nbsp;notes that if the month of August is just a month of uncertainty, it&#8217;s just a month of people really need liquidity.</li><li><strong>Mando (@greatmando_nft)</strong>&nbsp;notes that they&#8217;ve been given more opportunities to invest in startups in the space.&nbsp;It&#8217;s difficult to assess value and business plans.&nbsp;Mando says they often don&#8217;t know if a project isn&#8217;t doing well, and if they have the right founders, they can reenergize.&nbsp;The concept of 99% of projects going to zero means that 99% of founders are going to fail. Failure is going to have to be accepted. They would love to see a project which doesn’t feel like it’s hitting the right tone when it comes to the utility. They’d rather the whole community migrate to a new utility.</li><li><strong>@Farokh</strong>&nbsp;notes that a lot of people forget that building the community is one part and nurturing that community is the second part.&nbsp;It&#8217;s about being around and showing up.</li><li><strong>OSF (@osf_nft)</strong>&nbsp;says a lot of it comes down to how much money you took in upfront and what you stated you would do with that money. There are other ways you can drive value back to that project. <strong>@Farokh</strong>&nbsp;says that someone in their Discord built a model evaluation showing Rug Radio was valued at $60 million.&nbsp;</li><li><strong>OSF (@osf_nft)</strong>&nbsp;talks about how it took them a year to bring their project back to a level they were at.&nbsp;</li><li><strong>@Farokh</strong>&nbsp;notes that if you raise money last year and you&#8217;re giving up now, then you never had it.</li><li><strong>Ser Joey (@PunkHot10)</strong>&nbsp;says they understand that the duty to carry on and try is to increase revenue and profit, but people fail a lot within that.</li><li><strong>@Farokh</strong>&nbsp;notes how Ser Joey used to run a weekly chart where trending punks were voted on.&nbsp;</li></ul>
-
-
-
-<h2>Chimpers NFT: Background &amp; What&#8217;s Next</h2>
-
-
-
-<ul><li><strong>Timpers.eth <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f47e.png" alt="👾" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@TimpersHD)</strong>&nbsp;talks about joining the NFT space in February 2021.&nbsp;He says they started graphic design shop when he was 15 years old. He did a lot of Youtube videos, tutorials, and tips. Later, he went to university to study animation and got a degree in that. Timpers says he was lucky to work with BAYC in an art piece and that it went well.</li><li><strong>@Farokh</strong>&nbsp;inquires about how they got involved in Chimper NFT adventures.</li></ul>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="768" height="1024" src="./../wp-content/uploads/2022/08/image-7-768x1024.png" alt="Master Chimpo from Chimpers NFT has opened the Dojo doors! Are you ready?" class="wp-image-185" srcset="./../wp-content/uploads/2022/08/image-7-768x1024.png 768w, ./../wp-content/uploads/2022/08/image-7-225x300.png 225w, ./../wp-content/uploads/2022/08/image-7-1152x1536.png 1152w, ./../wp-content/uploads/2022/08/image-7-1536x2048.png 1536w, ./../wp-content/uploads/2022/08/image-7-1200x1600.png 1200w, ./../wp-content/uploads/2022/08/image-7-1980x2640.png 1980w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
-
-
-
-<ul><li><strong>Timpers.eth <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f47e.png" alt="👾" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@TimpersHD)</strong>&nbsp;notes that they built it up over a few years starting in 2015 and did a lot of streams.&nbsp;</li><li><strong>KΞNOBI (@KenobiDesigns)</strong>&nbsp;notes that Timpers has been reaching out to the community since they were teenagers.&nbsp;They were doing assignments while creating&nbsp;NFTs and Youtube videos.&nbsp;They started writing and reaching out to cool people on Twitter. <strong>KΞNOBI (@KenobiDesigns)</strong>&nbsp;notes that it&#8217;s tough to build a community. If you&#8217;re a project founder, it&#8217;s really important that you&#8217;re on the same level as your community.&nbsp;</li><li><strong>@Farokh</strong>&nbsp;notes that they’re using storytelling to build a door around their brand and nurture their community.</li><li><strong>KΞNOBI (@KenobiDesigns)</strong>&nbsp;mentions that the three pillars of <a href="https://theboringapechronicles.com/chimpers/">Chimpers</a> are art, law, and community.&nbsp;They created a story of apes embarking on a quest that led to Chimpers NFT.&nbsp;</li><li><strong>Timpers.eth <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f47e.png" alt="👾" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@TimpersHD)</strong>&nbsp;says they’ve been passionate about making it an immersive experience.&nbsp;</li><li><strong>KΞNOBI (@KenobiDesigns)</strong>&nbsp;notes that the main focus for them is <a href="https://theboringapechronicles.com/">The Boring Ape Chronicle</a> series, and that will involve a new chimpanzee story with art pieces.&nbsp;</li><li><strong>Ser Joey (@PunkHot10)</strong>&nbsp;notes that their job is to fill the NFT space with color.&nbsp;He also says: <ul><li>they’re training in the dojo and they’ve just released a Space Invader game that can win prizes.&nbsp;</li><li>they’re thinking of how they can do it to delight users and capture attention.&nbsp;</li></ul><ul><li>they want to make it a fun engaging adventure that everybody wants to be a part of.</li><li>they want to grow and create art, create law, and create an animation series.&nbsp;</li><li>they need to grow within the ecosystem NFT space, but they’re actively discussing with people outside to help them get where they want to go.&nbsp;</li></ul></li><li><strong>Timpers.eth <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f47e.png" alt="👾" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@TimpersHD)</strong>&nbsp;says they&#8217;re having too much fun with Chimpers NFT and they&#8217;ll continue working on the next adventure story.</li></ul>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="576" src="./../wp-content/uploads/2022/08/image-4-1024x576.png" alt="CHIMPERS NFT ARE A COLLECTION OF 5,555 GENERATIVE NFT PIXEL CHARACTERS CREATED BY @TIMPERSHD." class="wp-image-182" srcset="./../wp-content/uploads/2022/08/image-4-1024x576.png 1024w, ./../wp-content/uploads/2022/08/image-4-300x169.png 300w, ./../wp-content/uploads/2022/08/image-4-768x432.png 768w, ./../wp-content/uploads/2022/08/image-4.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p class="has-text-align-center">Liked this summary? You may also <a href="./../category/twitter-spaces-summaries/index.html">enjoy these</a>:</p>
-
-
-
-<div class="wp-container-12 wp-block-query"><ul class="wp-container-11 wp-block-post-template"><li class="wp-block-post post-362 post type-post status-publish format-standard has-post-thumbnail hentry category-twitter-spaces-summaries tag-entrepreneurship tag-nfts tag-startups tag-twitter-spaces tag-web3">
-<h5 class="has-text-align-center wp-block-post-title"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html" target="_self" rel="">Entrepreneurship in Web3: Lessons from CryptoPunks</a></h5>
-
-<figure class="alignwide wp-block-post-featured-image"><a href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html"><img width="1200" height="400" src="./../wp-content/uploads/2022/09/image-1-1200x400.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Entrepreneurship in Web3: Lessons from CryptoPunks" loading="lazy" srcset="./../wp-content/uploads/2022/09/image-1-1200x400.png 1200w, ./../wp-content/uploads/2022/09/image-1-300x100.png 300w, ./../wp-content/uploads/2022/09/image-1-1024x341.png 1024w, ./../wp-content/uploads/2022/09/image-1-768x256.png 768w, ./../wp-content/uploads/2022/09/image-1.png 1500w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></figure>
-
-<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">Various CryptoPunks join Twitter Spaces to discuss Entrepreneurship in Web3, highlighting BARRELX, ForeverPunks, and the PunksClub.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../entrepreneurship-in-web3-lessons-from-cryptopunks/index.html">Read More</a></p></div>
-</li><li class="wp-block-post post-329 post type-post status-publish format-standard has-post-thumbnail hentry category-nfts category-twitter-spaces-summaries tag-crypto tag-nfts tag-startups tag-twitter-spaces">
-<h5 class="has-text-align-center wp-block-post-title"><a href="./../nft-news-drops-from-parallax/index.html" target="_self" rel="">NFT News &#038; Drops from Parallax</a></h5>
-
-<figure class="alignwide wp-block-post-featured-image"><a href="./../nft-news-drops-from-parallax/index.html"><img width="468" height="245" src="./../wp-content/uploads/2022/09/readyplayerme.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="NFT News &#038; Drops from Parallax" loading="lazy" srcset="./../wp-content/uploads/2022/09/readyplayerme.jpg 468w, ./../wp-content/uploads/2022/09/readyplayerme-300x157.jpg 300w" sizes="(max-width: 468px) 100vw, 468px" /></a></figure>
-
-<div class="wp-block-post-excerpt"><p class="wp-block-post-excerpt__excerpt">YouTuber, The Parallax, shares NFT news about Kingship partnership with M&#038;M, Hello Kitty&#8217;s NFT, a16z investment in Ready Player Me and more.</p><p class="wp-block-post-excerpt__more-text"><a class="wp-block-post-excerpt__more-link" href="./../nft-news-drops-from-parallax/index.html">Read More</a></p></div>
-</li></ul></div>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p id="disclaimerandrisks"><em>Disclaimer &amp; Risks: This summary is for informational and entertainment purposes only and should not be relied upon as a basis for investment decisions. The host and guest may hold NFTs mentioned on the show, but that is not an endorsement or recommendation to buy any tokens or NFTs mentioned. Please do not follow any opinion as a specific strategy. Using crypto applications, wallets, protocols, and tools may expose users to risks including, but not limited to, smart contract bugs, systemic risk, flashloan attacks, economic incentive failures, liquidity crises, admin key exploits, governance exploits, and pegged assets such as stablecoins or tokenized BTC de-pegging.</em></p>
-<p>The post <a rel="nofollow" href="./../chimpers-nft-and-the-merge-on-rug-radio/index.html">Chimpers NFT and The Merge on Rug Radio</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Growth Marketing &#038; Fundraising Milestone</title>
-		<link>./../growth-marketing-fundraising-milestone/index.html</link>
-		
-		<dc:creator><![CDATA[Rod Fuentes]]></dc:creator>
-		<pubDate>Mon, 15 Aug 2022 01:16:21 +0000</pubDate>
-				<category><![CDATA[Retro]]></category>
-		<category><![CDATA[crypto]]></category>
-		<category><![CDATA[fundraising]]></category>
-		<category><![CDATA[growth marketing]]></category>
-		<category><![CDATA[NFTs]]></category>
-		<category><![CDATA[non-fungible tokens]]></category>
-		<guid isPermaLink="false">./../index.html?p=162</guid>
-
-					<description><![CDATA[<p>We're excited to lay the foundation of our growth marketing engine, and Commonwealth Asset Management (CWAM) is leading our fundraising 🎉</p>
-<p>The post <a rel="nofollow" href="./../growth-marketing-fundraising-milestone/index.html">Growth Marketing &#038; Fundraising Milestone</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>GM, GA, and GN! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44b.png" alt="👋" class="wp-smiley" style="height: 1em; max-height: 1em;" /> We&#8217;re pleased to announce that Commonwealth Asset Management (CWAM) joined our cap table <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f389.png" alt="🎉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Further, we laid the foundation of our growth marketing engine this week. More on that in the Highlights section, so keep reading!</p>
-
-
-
-<h3>Highlights</h3>
-
-
-
-<ul><li><strong>Fundraising</strong>. CWAM, a Los Angeles based asset management platform with $1.7B in assets and 27 team members, joined our cap table. We&#8217;re excited to partner with their crypto-focused team, bringing us just past $1.6M in written commitments. We&#8217;ll allocate the remaining $385,000 in the next few weeks, and soon we&#8217;ll wrap up fundraising to focus 100% on product and growth marketing <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png" alt="💪" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li><li><strong>Won Pitch Competition</strong>. We competed in <a href="https://www.youtube.com/watch?v=Cy7z7LekQgg&amp;t=1690s">Blockrocket&#8217;s monthly startup pitch competition</a> and won 1st Place!  </li><li><strong>Launched Blog</strong>. We migrated from Medium to our own blog, hosted in our domain&#8217;s subdirectory for maximum SEO and to generate inbound traffic. You&#8217;ll see <a href="./../koala-bot-club-talks-game-automation/index.html">more posts there</a>, as we turn on our growth marketing engine.</li><li><strong>Product Led Growth</strong>. We discussed and mocked a leaderboard feature so we can request a stronger call-to-action from NFT collections – pushing their communities to install our browser extension so that their members can upvote their NFTs. </li></ul>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="640" src="./../wp-content/uploads/2022/08/image-3-1024x640.png" alt="This Figma mockup shows a leaderboard feature that may power our growth marketing." class="wp-image-163" srcset="./../wp-content/uploads/2022/08/image-3-1024x640.png 1024w, ./../wp-content/uploads/2022/08/image-3-300x188.png 300w, ./../wp-content/uploads/2022/08/image-3-768x480.png 768w, ./../wp-content/uploads/2022/08/image-3-1536x960.png 1536w, ./../wp-content/uploads/2022/08/image-3-2048x1280.png 2048w, ./../wp-content/uploads/2022/08/image-3-1200x750.png 1200w, ./../wp-content/uploads/2022/08/image-3-1980x1238.png 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>We&#8217;re focusing on user growth marketing because we&#8217;re facing a classic chicken-and-egg challenge. We believe the solution is to attract a large user base in order to attract our first advertisers. Once advertisers initiate payments, we&#8217;ll pay users, which will attract more users – and thus, more advertisers.</p>
-
-
-
-<h3>Challenges</h3>
-
-
-
-<ul><li>None <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f440.png" alt="👀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li></ul>
-
-
-
-<h3>Asks</h3>
-
-
-
-<ul><li>Do you know anyone who is or was at <a href="https://www.rakuten.com/sem2/button.htm">Rakuten</a> or <a href="https://honey.is/">Honey</a>? We&#8217;d love to get their insights on growth marketing and partnership strategy. </li></ul>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p><a href="https://chrome.google.com/webstore/detail/alpha-back/oecacmanfecanoehhmhmjmpdlhffiihe" target="_blank" rel="noreferrer noopener">Install the free AlphaBack Browser Extension</a> today!</p>
-<p>The post <a rel="nofollow" href="./../growth-marketing-fundraising-milestone/index.html">Growth Marketing &#038; Fundraising Milestone</a> appeared first on <a rel="nofollow" href="./../index.html">AlphaBack</a>.</p>
-]]></content:encoded>
-					
-		
-		
 			</item>
 	</channel>
 </rss>
